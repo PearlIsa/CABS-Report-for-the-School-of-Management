@@ -1,0 +1,1001 @@
+id,name,city_name,count,country_code,country_name,latitude,linkout,longitude,recent_citations_total,types,state_name,acronym
+grid.6268.a,University of Bradford,Bradford,23078,GB,United Kingdom,53.791805,['http://www.bradford.ac.uk/external/'],-1.767268,80347.0,['Education'],,
+grid.9909.9,University of Leeds,Leeds,902,GB,United Kingdom,53.80722,['http://www.leeds.ac.uk/'],-1.551667,4461.0,['Education'],,
+grid.5379.8,University of Manchester,Manchester,419,GB,United Kingdom,53.46705,['http://www.manchester.ac.uk/'],-2.233884,2173.0,['Education'],Manchester,
+grid.11835.3e,University of Sheffield,Sheffield,395,GB,United Kingdom,53.38139,['http://www.sheffield.ac.uk/'],-1.488272,2693.0,['Education'],,
+grid.5685.e,University of York,York,330,GB,United Kingdom,53.9457,['http://www.york.ac.uk/'],-1.056188,2261.0,['Education'],York,
+grid.83440.3b,University College London,London,293,GB,United Kingdom,51.52447,['http://www.ucl.ac.uk/'],-0.1339817,2500.0,['Education'],,UCL
+grid.4563.4,University of Nottingham,Nottingham,255,GB,United Kingdom,52.93807,['http://www.nottingham.ac.uk/'],-1.196703,992.0,['Education'],Nottingham,
+grid.4991.5,University of Oxford,Oxford,245,GB,United Kingdom,51.753437,['http://www.ox.ac.uk/'],-1.2540097,1799.0,['Education'],Oxfordshire,
+grid.6572.6,University of Birmingham,Birmingham,242,GB,United Kingdom,52.450558,['http://www.birmingham.ac.uk/index.aspx'],-1.930556,1314.0,['Education'],,
+grid.418449.4,Bradford Teaching Hospitals NHS Foundation Trust,Bradford,219,GB,United Kingdom,53.805374,['https://www.bradfordhospitals.nhs.uk/'],-1.794669,1277.0,['Healthcare'],,
+grid.8391.3,University of Exeter,Exeter,199,GB,United Kingdom,50.737343,['http://www.exeter.ac.uk/'],-3.535159,1487.0,['Education'],,
+grid.9481.4,University of Hull,Hull,199,GB,United Kingdom,53.770264,['http://www2.hull.ac.uk/'],-0.367141,1040.0,['Education'],Kingston upon Hull,
+grid.1006.7,Newcastle University,Newcastle upon Tyne,195,GB,United Kingdom,54.978,['http://www.ncl.ac.uk/'],-1.615,1327.0,['Education'],,
+grid.15751.37,University of Huddersfield,Huddersfield,193,GB,United Kingdom,53.64324,['http://www.hud.ac.uk/'],-1.77837,1214.0,['Education'],,
+grid.8250.f,Durham University,Durham,191,GB,United Kingdom,54.76518,['https://www.dur.ac.uk/'],-1.578224,1167.0,['Education'],,
+grid.10025.36,University of Liverpool,Liverpool,188,GB,United Kingdom,53.406116,['http://www.liv.ac.uk/'],-2.965604,853.0,['Education'],,
+grid.5335.0,University of Cambridge,Cambridge,180,GB,United Kingdom,52.204453,['http://www.cam.ac.uk/'],0.114908,1716.0,['Education'],,
+grid.8756.c,University of Glasgow,Glasgow,178,GB,United Kingdom,55.872307,['http://www.gla.ac.uk/'],-4.288221,1017.0,['Education'],,
+grid.7372.1,University of Warwick,Coventry,169,GB,United Kingdom,52.379436,['http://www2.warwick.ac.uk/'],-1.561502,797.0,['Education'],Warwickshire,
+grid.13097.3c,King's College London,London,151,GB,United Kingdom,51.511417,['http://www.kcl.ac.uk/index.aspx'],-0.116727,1010.0,['Education'],,KCL
+grid.4777.3,Queen's University Belfast,Belfast,151,GB,United Kingdom,54.584595,['http://www.qub.ac.uk/'],-5.93406,743.0,['Education'],,QUB
+grid.418447.a,Bradford Royal Infirmary,Bradford,150,GB,United Kingdom,53.805832,['https://www.bradfordhospitals.nhs.uk/our-hospitals/bradford-royal-infirmary-bri/'],-1.794444,701.0,['Healthcare'],,BRI
+grid.6571.5,Loughborough University,Loughborough,148,GB,United Kingdom,52.766537,['http://www.lboro.ac.uk/'],-1.233786,1614.0,['Education'],England,
+grid.5600.3,Cardiff University,Cardiff,144,GB,United Kingdom,51.4877,['http://www.cardiff.ac.uk/'],-3.179,866.0,['Education'],,
+grid.9918.9,University of Leicester,Leicester,143,GB,United Kingdom,52.621323,['http://www.le.ac.uk/'],-1.124664,631.0,['Education'],,
+grid.56302.32,King Saud University,Riyadh,137,SA,Saudi Arabia,24.723982,['http://ksu.edu.sa/en/'],46.64584,781.0,['Education'],,KSU
+grid.5337.2,University of Bristol,Bristol,135,GB,United Kingdom,51.45639,['http://bristol.ac.uk/'],-2.604444,1115.0,['Education'],,
+grid.4827.9,Swansea University,Swansea,132,GB,United Kingdom,51.609722,['http://www.swansea.ac.uk/'],-3.980556,4029.0,['Education'],,
+grid.4305.2,University of Edinburgh,Edinburgh,130,GB,United Kingdom,55.944897,['http://www.ed.ac.uk/home'],-3.189284,1565.0,['Education'],,
+grid.9835.7,Lancaster University,Lancaster,128,GB,United Kingdom,54.010746,['http://www.lancaster.ac.uk/'],-2.790304,706.0,['Education'],Lancashire,
+grid.7445.2,Imperial College London,London,122,GB,United Kingdom,51.4986,['http://www.imperial.ac.uk/'],-0.175478,1385.0,['Education'],Westminster,
+grid.9759.2,University of Kent,Canterbury,121,GB,United Kingdom,51.296383,['http://www.kent.ac.uk/'],1.078317,1036.0,['Education'],Kent,
+grid.20409.3f,Edinburgh Napier University,Edinburgh,120,GB,United Kingdom,55.923122,['http://www.napier.ac.uk/alumni/Pages/home.aspx'],-3.228087,1319.0,['Education'],,
+grid.5491.9,University of Southampton,Southampton,118,GB,United Kingdom,50.93463,['http://www.southampton.ac.uk/'],-1.39595,873.0,['Education'],,
+grid.7273.1,Aston University,Birmingham,111,GB,United Kingdom,52.486,['http://www.aston.ac.uk/'],-1.8895,1591.0,['Education'],,
+grid.8752.8,University of Salford,Salford,107,GB,United Kingdom,53.484444,['http://www.salford.ac.uk/'],-2.271389,249.0,['Education'],Manchester,
+grid.7728.a,Brunel University London,London,104,GB,United Kingdom,51.53479,['http://www.brunel.ac.uk/'],-0.47153,1076.0,['Education'],,
+grid.9435.b,University of Reading,Reading,104,GB,United Kingdom,51.44083,['http://www.reading.ac.uk/'],-0.942503,435.0,['Education'],,
+grid.443984.6,St James's University Hospital,Leeds,103,GB,United Kingdom,53.808056,['http://www.leedsth.nhs.uk/patients-and-visitors/our-hospitals/st-james-university-hospital/'],-1.518611,678.0,['Healthcare'],,
+grid.42629.3b,Northumbria University,Newcastle upon Tyne,99,GB,United Kingdom,54.97755,['https://www.northumbria.ac.uk/'],-1.60504,501.0,['Education'],,
+grid.10346.30,Leeds Beckett University,Leeds,98,GB,United Kingdom,53.80417,['http://www.leedsbeckett.ac.uk/'],-1.549444,531.0,['Education'],,
+grid.8273.e,University of East Anglia,Norwich,98,GB,United Kingdom,52.621666,['https://www.uea.ac.uk/'],1.241667,912.0,['Education'],Norfolk,UEA
+grid.5475.3,University of Surrey,Guildford,96,GB,United Kingdom,51.243057,['http://www.surrey.ac.uk/'],-0.589444,672.0,['Education'],Surrey,
+grid.418161.b,Leeds General Infirmary,Leeds,93,GB,United Kingdom,53.80208,['http://www.leedsth.nhs.uk/home/'],-1.55083,408.0,['Healthcare'],,LGI
+grid.12082.39,University of Sussex,Brighton,92,GB,United Kingdom,50.865276,['http://www.sussex.ac.uk/'],-0.085556,175.0,['Education'],,
+grid.13063.37,London School of Economics and Political Science,London,91,GB,United Kingdom,51.51418,['http://www.lse.ac.uk/home.aspx'],-0.11772,389.0,['Education'],,LSE
+grid.415967.8,Leeds Teaching Hospitals NHS Trust,Leeds,90,GB,United Kingdom,53.805027,['http://www.leedsth.nhs.uk/home/'],-1.52188,532.0,['Healthcare'],,
+grid.23231.31,London Metropolitan University,London,89,GB,United Kingdom,51.551575,['http://www.londonmet.ac.uk/'],-0.110687,1215.0,['Education'],Southwark,LMU
+grid.4862.8,Glyndŵr University,Wrexham,87,GB,United Kingdom,53.053223,['http://www.glyndwr.ac.uk/'],-3.006465,346.0,['Education'],,GU 
+grid.7107.1,University of Aberdeen,Aberdeen,87,GB,United Kingdom,57.165062,['http://www.abdn.ac.uk/'],-2.102298,511.0,['Education'],,
+grid.11984.35,University of Strathclyde,Glasgow,86,GB,United Kingdom,55.861717,['http://www.strath.ac.uk/'],-4.2417,256.0,['Education'],,
+grid.12641.30,University of Ulster,Coleraine,86,GB,United Kingdom,55.147778,['http://www.ulster.ac.uk/'],-6.672222,434.0,['Education'],,UU
+grid.25627.34,Manchester Metropolitan University,Manchester,85,GB,United Kingdom,53.470295,['http://www2.mmu.ac.uk/'],-2.240949,968.0,['Education'],Manchester,MMU
+grid.510261.1,Middle Technical University,Baghdad,83,IQ,Iraq,33.31953,['https://www.mtu.edu.iq/'],44.365486,512.0,['Education'],,MTU
+grid.11201.33,University of Plymouth,Plymouth,82,GB,United Kingdom,50.375927,['https://www.plymouth.ac.uk/'],-4.139291,260.0,['Education'],Plymouth,
+grid.36076.34,University of Bolton,Bolton,81,GB,United Kingdom,53.573612,['http://www.bolton.ac.uk/Home.aspx'],-2.435833,837.0,['Education'],Manchester,
+grid.4425.7,Liverpool John Moores University,Liverpool,80,GB,United Kingdom,53.403,['https://www.ljmu.ac.uk/'],-2.97,270.0,['Education'],,LJMU
+grid.7943.9,University of Central Lancashire,Preston,80,GB,United Kingdom,53.76302,['http://www.uclan.ac.uk/'],-2.7074,719.0,['Education'],Lancashire,UCLan
+grid.10837.3d,The Open University,Milton Keynes,79,GB,United Kingdom,52.024296,['http://www.open.ac.uk/'],-0.70955026,197.0,['Education'],,OU
+grid.418236.a,GlaxoSmithKline (United Kingdom),London,78,GB,United Kingdom,51.4882,['http://uk.gsk.com/'],-0.31669,261.0,['Company'],,GSK
+grid.8155.9,University of Wales,Cardiff,78,GB,United Kingdom,51.4856,['http://www.wales.ac.uk/'],-3.1809938,93.0,['Education'],,
+grid.9757.c,Keele University,Newcastle-under-Lyme,76,GB,United Kingdom,53.003,['http://www.keele.ac.uk/'],-2.273,87.0,['Education'],,
+grid.513101.7,Wolfson Centre for Applied Health Research,Bradford,72,GB,United Kingdom,53.805374,['https://wolfsoncahr.uk/'],-1.794669,292.0,['Facility'],,WCAHR
+grid.1013.3,The University of Sydney,Sydney,70,AU,Australia,-33.88858,['http://sydney.edu.au/'],151.1873,382.0,['Education'],New South Wales,USYD
+grid.189504.1,Boston University,Boston,70,US,United States,42.3496,['http://www.bu.edu/'],-71.0997,474.0,['Education'],Massachusetts,BU
+grid.440568.b,Khalifa University of Science and Technology,Abu Dhabi,69,AE,United Arab Emirates,24.447926,['https://www.ku.ac.ae/'],54.394863,262.0,['Education'],,KUSTAR
+grid.4701.2,University of Portsmouth,Portsmouth,68,GB,United Kingdom,50.794807,['http://www.port.ac.uk/'],-1.091279,109.0,['Education'],Portsmouth,
+grid.8356.8,University of Essex,Colchester,68,GB,United Kingdom,51.877937,['http://www.essex.ac.uk/'],0.947196,1362.0,['Education'],Essex,
+grid.418920.6,COMSATS University Islamabad,Islamabad,67,PK,Pakistan,33.652843,['https://www.comsats.edu.pk/'],73.15655,885.0,['Education'],,CIIT
+grid.48815.30,De Montfort University,Leicester,67,GB,United Kingdom,52.62973,['http://www.dmu.ac.uk/home.aspx'],-1.13897,670.0,['Education'],,DMU
+grid.11918.30,University of Stirling,Stirling,65,GB,United Kingdom,56.1455,['http://www.stir.ac.uk/'],-3.9195,102.0,['Education'],Stirling,
+grid.421174.5,Instituto de Telecomunicações,Lisbon,65,PT,Portugal,38.73686,['https://www.it.pt/'],-9.139348,162.0,['Nonprofit'],,IT
+grid.5214.2,Glasgow Caledonian University,Glasgow,65,GB,United Kingdom,55.86588,['http://www.gcu.ac.uk/'],-4.249913,187.0,['Education'],,GCU
+grid.11914.3c,University of St Andrews,St Andrews,64,GB,United Kingdom,56.341724,['http://www.st-andrews.ac.uk/'],-2.792763,330.0,['Education'],Fife,
+grid.4491.8,Charles University,Prague,64,CZ,Czechia,50.0884,['http://www.cuni.cz/UKENG-1.html'],14.4037,571.0,['Education'],,
+grid.17236.31,Bournemouth University,Poole,62,GB,United Kingdom,50.74325,['https://www1.bournemouth.ac.uk/'],-1.897244,392.0,['Education'],,BU
+grid.30055.33,Dalian University of Technology,Dalian,61,CN,China,38.874443,['http://en.dlut.edu.cn/'],121.53361,723.0,['Education'],,DUT
+grid.417815.e,AstraZeneca (United Kingdom),Cambridge,61,GB,United Kingdom,51.51959,['http://www.astrazeneca.co.uk/home'],-0.181646,582.0,['Company'],,
+grid.4868.2,Queen Mary University of London,London,61,GB,United Kingdom,51.52428,['http://www.qmul.ac.uk/'],-0.040395,763.0,['Education'],,QMUL
+grid.5603.0,University of Greifswald,Greifswald,61,DE,Germany,54.09464,['http://www.uni-greifswald.de/?L=1'],13.374625,411.0,['Education'],,
+grid.60969.30,University of East London,London,61,GB,United Kingdom,51.50676,['http://www.uel.ac.uk/'],0.068631,77.0,['Education'],Newham,UEL
+grid.6530.0,University of Rome Tor Vergata,Rome,61,IT,Italy,41.85015,['http://web.uniroma2.it/home.php?newlang=italian'],12.597991,1282.0,['Education'],Lazio,
+grid.12527.33,Tsinghua University,Beijing,59,CN,China,39.999584,['https://www.tsinghua.edu.cn/'],116.32542,406.0,['Education'],Beijing,THU
+grid.13291.38,Sichuan University,Chengdu,59,CN,China,30.63016,['http://www.scu.edu.cn/en/'],104.09001,344.0,['Education'],,SCU
+grid.444483.b,Tun Hussein Onn University of Malaysia,Batu Pahat,59,MY,Malaysia,1.858605,['http://www.uthm.edu.my/v2/'],103.08553,190.0,['Education'],,UTHM
+grid.5884.1,Sheffield Hallam University,Sheffield,57,GB,United Kingdom,53.3786,['http://www.shu.ac.uk/'],-1.465633,203.0,['Education'],,SHU
+grid.8096.7,Coventry University,Coventry,57,GB,United Kingdom,52.406654,['http://www.coventry.ac.uk/'],-1.501672,280.0,['Education'],,
+grid.12361.37,Nottingham Trent University,Nottingham,56,GB,United Kingdom,52.9564,['http://www.ntu.ac.uk/'],-1.152,256.0,['Education'],,NTU
+grid.7628.b,Oxford Brookes University,Oxford,55,GB,United Kingdom,51.75518,['https://www.brookes.ac.uk/'],-1.224579,103.0,['Education'],Oxfordshire,OBU
+grid.4464.2,University of London,London,54,GB,United Kingdom,51.52111,['http://www.london.ac.uk/'],-0.128889,338.0,['Education'],,
+grid.7311.4,University of Aveiro,Aveiro,54,PT,Portugal,40.63032,['http://www.ua.pt/'],-8.657517,432.0,['Education'],,
+grid.5254.6,University of Copenhagen,Copenhagen,53,DK,Denmark,55.67972,['http://www.ku.dk/english/'],12.5725,1005.0,['Education'],,UCPH
+grid.8217.c,Trinity College Dublin,Dublin,53,IE,Ireland,53.34444,['https://www.tcd.ie/'],-6.2591925,311.0,['Education'],Dublin,TCD
+grid.1024.7,Queensland University of Technology,Brisbane,52,AU,Australia,-27.476833,['https://www.qut.edu.au/'],153.0284,499.0,['Education'],Queensland,QUT
+grid.22072.35,University of Calgary,Calgary,51,CA,Canada,51.0775,['http://www.ucalgary.ca/'],-114.13306,50.0,['Education'],Alberta,UoC
+grid.411198.4,Universidade Federal de Juiz de Fora,Juiz de Fora,51,BR,Brazil,-21.774721,['http://www.ufjf.br/portal/'],-43.368332,236.0,['Education'],,UFJF
+grid.7362.0,Bangor University,Bangor,51,GB,United Kingdom,53.2289,['http://www.bangor.ac.uk/'],-4.1301,317.0,['Education'],Gwynedd,BU
+grid.38142.3c,Harvard University,Cambridge,50,US,United States,42.377052,['http://www.harvard.edu/'],-71.11665,736.0,['Education'],Massachusetts,
+grid.410476.0,Universidad Publica de Navarra,Pamplona,50,ES,Spain,42.800556,['http://www.unavarra.es/home'],-1.636944,1031.0,['Education'],,
+grid.7886.1,University College Dublin,Dublin,50,IE,Ireland,53.307213,['http://www.ucd.ie/'],-6.222682,466.0,['Education'],Dublin,UCD
+grid.411576.0,University of Basrah,Basra,48,IQ,Iraq,30.561968,['http://www.uobasrah.edu.iq/'],47.749416,348.0,['Education'],,
+grid.429017.9,Indian Institute of Technology Kharagpur,Kharagpur,48,IN,India,22.319714,['http://www.iitkgp.ac.in/'],87.30997,673.0,['Education'],,IIT KGP
+grid.7340.0,University of Bath,Bath,47,GB,United Kingdom,51.3796,['http://www.bath.ac.uk/'],-2.328,165.0,['Education'],Bath and North East Somerset,
+grid.1008.9,University of Melbourne,Melbourne,46,AU,Australia,-37.797115,['http://www.unimelb.edu.au/'],144.95998,394.0,['Education'],Victoria,
+grid.10548.38,Stockholm University,Stockholm,46,SE,Sweden,59.365276,['http://www.su.se/english/'],18.058332,255.0,['Education'],,
+grid.17091.3e,University of British Columbia,Vancouver,45,CA,Canada,49.260674,['https://www.ubc.ca/'],-123.24608,508.0,['Education'],British Columbia,UBC
+grid.411305.2,University Ferhat Abbas of Setif,Sétif,45,DZ,Algeria,36.198326,['http://www.univ-setif.dz/'],5.365936,256.0,['Education'],,UFAS
+grid.44870.3f,University of Northampton,Northampton,45,GB,United Kingdom,52.250996,['http://www.northampton.ac.uk/'],-0.88968,283.0,['Education'],,
+grid.1005.4,UNSW Sydney,Sydney,44,AU,Australia,-33.917732,['https://www.unsw.edu.au/'],151.23096,439.0,['Education'],New South Wales,UNSW
+grid.17063.33,University of Toronto,Toronto,43,CA,Canada,43.661667,['http://www.utoronto.ca/'],-79.395,431.0,['Education'],Ontario,
+grid.23520.36,University of Burgos,Burgos,43,ES,Spain,42.341602,['https://www.ubu.es/english-version'],-3.727238,189.0,['Education'],,UBU
+grid.412621.2,Quaid-i-Azam University,Islamabad,43,PK,Pakistan,33.747223,['http://www.qau.edu.pk/'],73.138885,274.0,['Education'],,QAU
+grid.7110.7,University of Sunderland,Sunderland,43,GB,United Kingdom,54.90466,['http://www.sunderland.ac.uk/'],-1.391303,117.0,['Education'],,
+grid.1002.3,Monash University,Melbourne,42,AU,Australia,-37.9083,['http://www.monash.edu/'],145.138,232.0,['Education'],Victoria,
+grid.439224.a,Mid Yorkshire Hospitals NHS Trust,Wakefield,42,GB,United Kingdom,53.68963,['http://www.midyorks.nhs.uk/'],-1.31022,172.0,['Healthcare'],,
+grid.26597.3f,Teesside University,Middlesbrough,40,GB,United Kingdom,54.56965,['http://www.tees.ac.uk/'],-1.235446,85.0,['Education'],Middlesbrough,
+grid.411323.6,Lebanese American University,Beirut,40,LB,Lebanon,33.892776,['http://www.lau.edu.lb/'],35.47778,482.0,['Education'],,
+grid.6518.a,University of the West of England,Bristol,40,GB,United Kingdom,51.50021,['http://www.uwe.ac.uk/'],-2.54749,769.0,['Education'],South Gloucestershire,UWE
+grid.16890.36,Hong Kong Polytechnic University,Hong Kong,39,CN,China,22.304888,['http://www.polyu.edu.hk/web/en/home/index.html'],114.179184,278.0,['Education'],,HKPU
+grid.411681.b,Bharati Vidyapeeth Deemed University,Pune,39,IN,India,18.458076,['http://www.bharatividyapeeth.edu/default.htm'],73.85564,206.0,['Education'],Maharashtra,
+grid.7872.a,University College Cork,Cork,39,IE,Ireland,51.89148,['http://www.ucc.ie/en/'],-8.497667,148.0,['Education'],,UCC
+grid.419477.8,Materials and Energy Research Center,Tehran,38,IR,Iran,35.72994,['https://en.merc.ac.ir/'],51.28385,272.0,['Facility'],,MERC
+grid.5292.c,Delft University of Technology,Delft,38,NL,Netherlands,52.002792,['http://www.tudelft.nl/en/'],4.370898,869.0,['Education'],Zuid-Holland,
+grid.6374.6,University of Wolverhampton,Wolverhampton,38,GB,United Kingdom,52.587223,['http://www.wlv.ac.uk/'],-2.127222,108.0,['Education'],,
+grid.7836.a,University of Cape Town,Rondebosch,38,ZA,South Africa,-33.9575,['http://www.uct.ac.za/'],18.460556,194.0,['Education'],,UCT
+grid.411746.1,Iran University of Medical Sciences,Tehran,37,IR,Iran,35.74835,['http://www.iums.ac.ir/'],51.380363,293.0,['Education'],,IUMS
+grid.412125.1,King Abdulaziz University,Jeddah,37,SA,Saudi Arabia,21.493889,['http://www.kau.edu.sa/home_english.aspx'],39.25028,624.0,['Education'],,KAU
+grid.419093.6,Shanghai Institute of Materia Medica,Pudong,37,CN,China,31.201998,['http://english.simm.cas.cn/au'],121.58737,244.0,['Facility'],,SIMM
+grid.7737.4,University of Helsinki,Helsinki,37,FI,Finland,60.17251,['https://www.helsinki.fi/'],24.950956,1165.0,['Education'],,UH
+grid.8241.f,University of Dundee,Dundee,37,GB,United Kingdom,56.457222,['http://www.dundee.ac.uk/'],-2.980278,175.0,['Education'],,
+grid.412603.2,Qatar University,Doha,36,QA,Qatar,25.377226,['http://www.qu.edu.qa/'],51.48715,469.0,['Education'],,
+grid.478592.5,British Antarctic Survey,Cambridge,36,GB,United Kingdom,52.212963,['https://www.bas.ac.uk/'],0.079801,103.0,['Government'],,BAS
+grid.5846.f,University of Hertfordshire,Hatfield,35,GB,United Kingdom,51.751785,['http://www.herts.ac.uk/'],-0.239045,65.0,['Education'],,
+grid.5100.4,University of Bucharest,Bucharest,34,RO,Romania,44.435555,['http://www.unibuc.ro/'],26.101116,114.0,['Education'],,
+grid.9026.d,Universität Hamburg,Hamburg,34,DE,Germany,53.566944,['http://www.uni-hamburg.de/'],9.983889,157.0,['Education'],,UHH
+grid.25879.31,University of Pennsylvania,Philadelphia,33,US,United States,39.952457,['http://www.upenn.edu/'],-75.19322,146.0,['Education'],Pennsylvania,
+grid.4970.a,Royal Holloway University of London,Egham,33,GB,United Kingdom,51.425873,['https://www.royalholloway.ac.uk/home.aspx'],-0.563073,230.0,['Education'],Surrey,
+grid.5284.b,University of Antwerp,Antwerp,33,BE,Belgium,51.22273,['https://www.uantwerpen.be/en/'],4.40843,263.0,['Education'],,
+grid.5342.0,Ghent University,Ghent,33,BE,Belgium,51.046764,['https://www.ugent.be/en'],3.727875,204.0,['Education'],,
+grid.24516.34,Tongji University,Shanghai,32,CN,China,31.281977,['http://www.tongji.edu.cn/'],121.506195,93.0,['Education'],,
+grid.252487.e,Assiut University,Assiut,32,EG,Egypt,27.188236,['http://www.aun.edu.eg/'],31.169586,95.0,['Education'],,
+grid.28577.3f,"City, University of London",London,32,GB,United Kingdom,51.52795,['http://www.city.ac.uk'],-0.102269,198.0,['Education'],,
+grid.410658.e,University of South Wales,Pontypridd,32,GB,United Kingdom,51.480114,['http://www.southwales.ac.uk/'],-3.168933,140.0,['Education'],,
+grid.411668.c,Universitätsklinikum Erlangen,Erlangen,32,DE,Germany,49.599445,['http://www.uk-erlangen.de/en/'],11.010556,75.0,['Healthcare'],,
+grid.5115.0,Anglia Ruskin University,Cambridge,32,GB,United Kingdom,52.203804,['http://www.anglia.ac.uk/'],0.1330127,123.0,['Education'],Cambridgeshire,ARU
+grid.5330.5,University of Erlangen-Nuremberg,Erlangen,32,DE,Germany,49.59788,['https://www.fau.de/'],11.004508,136.0,['Education'],Bayern,FAU
+grid.5596.f,KU Leuven,Leuven,32,BE,Belgium,50.878162,['http://www.kuleuven.be/english'],4.700263,347.0,['Education'],,KUL
+grid.5719.a,University of Stuttgart,Stuttgart,32,DE,Germany,48.781666,['http://www.uni-stuttgart.de/home/index.en.html'],9.175278,5.0,['Education'],,
+grid.10049.3c,University of Limerick,Limerick,31,IE,Ireland,52.674,['http://www.ul.ie/'],-8.571,265.0,['Education'],,UL
+grid.266190.a,University of Colorado Boulder,Boulder,31,US,United States,40.007366,['http://www.colorado.edu/'],-105.26526,328.0,['Education'],Colorado,UCB
+grid.36511.30,University of Lincoln,Lincoln,31,GB,United Kingdom,53.22831,['http://www.lincoln.ac.uk/home/'],-0.550374,134.0,['Education'],Lincolnshire,
+grid.416472.2,St. Luke's Hospital,Bradford,31,GB,United Kingdom,53.782967,['https://www.bradfordhospitals.nhs.uk/our-hospitals/st-lukes-hospital/'],-1.761814,101.0,['Healthcare'],,
+grid.4830.f,University of Groningen,Groningen,31,NL,Netherlands,53.219444,['http://www.rug.nl/'],6.562966,647.0,['Education'],Groningen,
+grid.10420.37,University of Vienna,Vienna,30,AT,Austria,48.213055,['https://www.univie.ac.at/en/'],16.359722,536.0,['Education'],,
+grid.25073.33,McMaster University,Hamilton,30,CA,Canada,43.263332,['http://www.mcmaster.ca/'],-79.91889,45.0,['Education'],Ontario,
+grid.14709.3b,McGill University,Montreal,29,CA,Canada,45.504166,['http://www.mcgill.ca/'],-73.57472,181.0,['Education'],Quebec,
+grid.15538.3a,Kingston University,London,29,GB,United Kingdom,51.40559,['http://www.kingston.ac.uk/'],-0.305933,28.0,['Education'],,KUL
+grid.17089.37,University of Alberta,Edmonton,29,CA,Canada,53.52378,['http://ualberta.ca/'],-113.52907,167.0,['Education'],Alberta,
+grid.19873.34,Staffordshire University,Stoke-on-Trent,29,GB,United Kingdom,53.009483,['http://www.staffs.ac.uk/'],-2.176175,59.0,['Education'],,
+grid.257065.3,Hohai University,Nanjing,29,CN,China,32.058887,['http://en.hhu.edu.cn/'],118.754166,204.0,['Education'],,
+grid.419518.0,Max Planck Institute for Evolutionary Anthropology,Leipzig,29,DE,Germany,51.320557,['http://www.eva.mpg.de/index.html'],12.394444,285.0,['Facility'],,
+grid.4818.5,Wageningen University & Research,Wageningen,29,NL,Netherlands,51.984753,['https://www.wur.nl/'],5.665749,262.0,['Education'],,WUR
+grid.8536.8,Federal University of Rio de Janeiro,Rio de Janeiro,29,BR,Brazil,-22.953331,['http://www.ufrj.br/'],-43.17429,70.0,['Education'],,UFRJ
+grid.1001.0,Australian National University,Canberra,28,AU,Australia,-35.2778,['http://www.anu.edu.au/'],149.1205,418.0,['Education'],Australian Capital Territory,ANU
+grid.10251.37,Mansoura University,Al Mansurah,28,EG,Egypt,31.040504,['http://www.mans.edu.eg/en/'],31.357851,534.0,['Education'],,
+grid.10347.31,University of Malaya,Kuala Lumpur,28,MY,Malaysia,3.120833,['https://www.um.edu.my/'],101.65639,103.0,['Education'],,UM
+grid.10825.3e,University of Southern Denmark,Odense,28,DK,Denmark,55.36861,['http://www.sdu.dk/en/'],10.428056,228.0,['Education'],Syddanmark,SDU
+grid.12026.37,Cranfield University,Cranfield,28,GB,United Kingdom,52.073334,['http://www.cranfield.ac.uk/'],-0.627778,273.0,['Education'],,
+grid.15822.3c,Middlesex University,London,28,GB,United Kingdom,51.589718,['http://www.mdx.ac.uk/'],-0.226912,248.0,['Education'],,
+grid.411600.2,Shahid Beheshti University of Medical Sciences,Tehran,28,IR,Iran,35.77136,['http://en.sbmu.ac.ir/'],51.410526,194.0,['Education'],,SBMU
+grid.411705.6,Tehran University of Medical Sciences,Tehran,28,IR,Iran,35.748272,['http://gsia.tums.ac.ir/en'],51.38122,190.0,['Education'],,TUMS
+grid.416375.2,Manchester Royal Eye Hospital,Manchester,28,GB,United Kingdom,53.461945,['http://www.cmft.nhs.uk/royal-eye'],-2.228611,117.0,['Healthcare'],,
+grid.47840.3f,"University of California, Berkeley",Berkeley,28,US,United States,37.87216,['http://www.berkeley.edu/'],-122.258575,222.0,['Education'],California,UCB
+grid.6292.f,University of Bologna,Bologna,28,IT,Italy,44.49389,['http://www.unibo.it/en/homepage'],11.342778,355.0,['Education'],Emilia-Romagna,UNIBO
+grid.6906.9,Erasmus University Rotterdam,Rotterdam,28,NL,Netherlands,51.915684,['http://www.eur.nl/english/'],4.525846,294.0,['Education'],Zuid-Holland,EUR
+grid.8761.8,University of Gothenburg,Gothenburg,28,SE,Sweden,57.698345,['http://www.gu.se/english'],11.971846,624.0,['Education'],,
+grid.88379.3d,"Birkbeck, University of London",London,28,GB,United Kingdom,51.522152,['http://www.bbk.ac.uk/front-page'],-0.130236,130.0,['Education'],,BBK
+grid.9654.e,University of Auckland,Auckland,28,NZ,New Zealand,-36.852303,['https://www.auckland.ac.nz/en.html'],174.76773,318.0,['Education'],,
+grid.474329.f,British Geological Survey,Nottingham,27,GB,United Kingdom,52.954765,['http://www.bgs.ac.uk/'],-1.159083,469.0,['Government'],,BGS
+grid.5216.0,National and Kapodistrian University of Athens,Athens,27,GR,Greece,37.968266,['http://en.uoa.gr/'],23.778343,191.0,['Education'],Attiki,
+grid.10784.3a,Chinese University of Hong Kong,Hong Kong,26,CN,China,22.419722,['http://www.cuhk.edu.hk/english/index.html'],114.206795,109.0,['Education'],,CUHK
+grid.11899.38,Universidade de São Paulo,São Paulo,26,BR,Brazil,-23.563051,['http://www5.usp.br/en/'],-46.730103,125.0,['Education'],,USP
+grid.19822.30,Birmingham City University,Birmingham,26,GB,United Kingdom,52.517223,['http://www.bcu.ac.uk/'],-1.898056,162.0,['Education'],,BCU
+grid.254250.4,City College of New York,New York,26,US,United States,40.8194,['http://www.ccny.cuny.edu/'],-73.95,2.0,['Education'],New York,CCNY
+grid.29857.31,Pennsylvania State University,State College,26,US,United States,40.79845,['http://www.psu.edu/'],-77.85993,531.0,['Education'],Pennsylvania,PSU
+grid.34428.39,Carleton University,Ottawa,26,CA,Canada,45.3831,['http://www.carleton.ca/'],-75.6976,208.0,['Education'],Ontario,
+grid.411439.a,Pitié-Salpêtrière Hospital,Paris,26,FR,France,48.837,['http://pitiesalpetriere.aphp.fr/'],2.365,22.0,['Healthcare'],,
+grid.411776.2,Istanbul Medeniyet University,Istanbul,26,TR,Turkey,40.994637,['http://medeniyet.edu.tr/homepage.html'],29.066029,463.0,['Education'],,
+grid.411782.9,University of Lagos,Lagos,26,NG,Nigeria,6.5158296,['http://www.unilag.edu.ng/'],3.3899834,67.0,['Education'],Lagos,
+grid.418566.8,Pfizer (United Kingdom),Tadworth,26,GB,United Kingdom,51.27179,['http://www.pfizer.co.uk/'],-0.253608,77.0,['Company'],Surrey,
+grid.1004.5,Macquarie University,Sydney,25,AU,Australia,-33.775257,['http://mq.edu.au/'],151.11292,346.0,['Education'],New South Wales,
+grid.1022.1,Griffith University,Brisbane,25,AU,Australia,-27.47061,['http://www.griffith.edu.au/'],153.02286,263.0,['Education'],Queensland,
+grid.10392.39,University of Tübingen,Tübingen,25,DE,Germany,48.525,['https://www.uni-tuebingen.de/en/university.html'],9.059,304.0,['Education'],,
+grid.240145.6,The University of Texas MD Anderson Cancer Center,Houston,25,US,United States,29.70706,['http://www.mdanderson.org/'],-95.39697,4.0,['Healthcare'],Texas,
+grid.412258.8,Tanta University,Tanta,25,EG,Egypt,30.791172,['http://www.tanta.edu.eg/en/'],30.998539,262.0,['Education'],,
+grid.430387.b,"Rutgers, The State University of New Jersey",New Brunswick,25,US,United States,40.740875,['http://www.rutgers.edu/'],-74.1739,141.0,['Education'],New Jersey,RU
+grid.519565.b,SARAS Technology (United Kingdom),Leeds,25,GB,United Kingdom,53.7934,['https://www.sarastech.co.uk/'],-1.60073,235.0,['Company'],,
+grid.7551.6,German Aerospace Center,Cologne,25,DE,Germany,50.85507,['http://www.dlr.de/dlr/en/desktopdefault.aspx/tabid-10002/'],7.119569,228.0,['Facility'],,DLR
+grid.8048.4,University of Castilla-La Mancha,Ciudad Real,25,ES,Spain,38.9935,['http://www.uclm.es/english/'],-3.9254365,47.0,['Education'],,UCLM
+grid.12981.33,Sun Yat-sen University,Guangzhou,24,CN,China,23.0962,['http://www.sysu.edu.cn/2012/en/index.htm'],113.29806,69.0,['Education'],Guangdong,
+grid.168010.e,Stanford University,Stanford,24,US,United States,37.43,['http://www.stanford.edu/'],-122.17,345.0,['Education'],California,SU
+grid.266100.3,"University of California, San Diego",San Diego,24,US,United States,32.879578,['http://ucsd.edu/'],-117.233734,291.0,['Education'],California,UCSD
+grid.413631.2,Hull York Medical School,Heslington,24,GB,United Kingdom,53.95065,['http://www.hyms.ac.uk/'],-1.05069,89.0,['Education'],,HYMS
+grid.415005.5,Pinderfields Hospital,Wakefield,24,GB,United Kingdom,53.69596,['http://www.midyorks.nhs.uk/pinderfields-hospital'],-1.48639,67.0,['Healthcare'],,
+grid.442858.7,University of Tikrit,Tikrit,24,IQ,Iraq,34.678844,['http://en.tu.edu.iq/'],43.653957,125.0,['Education'],,
+grid.46072.37,University of Tehran,Tehran,24,IR,Iran,35.70347,['http://www.ut.ac.ir/en'],51.3952,137.0,['Education'],,UT
+grid.473689.7,Medias Klinikum,Burghausen,24,DE,Germany,48.168472,['http://www.medias-klinikum.de/'],12.84074,0.0,['Healthcare'],,
+grid.6363.0,Charité - University Medicine Berlin,Berlin,24,DE,Germany,52.52667,['https://www.charite.de/en/'],13.379722,265.0,['Healthcare'],,
+grid.7177.6,University of Amsterdam,Amsterdam,24,NL,Netherlands,52.355793,['http://www.uva.nl/en/home'],4.954782,386.0,['Education'],Noord-Holland,UvA
+grid.8186.7,Aberystwyth University,Aberystwyth,24,GB,United Kingdom,52.418972,['http://www.aber.ac.uk/en/'],-4.063921,33.0,['Education'],,
+grid.8404.8,University of Florence,Florence,24,IT,Italy,43.77788,['http://www.unifi.it/'],11.259733,602.0,['Education'],Toscana,
+grid.1003.2,University of Queensland,Brisbane,23,AU,Australia,-27.495964,['http://www.uq.edu.au/'],153.00963,128.0,['Education'],Queensland,UQ
+grid.14442.37,Hacettepe University,Ankara,23,TR,Turkey,39.865517,['https://www.hacettepe.edu.tr/english/'],32.735687,407.0,['Education'],Ankara,
+grid.214458.e,University of Michigan–Ann Arbor,Ann Arbor,23,US,United States,42.278305,['https://www.umich.edu/'],-83.73822,155.0,['Education'],Michigan,UM
+grid.268415.c,Yangzhou University,Yangzhou,23,CN,China,32.39964,['http://english.yzu.edu.cn/'],119.426285,211.0,['Education'],,
+grid.36316.31,University of Greenwich,London,23,GB,United Kingdom,51.48511,['http://www2.gre.ac.uk/'],-0.003905,916.0,['Education'],,
+grid.418707.d,Unilever (United Kingdom),London,23,GB,United Kingdom,51.511894,['http://www.unilever.com/'],-0.105087,102.0,['Company'],,
+grid.4280.e,National University of Singapore,Singapore,23,SG,Singapore,1.295556,['http://www.nus.edu.sg/'],103.776665,249.0,['Education'],,NUS
+grid.4643.5,Politecnico di Milano,Milan,23,IT,Italy,45.478863,['http://www.polimi.it/en/'],9.228206,149.0,['Education'],,
+grid.5132.5,Leiden University,Leiden,23,NL,Netherlands,52.15669,['http://www.leiden.edu/'],4.485037,482.0,['Education'],,
+grid.5477.1,Utrecht University,Utrecht,23,NL,Netherlands,52.090164,['http://www.uu.nl/en'],5.122601,330.0,['Education'],Utrecht,
+grid.5808.5,University of Porto,Porto,23,PT,Portugal,41.146465,['http://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home'],-8.615786,323.0,['Education'],,
+grid.61971.38,Simon Fraser University,Burnaby,23,CA,Canada,49.278282,['http://www.sfu.ca/'],-122.91991,53.0,['Education'],British Columbia,SFU
+grid.66875.3a,Mayo Clinic,Rochester,23,US,United States,44.02407,['http://www.mayoclinic.org/patient-visitor-guide/minnesota'],-92.46631,102.0,['Healthcare'],Minnesota,
+grid.89336.37,The University of Texas at Austin,Austin,23,US,United States,30.28614,['http://www.utexas.edu/'],-97.73942,45.0,['Education'],Texas,
+grid.9619.7,Hebrew University of Jerusalem,Jerusalem,23,IL,Israel,31.794842,['http://new.huji.ac.il/en'],35.24138,265.0,['Education'],,HUJI
+grid.1014.4,Flinders University,Adelaide,22,AU,Australia,-35.024036,['http://www.flinders.edu.au/'],138.57262,60.0,['Education'],South Australia,
+grid.11505.30,Institute of Tropical Medicine Antwerp,Antwerp,22,BE,Belgium,51.212395,['http://www.itg.be/itg/GeneralSite/Default.aspx?WPID=513&L=E'],4.39762,285.0,['Nonprofit'],,ITM
+grid.19006.3e,"University of California, Los Angeles",Los Angeles,22,US,United States,34.06892,['http://www.ucla.edu/'],-118.44737,215.0,['Education'],California,UCLA
+grid.21107.35,Johns Hopkins University,Baltimore,22,US,United States,39.328888,['https://www.jhu.edu/'],-76.62028,88.0,['Education'],Maryland,JHU
+grid.21729.3f,Columbia University,New York,22,US,United States,40.8076,['http://www.columbia.edu/'],-73.96239,109.0,['Education'],New York,CU
+grid.22631.34,School of Oriental and African Studies,London,22,GB,United Kingdom,51.52205,['http://www.soas.ac.uk/'],-0.129,9.0,['Education'],Camden,SOAS
+grid.266436.3,University of Houston,Houston,22,US,United States,29.720201,['http://www.uh.edu/'],-95.34225,95.0,['Education'],Texas,UH
+grid.26790.3a,University of Miami,Coral Gables,22,US,United States,25.71694,['http://www.miami.edu/'],-80.27577,164.0,['Education'],Florida,UM
+grid.29980.3a,University of Otago,Dunedin,22,NZ,New Zealand,-45.864895,['http://www.otago.ac.nz/'],170.51468,167.0,['Education'],,
+grid.35937.3b,Natural History Museum,London,22,GB,United Kingdom,51.49686,['http://www.nhm.ac.uk/'],-0.176388,444.0,['Archive'],Westminster,
+grid.39381.30,Western University,London,22,CA,Canada,43.00984,['http://www.uwo.ca/'],-81.27376,201.0,['Education'],Ontario,UWO
+grid.5239.d,University of Valladolid,Valladolid,22,ES,Spain,41.659172,['http://www.uva.es/export/sites/uva/'],-4.710278,320.0,['Education'],Castilla y León,
+grid.13402.34,Zhejiang University,Hangzhou,21,CN,China,30.263878,['http://www.zju.edu.cn/english/'],120.12342,103.0,['Education'],Zhejiang,ZJU
+grid.415598.4,Queen's Medical Centre,Nottingham,21,GB,United Kingdom,52.9436,['https://www.nuh.nhs.uk/contact-qmc/'],-1.1857,338.0,['Healthcare'],,QMC 
+grid.417284.c,Philips (Netherlands),Amsterdam,21,NL,Netherlands,52.344418,['http://www.philips.nl/?locale_org=global'],4.916566,200.0,['Company'],,
+grid.432249.a,Alzheimer's Society,London,21,GB,United Kingdom,51.50615,['http://www.alzheimers.org.uk/'],-0.071254,167.0,['Nonprofit'],,Alzheimer's Society
+grid.440786.9,Hakim Sabzevari University,Sabzawār,21,IR,Iran,36.298336,['http://www.hsu.ac.ir/'],57.680943,46.0,['Education'],,HSU
+grid.4514.4,Lund University,Lund,21,SE,Sweden,55.713203,['http://www.lunduniversity.lu.se/'],13.193537,151.0,['Education'],,
+grid.48166.3d,Beijing University of Chemical Technology,Beijing,21,CN,China,39.971996,['http://www.buct.edu.cn/'],116.421074,212.0,['Education'],Beijing,BUCT
+grid.5510.1,University of Oslo,Oslo,21,NO,Norway,59.93957,['http://www.uio.no/english/'],10.719175,255.0,['Education'],Oslo,UiO
+grid.7155.6,Alexandria University,Alexandria,21,EG,Egypt,31.20673,['http://www.alexu.edu.eg/index.php/en/'],29.911371,109.0,['Education'],,AU
+grid.7840.b,Carlos III University of Madrid,Madrid,21,ES,Spain,40.33439,['http://www.uc3m.es/Home'],-3.765257,179.0,['Education'],,
+grid.9668.1,University of Eastern Finland,Kuopio,21,FI,Finland,62.8925,['http://www.uef.fi/en'],27.6783,124.0,['Education'],,UEF
+grid.1032.0,Curtin University,Perth,20,AU,Australia,-32.00593,['http://www.curtin.edu.au/'],115.894394,291.0,['Education'],Western Australia,
+grid.11794.3a,University of Santiago de Compostela,Santiago de Compostela,20,ES,Spain,42.875862,['http://www.usc.es/'],-8.557551,499.0,['Education'],,USC
+grid.12477.37,University of Brighton,Brighton,20,GB,United Kingdom,50.859047,['http://www.brighton.ac.uk/'],-0.086603,28.0,['Education'],,
+grid.263333.4,Sejong University,Seoul,20,KR,South Korea,37.550835,['http://www.sejong.ac.kr/'],127.07389,598.0,['Education'],,
+grid.264756.4,Texas A&M University,College Station,20,US,United States,30.610369,['https://www.tamu.edu/'],-96.344055,212.0,['Education'],Texas,TAMU
+grid.266842.c,University of Newcastle Australia,Newcastle,20,AU,Australia,-32.892776,['http://www.newcastle.edu.au/'],151.70444,787.0,['Education'],New South Wales,UoN
+grid.266869.5,University of North Texas,Denton,20,US,United States,33.211994,['http://www.unt.edu/'],-97.14914,119.0,['Education'],Texas,UNT
+grid.33199.31,Huazhong University of Science and Technology,Wuhan,20,CN,China,30.508183,['http://english.hust.edu.cn/'],114.41474,67.0,['Education'],,HUST
+grid.411368.9,Amirkabir University of Technology,Tehran,20,IR,Iran,35.704346,['http://aut.ac.ir/www/aut/main/?l=3'],51.409676,150.0,['Education'],,AUT
+grid.412140.2,King Faisal University,Al Hufūf,20,SA,Saudi Arabia,25.340414,['http://www.kfu.edu.sa/sites/Home/'],49.599564,165.0,['Education'],,KFU
+grid.413714.4,Harrogate District Hospital,Harrogate,20,GB,United Kingdom,53.993546,['https://www.hdft.nhs.uk/hospitals/harrogate-district-hospital/'],-1.516908,181.0,['Healthcare'],,
+grid.416126.6,Royal Hallamshire Hospital,Sheffield,20,GB,United Kingdom,53.37823,['http://www.sth.nhs.uk/our-hospitals/royal-hallamshire-hospital'],-1.493611,138.0,['Healthcare'],,
+grid.42505.36,University of Southern California,Los Angeles,20,US,United States,34.02051,['http://www.usc.edu/'],-118.28563,219.0,['Education'],California,USC
+grid.442531.5,University of Skikda,Skikda,20,DZ,Algeria,36.849174,['http://www.univ-skikda.dz/index.php/fr/'],6.890709,47.0,['Education'],,
+grid.46078.3d,University of Waterloo,Waterloo,20,CA,Canada,43.472534,['https://uwaterloo.ca/'],-80.544876,272.0,['Education'],Ontario,UW
+grid.4793.9,Aristotle University of Thessaloniki,Thessaloniki,20,GR,Greece,40.63,['https://www.auth.gr/en'],22.958055,98.0,['Education'],Kentriki Makedonia,
+grid.6142.1,University of Galway,Galway,20,IE,Ireland,53.277782,['https://www.universityofgalway.ie/'],-9.06186,67.0,['Education'],,NUIG
+grid.7080.f,Autonomous University of Barcelona,Cerdanyola del Vallès,20,ES,Spain,41.50028,['http://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html'],2.107778,441.0,['Education'],,UAB
+grid.7400.3,University of Zurich,Zurich,20,CH,Switzerland,47.374535,['http://www.uzh.ch/index_en.html'],8.55097,235.0,['Education'],,UZH
+grid.7922.e,Chulalongkorn University,Bangkok,20,TH,Thailand,13.738497,['http://www.chula.ac.th/en/'],100.53086,27.0,['Education'],,CU
+grid.8991.9,London School of Hygiene & Tropical Medicine,London,20,GB,United Kingdom,51.5209,['http://www.lshtm.ac.uk/'],-0.1307,225.0,['Education'],Camden,LSHTM
+grid.9531.e,Heriot-Watt University,Edinburgh,20,GB,United Kingdom,55.909256,['http://www.hw.ac.uk/'],-3.319783,25.0,['Education'],,
+grid.1018.8,La Trobe University,Melbourne,19,AU,Australia,-37.72179,['http://www.latrobe.edu.au/'],145.04791,145.0,['Education'],Victoria,
+grid.11220.30,Boğaziçi University,Istanbul,19,TR,Turkey,41.083557,['http://www.boun.edu.tr/en_US'],29.050598,189.0,['Education'],İstanbul,
+grid.12896.34,University of Westminster,London,19,GB,United Kingdom,51.522022,['http://www.westminster.ac.uk/'],-0.154609,22.0,['Education'],,
+grid.13648.38,University Medical Center Hamburg-Eppendorf,Hamburg,19,DE,Germany,53.5913,['http://www.uke.de/'],9.9766,268.0,['Healthcare'],Hamburg,UKE
+grid.216417.7,Central South University,Changsha,19,CN,China,28.173,['http://iecd.csu.edu.cn/en-US/'],112.925,229.0,['Education'],,CSU
+grid.35030.35,City University of Hong Kong,Hong Kong,19,CN,China,22.336422,['http://www.cityu.edu.hk/'],114.17299,242.0,['Education'],,
+grid.410726.6,University of Chinese Academy of Sciences,Beijing,19,CN,China,39.909058,['http://www.ucas.ac.cn/'],116.25057,133.0,['Education'],,UCAS
+grid.411512.2,Bangladesh University of Engineering and Technology,Dhaka,19,BD,Bangladesh,23.726995,['http://www.buet.ac.bd/'],90.39286,8.0,['Education'],,BUET
+grid.412888.f,Tabriz University of Medical Sciences,Tabriz,19,IR,Iran,38.056072,['http://portal-en.tbzmed.ac.ir/'],46.325264,113.0,['Education'],,TBZMED
+grid.412892.4,Taibah University,Medina,19,SA,Saudi Arabia,24.4809,['https://www.taibahu.edu.sa/Pages/AR/Home.aspx'],39.544945,151.0,['Education'],,
+grid.451052.7,National Health Service England,London,19,GB,United Kingdom,51.49701,['https://www.england.nhs.uk/'],-0.136949,96.0,['Healthcare'],,NHS England
+grid.462112.2,"Bradford College, England",Bradford,19,GB,United Kingdom,53.792442,['https://www.bradfordcollege.ac.uk/'],-1.760815,137.0,['Education'],,
+grid.4714.6,Karolinska Institutet,Stockholm,19,SE,Sweden,59.34802,['http://ki.se/en/startpage'],18.022285,288.0,['Education'],,KI
+grid.7776.1,Cairo University,Giza,19,EG,Egypt,30.0276,['http://cu.edu.eg/Home'],31.21014,90.0,['Education'],,
+grid.9983.b,University of Lisbon,Lisbon,19,PT,Portugal,38.753227,['http://www.ulisboa.pt/'],-9.156779,365.0,['Education'],Lisboa,
+grid.11951.3d,University of the Witwatersrand,Johannesburg,18,ZA,South Africa,-26.190832,['http://www.wits.ac.za/'],28.030277,272.0,['Education'],,Wits
+grid.16008.3f,University of Luxembourg,Luxembourg,18,LU,Luxembourg,49.660175,['http://wwwen.uni.lu/'],6.134009,318.0,['Education'],,
+grid.261331.4,The Ohio State University,Columbus,18,US,United States,40.0,['http://www.osu.edu/'],-83.0145,80.0,['Education'],Ohio,OSU
+grid.267301.1,University of Tennessee Health Science Center,Memphis,18,US,United States,35.139572,['https://www.uthsc.edu/'],-90.03015,564.0,['Education'],Tennessee,UTHSC
+grid.273335.3,"University at Buffalo, State University of New York",Buffalo,18,US,United States,43.001106,['https://www.buffalo.edu/'],-78.78897,46.0,['Education'],New York,UB
+grid.34477.33,University of Washington,Seattle,18,US,United States,47.655537,['http://www.washington.edu/'],-122.30353,68.0,['Education'],Washington,UW
+grid.411301.6,Ferdowsi University of Mashhad,Mashhad,18,IR,Iran,36.3075,['http://en.um.ac.ir/'],59.52861,64.0,['Education'],,FUM
+grid.419655.a,National Institute of Technology Warangal,Warangal,18,IN,India,17.980698,['http://www.nitw.ac.in/nitw/'],79.532906,242.0,['Education'],,NITW
+grid.462778.8,NEOMA Business School,Mont-Saint-Aignan,18,FR,France,49.46294,['http://www.neoma-bs.com/en/'],1.064347,360.0,['Education'],,NEOMA
+grid.4708.b,University of Milan,Milan,18,IT,Italy,45.46099,['http://www.unimi.it/ENG/'],9.194592,173.0,['Education'],,UNIMI
+grid.4795.f,Complutense University of Madrid,Madrid,18,ES,Spain,40.447872,['https://www.ucm.es/english'],-3.72863,315.0,['Education'],,
+grid.5170.3,Technical University of Denmark,Kongens Lyngby,18,DK,Denmark,55.785797,['http://www.dtu.dk/english'],12.521533,194.0,['Education'],Hovedstaden,DTU
+grid.5338.d,University of Valencia,Valencia,18,ES,Spain,39.479465,['http://www.uv.es/'],-0.364728,47.0,['Education'],,UV
+grid.59877.34,English Heritage,London,18,GB,United Kingdom,51.51652,['http://www.english-heritage.org.uk/'],-0.09469,40.0,['Archive'],,EH
+grid.7841.a,Sapienza University of Rome,Rome,18,IT,Italy,41.90384,['http://www.uniroma1.it/'],12.514438,418.0,['Education'],Lazio,
+grid.1010.0,University of Adelaide,Adelaide,17,AU,Australia,-34.920654,['http://www.adelaide.edu.au/'],138.60576,184.0,['Education'],South Australia,
+grid.10772.33,Universidade Nova de Lisboa,Lisbon,17,PT,Portugal,38.7337,['http://www.unl.pt/en/'],-9.160247,368.0,['Education'],Lisboa,NOVA
+grid.133342.4,"University of California, Santa Barbara",Santa Barbara,17,US,United States,34.414227,['http://www.ucsb.edu/'],-119.84912,139.0,['Education'],California,UCSB
+grid.16463.36,University of KwaZulu-Natal,Durban,17,ZA,South Africa,-29.86752,['http://www.ukzn.ac.za/'],30.98081,101.0,['Education'],,UKZN 
+grid.21100.32,York University,Toronto,17,CA,Canada,43.77367,['http://about.yorku.ca/'],-79.50189,14.0,['Education'],Ontario,
+grid.412135.0,King Fahd University of Petroleum and Minerals,Dhahran,17,SA,Saudi Arabia,26.32174,['http://www.kfupm.edu.sa/default.aspx'],50.14517,99.0,['Education'],,KFUPM
+grid.412789.1,University of Sharjah,Sharjah city,17,AE,United Arab Emirates,25.2875,['http://www.sharjah.ac.ae/en/Pages/default.aspx'],55.476944,40.0,['Education'],,UOS
+grid.419248.2,Leicester Royal Infirmary,Leicester,17,GB,United Kingdom,52.627457,['http://www.leicestershospitals.nhs.uk/aboutus/our-hospitals/leicester-royal-infirmary/'],-1.135057,97.0,['Healthcare'],,LRI
+grid.439905.2,York Teaching Hospital NHS Foundation Trust,York,17,GB,United Kingdom,53.97419,['https://www.yorkhospitals.nhs.uk/'],-1.082141,39.0,['Healthcare'],,
+grid.440656.5,Taiyuan University of Technology,Taiyuan,17,CN,China,37.861343,['http://www2015.tyut.edu.cn/'],112.5228,108.0,['Education'],,
+grid.4444.0,French National Centre for Scientific Research,Paris,17,FR,France,48.847664,['http://www.cnrs.fr/index.php'],2.264034,103.0,['Government'],,CNRS
+grid.453560.1,National Museum of Natural History,Washington D.C.,17,US,United States,38.891384,['http://www.mnh.si.edu/'],-77.02611,78.0,['Archive'],District of Columbia,NMNH
+grid.4562.5,University of Lübeck,Lübeck,17,DE,Germany,53.836945,['http://www.uni-luebeck.de/'],10.705833,282.0,['Education'],Schleswig-Holstein,
+grid.512318.c,Monasterium Laboratory Skin & Hair Research Solutions (Germany),Münster,17,DE,Germany,51.97056,['https://www.monasteriumlab.com/'],7.5893,121.0,['Company'],,
+grid.5252.0,Ludwig-Maximilians-Universität München,Munich,17,DE,Germany,48.15068,['http://www.en.uni-muenchen.de/index.html'],11.580272,424.0,['Education'],,LMU
+grid.5522.0,Jagiellonian University,Krakow,17,PL,Poland,50.060833,['http://www.uj.edu.pl/en_GB/'],19.932777,507.0,['Education'],,
+grid.5949.1,University of Münster,Münster,17,DE,Germany,51.963425,['https://www.uni-muenster.de/en/'],7.613398,83.0,['Education'],,WWU
+grid.5963.9,University of Freiburg,Freiburg,17,DE,Germany,47.99375,['https://www.uni-freiburg.de'],7.845918,89.0,['Education'],,
+grid.64924.3d,Jilin University,Changchun,17,CN,China,43.82497,['https://www.jlu.edu.cn/'],125.28978,138.0,['Education'],,
+grid.7468.d,Humboldt-Universität zu Berlin,Berlin,17,DE,Germany,52.517845,['https://www.hu-berlin.de/en'],13.393355,170.0,['Education'],,HU
+grid.7605.4,University of Turin,Turin,17,IT,Italy,45.066666,['http://en.unito.it/'],7.689019,133.0,['Education'],Piemonte,UNITO
+grid.1012.2,University of Western Australia,Perth,16,AU,Australia,-31.980915,['http://www.uwa.edu.au/'],115.81988,78.0,['Education'],Western Australia,UWA
+grid.10423.34,Hannover Medical School,Hanover,16,DE,Germany,52.3839,['http://www.mh-hannover.de/index.php?&L=1'],9.8047,99.0,['Education'],Niedersachsen,MHH
+grid.11173.35,University of the Punjab,Lahore,16,PK,Pakistan,31.495457,['http://www.pu.edu.pk/'],74.29388,166.0,['Education'],Punjab,PU
+grid.14003.36,University of Wisconsin–Madison,Madison,16,US,United States,43.076694,['http://www.wisc.edu/'],-89.41244,313.0,['Education'],Wisconsin,UW
+grid.14848.31,University of Montreal,Montreal,16,CA,Canada,45.505554,['http://www.umontreal.ca/english/'],-73.61548,241.0,['Education'],Quebec,
+grid.15034.33,University of Bedfordshire,Luton,16,GB,United Kingdom,51.87832,['http://www.beds.ac.uk/'],-0.411438,1120.0,['Education'],Bedford,
+grid.15276.37,University of Florida,Gainesville,16,US,United States,29.643902,['http://www.ufl.edu/'],-82.35495,95.0,['Education'],Florida,UF
+grid.17635.36,University of Minnesota,Minneapolis,16,US,United States,44.974194,['http://twin-cities.umn.edu/'],-93.22776,74.0,['Education'],Minnesota,
+grid.224137.1,Scottish Universities Environmental Research Centre,Glasgow,16,GB,United Kingdom,55.753334,['http://www.gla.ac.uk/research/az/suerc/'],-4.1626,324.0,['Facility'],,SUERC
+grid.255434.1,Edge Hill University,Ormskirk,16,GB,United Kingdom,53.56,['http://www.edgehill.ac.uk/'],-2.873333,55.0,['Education'],Lancashire,
+grid.40803.3f,North Carolina State University,Raleigh,16,US,United States,35.784386,['https://www.ncsu.edu/'],-78.682785,35.0,['Education'],North Carolina,NCSU
+grid.43519.3a,United Arab Emirates University,Al Ain,16,AE,United Arab Emirates,24.198948,['http://www.uaeu.ac.ae/en/'],55.678852,58.0,['Education'],,UAEU
+grid.44361.34,Abertay University,Dundee,16,GB,United Kingdom,56.463505,['http://www.abertay.ac.uk/'],-2.973939,28.0,['Education'],,
+grid.443749.9,Al-Balqa` Applied University,Salt,16,JO,Jordan,32.024075,['http://www.bau.edu.jo/'],35.716793,123.0,['Education'],,BAU
+grid.449553.a,Prince Sattam Bin Abdulaziz University,Al Kharj,16,SA,Saudi Arabia,24.147242,['https://www.psau.edu.sa/en/'],47.271362,92.0,['Education'],,PSAU
+grid.5012.6,Maastricht University,Maastricht,16,NL,Netherlands,50.845833,['http://www.maastrichtuniversity.nl/'],5.687222,181.0,['Education'],Limburg,UM
+grid.5386.8,Cornell University,Ithaca,16,US,United States,42.44851,['http://www.cornell.edu/'],-76.47862,171.0,['Education'],New York,CU
+grid.59025.3b,Nanyang Technological University,Singapore,16,SG,Singapore,1.344722,['http://www.ntu.edu.sg/Pages/home.aspx'],103.68139,133.0,['Education'],,NTU
+grid.7048.b,Aarhus University,Aarhus,16,DK,Denmark,56.16816,['http://www.au.dk/en/'],10.20298,411.0,['Education'],,AU
+grid.7700.0,Heidelberg University,Heidelberg,16,DE,Germany,49.41935,['https://www.uni-heidelberg.de/en'],8.670238,168.0,['Education'],,
+grid.10419.3d,Leiden University Medical Center,Leiden,15,NL,Netherlands,52.165833,['https://www.lumc.nl/?setlanguage=English&setcountry=en'],4.4775,354.0,['Healthcare'],,LUMC
+grid.10776.37,University of Palermo,Palermo,15,IT,Italy,38.117874,['http://portale.unipa.it/'],13.369795,224.0,['Education'],,
+grid.11485.39,Cancer Research UK,London,15,GB,United Kingdom,51.531544,['http://www.cancerresearchuk.org/'],-0.106587,206.0,['Nonprofit'],,CRUK
+grid.12847.38,University of Warsaw,Warsaw,15,PL,Poland,52.240276,['http://en.uw.edu.pl/'],21.019167,168.0,['Education'],,UW
+grid.17088.36,Michigan State University,East Lansing,15,US,United States,42.723,['https://msu.edu/'],-84.481,25.0,['Education'],Michigan,MSU
+grid.18886.3f,Institute of Cancer Research,London,15,GB,United Kingdom,51.34435,['http://www.icr.ac.uk/'],-0.18921,247.0,['Education'],,ICR
+grid.223827.e,University of Utah,Salt Lake City,15,US,United States,40.76496,['http://www.utah.edu/'],-111.84215,342.0,['Education'],Utah,UU
+grid.27860.3b,"University of California, Davis",Davis,15,US,United States,38.54,['http://ucdavis.edu/'],-121.75,102.0,['Education'],California,UCD
+grid.31410.37,Sheffield Teaching Hospitals NHS Foundation Trust,Sheffield,15,GB,United Kingdom,53.376457,['http://www.sth.nhs.uk/'],-1.488885,146.0,['Healthcare'],,
+grid.33764.35,Harbin Engineering University,Harbin,15,CN,China,45.77222,['http://english.hrbeu.edu.cn/'],126.675,176.0,['Education'],Heilongjiang,HEU
+grid.422302.5,National Museums Scotland,Edinburgh,15,GB,United Kingdom,55.9477,['https://www.nms.ac.uk/'],-3.189934,381.0,['Government'],Scotland,NMS
+grid.440588.5,Northwestern Polytechnical University,Xi'an,15,CN,China,34.24364,['http://en.nwpu.edu.cn/'],108.91378,195.0,['Education'],,NPU
+grid.443319.8,Philadelphia University,Amman,15,JO,Jordan,32.165154,['http://www.philadelphia.edu.jo/'],35.851227,101.0,['Education'],,
+grid.444681.b,Symbiosis International University,Pune,15,IN,India,18.537247,['http://www.siu.edu.in/'],73.73202,1820.0,['Education'],Maharashtra,SIU
+grid.4463.5,University of Piraeus,Piraeus,15,GR,Greece,37.94154,['http://www.unipi.gr/unipi/en/'],23.65298,7.0,['Education'],Attiki,
+grid.461312.3,Royal Gwent Hospital,Newport,15,GB,United Kingdom,51.57848,['https://abuhb.nhs.wales/healthcare-services/enhanced-local-general-hospitals/royal-gwent-hospital/'],-2.99884,27.0,['Healthcare'],,
+grid.477239.c,Western Norway University of Applied Sciences,Bergen,15,NO,Norway,60.368862,['https://www.hvl.no/'],5.350103,57.0,['Education'],,HVL
+grid.5947.f,Norwegian University of Science and Technology,Trondheim,15,NO,Norway,63.419445,['http://www.ntnu.edu'],10.4025,37.0,['Education'],,NTNU
+grid.8954.0,University of Ljubljana,Ljubljana,15,SI,Slovenia,46.049267,['http://www.uni-lj.si/'],14.505099,228.0,['Education'],,UL
+grid.1029.a,Western Sydney University,Richmond,14,AU,Australia,-33.811573,['https://www.westernsydney.edu.au/'],151.02515,263.0,['Education'],New South Wales,UWS
+grid.127050.1,Canterbury Christ Church University,Canterbury,14,GB,United Kingdom,51.27972,['http://www.canterbury.ac.uk/'],1.089167,81.0,['Education'],Kent,CCCU
+grid.1374.1,University of Turku,Turku,14,FI,Finland,60.4563,['http://www.utu.fi/en/Pages/home.aspx'],22.285112,216.0,['Education'],,
+grid.148313.c,Los Alamos National Laboratory,Los Alamos,14,US,United States,35.875557,['http://lanl.gov/'],-106.324165,5.0,['Facility'],New Mexico,LANL
+grid.194645.b,University of Hong Kong,Hong Kong,14,CN,China,22.283287,['http://www.hku.hk/'],114.13708,165.0,['Education'],Hong Kong,HKU
+grid.21006.35,University of Canterbury,Christchurch,14,NZ,New Zealand,-43.523335,['http://www.canterbury.ac.nz/'],172.58194,205.0,['Education'],,
+grid.21925.3d,University of Pittsburgh,Pittsburgh,14,US,United States,40.443504,['http://www.pitt.edu/'],-79.961525,69.0,['Education'],Pennsylvania,
+grid.254444.7,Wayne State University,Detroit,14,US,United States,42.35936,['https://wayne.edu/'],-83.06657,179.0,['Education'],Michigan,WSU
+grid.264200.2,"St George's, University of London",London,14,GB,United Kingdom,51.427387,['http://www.sgul.ac.uk/'],-0.174514,101.0,['Education'],,SGUL
+grid.266102.1,"University of California, San Francisco",San Francisco,14,US,United States,37.7628,['https://www.ucsf.edu/'],-122.45767,17.0,['Education'],California,UCSF
+grid.411503.2,Fujian Normal University,Fuzhou,14,CN,China,26.037128,['http://www.fjnu.edu.cn/'],119.3108,2.0,['Education'],,FNU
+grid.412846.d,Sultan Qaboos University,Muscat,14,OM,Oman,23.59111,['http://www.squ.edu.om/'],58.17139,13.0,['Education'],,
+grid.413456.1,Airedale General Hospital,Keighley,14,GB,United Kingdom,53.89805,['http://www.nhs.uk/Services/Hospitals/Overview/DefaultView.aspx?id=805'],-1.964425,23.0,['Healthcare'],,
+grid.413818.7,Chapel Allerton Hospital,Leeds,14,GB,United Kingdom,53.822006,['https://www.leedsth.nhs.uk/patients-visitors/our-hospitals/chapel-allerton-hospital/'],-1.530086,127.0,['Healthcare'],,
+grid.444487.f,Universiti Teknologi Petronas,Ipoh,14,MY,Malaysia,4.386389,['http://www.utp.edu.my/'],100.97972,133.0,['Education'],,UTP
+grid.462844.8,Sorbonne University,Paris,14,FR,France,48.84848,['http://www.sorbonne-universites.fr/'],2.343234,116.0,['Education'],,
+grid.4655.2,Copenhagen Business School,Copenhagen,14,DK,Denmark,55.68167,['http://www.cbs.dk/en'],12.529636,1134.0,['Education'],Hovedstaden,CBS
+grid.4691.a,University of Naples Federico II,Naples,14,IT,Italy,40.84722,['http://www.unina.it/index.jsp'],14.256944,47.0,['Education'],Campania,
+grid.49470.3e,Wuhan University,Wuhan,14,CN,China,30.536316,['http://en.whu.edu.cn/'],114.36431,111.0,['Education'],,WHU
+grid.50971.3a,University of Nottingham Ningbo China,Ningbo,14,CN,China,29.8022,['http://www.nottingham.edu.cn/en/index.aspx'],121.5592,67.0,['Education'],Zhejiang,UNNC
+grid.510463.5,Northern Technical University,Mosul,14,IQ,Iraq,36.376923,['https://ntu.edu.iq/'],43.15015,40.0,['Education'],,NTU
+grid.5333.6,École Polytechnique Fédérale de Lausanne,Lausanne,14,CH,Switzerland,46.51908,['http://www.epfl.ch/index.en.html'],6.566747,375.0,['Facility'],,EPFL
+grid.5373.2,Aalto University,Espoo,14,FI,Finland,60.18667,['http://www.aalto.fi/en/'],24.827682,203.0,['Education'],,
+grid.5608.b,University of Padua,Padova,14,IT,Italy,45.406387,['https://www.unipd.it/en/'],11.877446,77.0,['Education'],Veneto,UNIPD
+grid.5645.2,Erasmus MC,Rotterdam,14,NL,Netherlands,51.91,['http://www.erasmusmc.nl/'],4.4675,347.0,['Healthcare'],Zuid-Holland,
+grid.57686.3a,University of Derby,Derby,14,GB,United Kingdom,52.938824,['http://www.derby.ac.uk/'],-1.49648,85.0,['Education'],,
+grid.5841.8,University of Barcelona,Barcelona,14,ES,Spain,41.386665,['http://www.ub.edu/web/ub/en/'],2.163889,194.0,['Education'],,UB
+grid.6612.3,University of Basel,Basel,14,CH,Switzerland,47.55858,['https://www.unibas.ch/de'],7.5836,340.0,['Education'],Basel-Stadt,
+grid.6734.6,Technical University of Berlin,Berlin,14,DE,Germany,52.511944,['http://www.tu-berlin.de/'],13.326389,102.0,['Education'],,TUB
+grid.6936.a,Technical University of Munich,Munich,14,DE,Germany,48.148056,['https://www.tum.de/en/'],11.568056,218.0,['Education'],,TUM
+grid.7149.b,University of Belgrade,Belgrade,14,RS,Serbia,44.81844,['http://www.bg.ac.rs/en/'],20.457422,239.0,['Education'],,
+grid.8051.c,University of Coimbra,Coimbra,14,PT,Portugal,40.21071,['http://www.uc.pt/en'],-8.42458,328.0,['Education'],,
+grid.9224.d,University of Seville,Seville,14,ES,Spain,37.38108,['https://www.us.es/'],-5.991016,94.0,['Education'],Andalucía,
+grid.1007.6,University of Wollongong,Wollongong,13,AU,Australia,-34.405148,['https://www.uow.edu.au/index.html'],150.87839,78.0,['Education'],New South Wales,UOW
+grid.1009.8,University of Tasmania,Hobart,13,AU,Australia,-42.902092,['http://www.utas.edu.au/'],147.3325,84.0,['Education'],Tasmania,UTAS
+grid.1017.7,RMIT University,Melbourne,13,AU,Australia,-37.806747,['https://www.rmit.edu.au/'],144.96257,66.0,['Education'],Victoria,RMIT
+grid.10698.36,University of North Carolina at Chapel Hill,Chapel Hill,13,US,United States,35.905163,['http://www.unc.edu/'],-79.04694,293.0,['Education'],North Carolina,UNC
+grid.11480.3c,University of the Basque Country,Leioa,13,ES,Spain,43.335556,['http://www.ehu.eus/en/en-home'],-2.978333,162.0,['Education'],,UPV
+grid.116345.4,Al-Ahliyya Amman University,Amman,13,JO,Jordan,32.04732,['http://www.ammanu.edu.jo/EN/HomePage/Home.aspx'],35.779568,80.0,['Education'],,AAU
+grid.11875.3a,Universiti Sains Malaysia,George Town,13,MY,Malaysia,5.356944,['https://www.usm.my/index.php/en/'],100.30139,102.0,['Education'],Pulau Pinang,USM
+grid.11942.3f,An-Najah National University,Nablus,13,PS,Palestinian Territory,32.22037,['http://www.najah.edu/'],35.24447,24.0,['Education'],,
+grid.137628.9,New York University,New York,13,US,United States,40.73,['http://www.nyu.edu/'],-73.995,343.0,['Education'],New York,NYU
+grid.23856.3a,Université Laval,Québec,13,CA,Canada,46.781097,['http://www2.ulaval.ca/en/home.html'],-71.278175,79.0,['Education'],Quebec,
+grid.258799.8,Kyoto University,Kyoto,13,JP,Japan,35.026157,['http://www.kyoto-u.ac.jp/en'],135.77979,95.0,['Education'],,
+grid.271308.f,Public Health England,London,13,GB,United Kingdom,51.691044,['https://www.gov.uk/government/organisations/public-health-england'],-0.113401,118.0,['Government'],,PHE
+grid.27255.37,Shandong University,Jinan,13,CN,China,36.67361,['http://en.sdu.edu.cn/'],117.05389,18.0,['Education'],Shandong,SDU
+grid.33801.39,Hashemite University,Zarqa,13,JO,Jordan,32.10317,['http://www.hu.edu.jo/'],36.192204,32.0,['Education'],,HU
+grid.35403.31,University of Illinois Urbana-Champaign,Urbana,13,US,United States,40.10682,['http://illinois.edu/'],-88.21936,43.0,['Education'],Illinois,UIUC
+grid.411463.5,"Islamic Azad University, Tehran",Tehran,13,IR,Iran,35.7328,['http://www.iau.ac.ir/'],51.3889,147.0,['Education'],,IAU
+grid.412041.2,University of Bordeaux,Bordeaux,13,FR,France,44.808956,['http://www.u-bordeaux.com/'],-0.590216,59.0,['Education'],,
+grid.412782.a,University of Sargodha,Sargodha,13,PK,Pakistan,32.07437,['http://uos.edu.pk/'],72.6838,57.0,['Education'],,
+grid.412937.a,Northern General Hospital,Sheffield,13,GB,United Kingdom,53.409054,['http://www.sth.nhs.uk/our-hospitals/northern-general-hospital'],-1.460831,134.0,['Healthcare'],,
+grid.417863.f,Fiji National University,Suva,13,FJ,Fiji,-18.119423,['http://www.fnu.ac.fj/new/'],178.43927,2.0,['Education'],,FNU
+grid.4367.6,Washington University in St. Louis,St Louis,13,US,United States,38.649033,['http://wustl.edu/'],-90.31085,85.0,['Education'],Missouri,WUSTL
+grid.440548.9,NED University of Engineering and Technology,Karachi,13,PK,Pakistan,24.931791,['http://www.neduet.edu.pk/'],67.11265,45.0,['Education'],,
+grid.440897.6,Mutah University,Karak,13,JO,Jordan,31.093765,['https://www.mutah.edu.jo'],35.71703,26.0,['Education'],,
+grid.450275.1,Shanghai Institute of Applied Physics,Pudong,13,CN,China,31.201714,['http://english.sinap.cas.cn/'],121.63209,63.0,['Facility'],,SINAP
+grid.453213.2,Changchun Institute of Applied Chemistry,Changchun,13,CN,China,43.858852,['http://english.ciac.cas.cn/'],125.32471,67.0,['Facility'],,CIAC
+grid.4756.0,London South Bank University,London,13,GB,United Kingdom,51.49814,['http://www.lsbu.ac.uk/'],-0.10154,22.0,['Education'],Southwark,LSBU
+grid.49697.35,University of Pretoria,Pretoria,13,ZA,South Africa,-25.75451,['http://www.up.ac.za/'],28.231192,118.0,['Education'],,UP
+grid.503223.5,Southern Technical University,Basra,13,IQ,Iraq,30.457169,['https://stu.edu.iq/'],47.767963,82.0,['Education'],,STU
+grid.6190.e,University of Cologne,Cologne,13,DE,Germany,50.928055,['http://www.portal.uni-koeln.de/'],6.928611,191.0,['Education'],,
+grid.81800.31,University of West London,London,13,GB,United Kingdom,51.506725,['http://www.uwl.ac.uk/'],-0.303744,33.0,['Education'],Ealing,UWL
+grid.8198.8,University of Dhaka,Dhaka,13,BD,Bangladesh,23.731546,['http://www.du.ac.bd/'],90.392494,172.0,['Education'],Dhaka,DU
+grid.8505.8,University of Wrocław,Wrocław,13,PL,Poland,51.11361,['http://www.uni.wroc.pl/'],17.033333,323.0,['Education'],,UW
+grid.9027.c,University of Perugia,Perugia,13,IT,Italy,43.116,['http://www.unipg.it/'],12.386,181.0,['Education'],Umbria,
+grid.9613.d,Friedrich Schiller University Jena,Jena,13,DE,Germany,50.928333,['https://www.uni-jena.de/en'],11.582222,262.0,['Education'],Thüringen,FSU
+grid.9670.8,University of Jordan,Amman,13,JO,Jordan,32.014885,['http://ju.edu.jo/home.aspx'],35.880077,94.0,['Education'],,UJ
+grid.9851.5,University of Lausanne,Lausanne,13,CH,Switzerland,46.521095,['http://www.unil.ch/central/en/home.html'],6.580157,128.0,['Education'],,UNIL
+grid.1021.2,Deakin University,Burwood,12,AU,Australia,-37.849358,['http://www.deakin.edu.au/'],145.11272,47.0,['Education'],Victoria,
+grid.120073.7,Addenbrooke's Hospital,Cambridge,12,GB,United Kingdom,52.176,['http://www.cuh.org.uk/addenbrookes-hospital'],0.14,21.0,['Healthcare'],Cambridgeshire,
+grid.12380.38,Vrije Universiteit Amsterdam,Amsterdam,12,NL,Netherlands,52.333942,['http://www.vu.nl/en/'],4.865709,302.0,['Education'],Noord-Holland,VU
+grid.136593.b,Osaka University,Osaka,12,JP,Japan,34.821865,['http://www.osaka-u.ac.jp/en'],135.52458,218.0,['Education'],,
+grid.14440.35,Yarmouk University,Irbid,12,JO,Jordan,32.536873,['https://www.yu.edu.jo/en/'],35.853897,21.0,['Education'],Irbid,YU
+grid.16821.3c,Shanghai Jiao Tong University,Shanghai,12,CN,China,31.201267,['http://en.sjtu.edu.cn/'],121.43278,81.0,['Education'],Shanghai,SJTU
+grid.20627.31,Ohio University,Athens,12,US,United States,39.3275,['http://www.ohio.edu/'],-82.1,35.0,['Education'],Ohio,
+grid.25055.37,Memorial University of Newfoundland,St. John's,12,CA,Canada,47.57374,['http://www.mun.ca/'],-52.733078,55.0,['Education'],Newfoundland and Labrador,MUN
+grid.264060.6,St. Francis Xavier University,Antigonish,12,CA,Canada,45.618057,['http://www.stfx.ca/'],-61.994446,8.0,['Education'],Nova Scotia,
+grid.268446.a,Yokohama National University,Yokohama,12,JP,Japan,35.472977,['http://www.ynu.ac.jp/english/'],139.59216,0.0,['Education'],Kanagawa,YNU
+grid.411501.0,Bahauddin Zakariya University,Multan,12,PK,Pakistan,30.264147,['http://www.bzu.edu.pk/'],71.51005,68.0,['Education'],Punjab,BZU
+grid.411775.1,Menoufia University,Shibīn al Kawm,12,EG,Egypt,30.5656,['http://www.menofia.edu.eg/'],31.0128,257.0,['Education'],,
+grid.412988.e,University of Johannesburg,Johannesburg,12,ZA,South Africa,-26.189432,['https://www.uj.ac.za/'],28.013746,279.0,['Education'],,UJ
+grid.414839.3,Riphah International University,Rawalpindi,12,PK,Pakistan,33.6169,['https://www.riphah.edu.pk/'],72.97288,66.0,['Education'],,
+grid.416266.1,Ninewells Hospital,Dundee,12,GB,United Kingdom,56.463898,['https://nhstayside.scot.nhs.uk/'],-3.037875,79.0,['Healthcare'],Scotland,
+grid.417638.f,Indian Institute of Toxicology Research,Lucknow,12,IN,India,26.859474,['http://iitrindia.org/'],80.93047,172.0,['Facility'],Uttar Pradesh,ITRC
+grid.424936.e,Institute of Computing Technology,Beijing,12,CN,China,39.98189,['http://english.ict.cas.cn/'],116.32687,10.0,['Facility'],,ICT
+grid.43169.39,Xi'an Jiaotong University,Xi'an,12,CN,China,34.247223,['http://en.xjtu.edu.cn/'],108.979164,19.0,['Education'],,XJTU
+grid.43710.31,University of Chester,Chester,12,GB,United Kingdom,53.200325,['http://www.chester.ac.uk/'],-2.898073,58.0,['Education'],,
+grid.440564.7,University of Lahore,Lahore,12,PK,Pakistan,31.460749,['https://www.uol.edu.pk/'],74.24363,69.0,['Education'],,UOL
+grid.440701.6,Xi’an Jiaotong-Liverpool University,Suzhou,12,CN,China,31.274673,['http://www.xjtlu.edu.cn/en/'],120.73815,32.0,['Education'],,XJTLU
+grid.4488.0,TU Dresden,Dresden,12,DE,Germany,51.02947,['http://tu-dresden.de/en'],13.728975,38.0,['Education'],,TUD
+grid.448892.b,Global University,Beirut,12,LB,Lebanon,33.89079,['http://www.gu.edu.lb/'],35.496933,11.0,['Education'],,GU
+grid.451056.3,National Institute for Health and Care Research,London,12,GB,United Kingdom,51.502705,['https://www.nihr.ac.uk'],-0.12535,192.0,['Government'],,NIHR
+grid.454370.1,NIHR Leeds Musculoskeletal Biomedical Research Unit,Leeds,12,GB,United Kingdom,53.821945,['http://lmbru.leeds.ac.uk/'],-1.529956,113.0,['Government'],,
+grid.502801.e,Tampere University,Tampere,12,FI,Finland,61.496876,['https://www.tuni.fi/en'],23.77906,50.0,['Education'],,
+grid.5395.a,University of Pisa,Pisa,12,IT,Italy,43.71643,['http://www.unipi.it/'],10.398687,118.0,['Education'],Toscana,UniPi
+grid.55602.34,Dalhousie University,Halifax,12,CA,Canada,44.636833,['http://www.dal.ca/'],-63.591686,16.0,['Education'],Nova Scotia,
+grid.5591.8,Eötvös Loránd University,Budapest,12,HU,Hungary,47.4906,['https://www.elte.hu/en'],19.0585,323.0,['Education'],Pest,ELTE
+grid.59490.31,Robert Gordon University,Aberdeen,12,GB,United Kingdom,57.148,['http://www.rgu.ac.uk/'],-2.1014,105.0,['Education'],,RGU
+grid.7256.6,Ankara University,Ankara,12,TR,Turkey,39.9367,['http://en.ankara.edu.tr/'],32.8303,189.0,['Education'],Ankara,
+grid.76978.37,Rutherford Appleton Laboratory,Didcot,12,GB,United Kingdom,51.573334,['http://www.stfc.ac.uk/76.aspx'],-1.314722,130.0,['Facility'],,RAL
+grid.9227.e,Chinese Academy of Sciences,Beijing,12,CN,China,39.908115,['http://english.cas.cn/'],116.250656,30.0,['Government'],Beijing,CAS
+grid.9582.6,University of Ibadan,Ibadan,12,NG,Nigeria,7.441667,['http://ui.edu.ng/'],3.9,38.0,['Education'],Oyo,UI
+grid.10223.32,Mahidol University,Bangkok,11,TH,Thailand,13.793406,['http://www.mahidol.ac.th/en/'],100.32252,8.0,['Education'],Nakhon Pathom,MU
+grid.10328.38,University of Minho,Braga,11,PT,Portugal,41.4521,['http://www.uminho.pt/en'],-8.291009,127.0,['Education'],,
+grid.10939.32,University of Tartu,Tartu,11,EE,Estonia,58.38111,['http://www.ut.ee/et'],26.720278,254.0,['Education'],,UT
+grid.11142.37,Universiti Putra Malaysia,Seri Kembangan,11,MY,Malaysia,2.992025,['http://www.upm.edu.my/'],101.71624,23.0,['Education'],,UPM
+grid.116068.8,Massachusetts Institute of Technology,Cambridge,11,US,United States,42.35982,['http://web.mit.edu/'],-71.09211,202.0,['Education'],Massachusetts,MIT
+grid.14095.39,Freie Universität Berlin,Berlin,11,DE,Germany,52.45273,['http://www.fu-berlin.de/en/'],13.289647,204.0,['Education'],,FU
+grid.15756.30,University of the West of Scotland,Paisley,11,GB,United Kingdom,55.84317,['http://www.uws.ac.uk/home/'],-4.42859,84.0,['Education'],,UWS
+grid.16750.35,Princeton University,Princeton,11,US,United States,40.344234,['http://www.princeton.edu/main/'],-74.65147,265.0,['Education'],New Jersey,
+grid.170693.a,University of South Florida,Tampa,11,US,United States,28.054562,['http://www.usf.edu/'],-82.413055,70.0,['Education'],Florida,USF
+grid.21027.36,University of Gloucestershire,Cheltenham,11,GB,United Kingdom,51.88791,['http://www.glos.ac.uk/Pages/default.aspx'],-2.088797,45.0,['Education'],,
+grid.214572.7,University of Iowa,Iowa City,11,US,United States,41.662952,['http://www.uiowa.edu/'],-91.554924,198.0,['Education'],Iowa,UI
+grid.215654.1,Arizona State University,Tempe,11,US,United States,33.417194,['http://www.asu.edu/'],-111.93651,22.0,['Education'],Arizona,ASU
+grid.25152.31,University of Saskatchewan,Saskatoon,11,CA,Canada,52.133717,['https://www.usask.ca/'],-106.632385,26.0,['Education'],Saskatchewan,
+grid.252874.e,Bath Spa University,Bath,11,GB,United Kingdom,51.37598,['https://www.bathspa.ac.uk/'],-2.438833,13.0,['Education'],Bath and North East Somerset,
+grid.254224.7,Chung-Ang University,Seoul,11,KR,South Korea,37.50415,['http://neweng.cau.ac.kr/'],126.95694,140.0,['Education'],,CAU
+grid.263906.8,Southwest University,Chongqing,11,CN,China,29.8139,['http://www.swu.edu.cn/'],106.4129,11.0,['Education'],,SWU
+grid.264889.9,William & Mary,Williamsburg,11,US,United States,37.272057,['https://www.wm.edu/'],-76.71707,147.0,['Education'],Virginia,W&M
+grid.266097.c,"University of California, Riverside",Riverside,11,US,United States,33.975555,['http://www.ucr.edu/'],-117.33111,12.0,['Education'],California,UCR
+grid.266515.3,University of Kansas,Lawrence,11,US,United States,38.954586,['https://www.ku.edu/'],-95.25585,106.0,['Education'],Kansas,KU
+grid.26999.3d,University of Tokyo,Tokyo,11,JP,Japan,35.713333,['http://www.u-tokyo.ac.jp/en/'],139.76222,212.0,['Education'],,UT
+grid.27755.32,University of Virginia,Charlottesville,11,US,United States,38.035,['http://www.virginia.edu/'],-78.505,231.0,['Education'],Virginia,UVA
+grid.29109.33,British Museum,London,11,GB,United Kingdom,51.519424,['http://www.britishmuseum.org/'],-0.12682557,51.0,['Archive'],Camden,BM
+grid.34421.30,Iowa State University,Ames,11,US,United States,42.02496,['http://www.iastate.edu/'],-93.64955,58.0,['Education'],Iowa,ISU
+grid.39436.3b,Shanghai University,Shanghai,11,CN,China,31.318333,['http://en.shu.edu.cn/Default.aspx'],121.38722,68.0,['Education'],Shanghai,SHU
+grid.410356.5,Queen's University,Kingston,11,CA,Canada,44.225502,['http://www.queensu.ca/'],-76.49516,4.0,['Education'],Ontario,
+grid.410877.d,University of Technology Malaysia,Johor Bahru,11,MY,Malaysia,1.559167,['http://www.utm.my/'],103.64139,42.0,['Education'],,UTM
+grid.412117.0,National University of Sciences and Technology,Islamabad,11,PK,Pakistan,33.645603,['http://www.nust.edu.pk/Pages/Home.aspx'],72.990326,186.0,['Education'],,NUST
+grid.416786.a,Swiss Tropical and Public Health Institute,Basel,11,CH,Switzerland,47.556225,['http://www.swisstph.ch/'],7.577304,165.0,['Facility'],,TPH
+grid.418151.8,AstraZeneca (Sweden),Södertälje,11,SE,Sweden,59.566822,['http://www.astrazeneca.com/'],17.55309,13.0,['Company'],,
+grid.418333.e,Romanian Academy,Bucharest,11,RO,Romania,44.445843,['http://www.academiaromana.ro/def2002eng.htm'],26.089838,84.0,['Archive'],,
+grid.419886.a,Monterrey Institute of Technology and Higher Education,Monterrey,11,MX,Mexico,25.65184,['http://www.itesm.mx/'],-100.28953,496.0,['Education'],,ITESM
+grid.436283.8,National Hospital for Neurology and Neurosurgery,London,11,GB,United Kingdom,51.522263,['https://www.uclh.nhs.uk/OurServices/OurHospitals/NHNN/Pages/Home.aspx'],-0.12203,34.0,['Healthcare'],,NHNN
+grid.440567.4,University of Malakand,Malakand,11,PK,Pakistan,34.669388,['https://www.uom.edu.pk'],72.06206,41.0,['Education'],,UOM
+grid.440748.b,Al Jouf University,Sakakah,11,SA,Saudi Arabia,29.791718,['http://www.ju.edu.sa/index.php?id=5'],40.044907,370.0,['Education'],,
+grid.442704.1,American University of Nigeria,Yola,11,NG,Nigeria,9.199473,['https://www.aun.edu.ng/'],12.498648,5.0,['Education'],,AUN
+grid.443350.5,Jerash University,Jerash,11,JO,Jordan,32.252518,['http://www.jpu.edu.jo'],35.897602,148.0,['Education'],,
+grid.448806.6,Charotar University of Science and Technology,Anand,11,IN,India,22.600838,['http://charusat.edu.in/'],72.82033,93.0,['Education'],,CHARUSAT
+grid.462999.9,Northern University of Malaysia,Jitra,11,MY,Malaysia,6.458836,['http://www.uum.edu.my/'],100.50256,12.0,['Education'],,UUM
+grid.4808.4,University of Zagreb,Zagreb,11,HR,Croatia,45.810673,['http://www.unizg.hr/'],15.970097,92.0,['Education'],Grad Zagreb,
+grid.484567.c,State Key Laboratory of Hydrology Water Resources and Hydraulic Engineering,Nanjing,11,CN,China,32.05296,['http://hydro-lab.hhu.edu.cn/index_english.asp'],118.76268,110.0,['Facility'],,
+grid.493525.c,The Research Institute for the Care of Older People,Bath,11,GB,United Kingdom,51.390835,['http://www.rice.org.uk/'],-2.394233,81.0,['Healthcare'],,RICE
+grid.513749.d,Ninevah University,Mosul,11,IQ,Iraq,36.33055,['https://uoninevah.edu.iq/en/home-page/'],43.1504,36.0,['Education'],,NU
+grid.59053.3a,University of Science and Technology of China,Hefei,11,CN,China,31.822645,['http://en.ustc.edu.cn/'],117.2807,58.0,['Education'],,USTC
+grid.6214.1,University of Twente,Enschede,11,NL,Netherlands,52.242737,['http://www.utwente.nl/en/'],6.853264,32.0,['Education'],Overijssel,
+grid.63054.34,University of Connecticut,Storrs,11,US,United States,41.807167,['http://uconn.edu/'],-72.2525,43.0,['Education'],Connecticut,
+grid.66859.34,Broad Institute,Cambridge,11,US,United States,42.36789,['http://www.broadinstitute.org/'],-71.08703,425.0,['Nonprofit'],Massachusetts,
+grid.7821.c,University of Cantabria,Santander,11,ES,Spain,43.473,['http://web.unican.es/'],-3.801,116.0,['Education'],,UC
+grid.8430.f,Universidade Federal de Minas Gerais,Belo Horizonte,11,BR,Brazil,-19.871904,['https://www.ufmg.br/english/'],-43.966248,27.0,['Education'],Minas Gerais,UFMG
+grid.9486.3,National Autonomous University of Mexico,Mexico City,11,MX,Mexico,19.322817,['http://www.unam.mx/index/en'],-99.18663,310.0,['Education'],Distrito Federal,UNAM
+grid.9764.c,Kiel University,Kiel,11,DE,Germany,54.345806,['http://www.uni-kiel.de/index-e.shtml'],10.112299,142.0,['Education'],,CAU
+grid.1025.6,Murdoch University,Perth,10,AU,Australia,-32.066,['http://www.murdoch.edu.au/'],115.835,166.0,['Education'],Western Australia,
+grid.12295.3d,Tilburg University,Tilburg,10,NL,Netherlands,51.563805,['https://www.tilburguniversity.edu/'],5.042573,144.0,['Education'],Noord-Brabant,TiU
+grid.123047.3,Southampton General Hospital,Southampton,10,GB,United Kingdom,50.933,['http://www.uhs.nhs.uk/Ourhospitals/SGH/SouthamptonGeneralHospital.aspx'],-1.434,237.0,['Healthcare'],Southampton,SGH
+grid.148374.d,Massey University,Palmerston North,10,NZ,New Zealand,-40.38564,['http://www.massey.ac.nz/'],175.61806,9.0,['Education'],,
+grid.15596.3e,Dublin City University,Dublin,10,IE,Ireland,53.384953,['http://www.dcu.ie/'],-6.256542,162.0,['Education'],,DCU
+grid.17788.31,Hadassah Medical Center,Jerusalem,10,IL,Israel,31.797222,['http://www.hadassah-med.com/'],35.241943,133.0,['Healthcare'],,
+grid.218292.2,Kunming University of Science and Technology,Kunming,10,CN,China,25.061562,['http://english.kmust.edu.cn/'],102.69563,27.0,['Education'],,KMUST
+grid.23695.3b,York St John University,York,10,GB,United Kingdom,53.965324,['http://www.yorksj.ac.uk/'],-1.080391,18.0,['Education'],York,
+grid.257022.0,Hiroshima University,Hiroshima,10,JP,Japan,34.38222,['http://www.hiroshima-u.ac.jp/index.html'],132.45805,11.0,['Education'],,
+grid.26009.3d,Duke University,Durham,10,US,United States,36.003147,['http://www.duke.edu/'],-78.926895,150.0,['Education'],North Carolina,
+grid.263901.f,Southwest Jiaotong University,Chengdu,10,CN,China,30.769444,['http://www.swjtu.edu.cn/'],103.98472,27.0,['Education'],Sichuan,SWJTU
+grid.280418.7,Southern Illinois University School of Medicine,Springfield,10,US,United States,39.810097,['http://www.siumed.edu/'],-89.65765,461.0,['Education'],Illinois,
+grid.410543.7,São Paulo State University,São Paulo,10,BR,Brazil,-22.8172,['http://www.unesp.br/portal#!/eng'],-47.0694,60.0,['Education'],,UNESP
+grid.411377.7,Indiana University Bloomington,Bloomington,10,US,United States,39.170864,['http://www.indiana.edu/'],-86.51937,98.0,['Education'],Indiana,IU
+grid.411423.1,Applied Science Private University,Amman,10,JO,Jordan,31.957087,['http://www.asu.edu.bh/'],35.94578,15.0,['Education'],,
+grid.411498.1,University of Baghdad,Baghdad,10,IQ,Iraq,33.273888,['http://www.en.uobaghdad.edu.iq/'],44.3775,49.0,['Education'],,UOB
+grid.411544.1,Universitätsklinikum Tübingen,Tübingen,10,DE,Germany,48.622223,['https://www.medizin.uni-tuebingen.de/en/Homepage.html'],8.939095,51.0,['Healthcare'],,UKT
+grid.411815.8,Mokpo National University,Muan,10,KR,South Korea,34.910404,['http://eng.mokpo.ac.kr/index.9is'],126.43608,91.0,['Education'],,MNU
+grid.412144.6,King Khalid University,Abhā,10,SA,Saudi Arabia,18.2495,['http://www.kku.edu.sa/'],42.5597,65.0,['Education'],,KKU
+grid.412219.d,University of the Free State,Bloemfontein,10,ZA,South Africa,-29.104445,['http://www.ufs.ac.za/'],26.175278,79.0,['Education'],,UFS
+grid.412346.6,Salford Royal NHS Foundation Trust,Salford,10,GB,United Kingdom,53.48722,['http://www.srft.nhs.uk/'],-2.323611,19.0,['Healthcare'],,
+grid.415721.4,Salford Royal Hospital,Manchester,10,GB,United Kingdom,53.48822,['http://www.srft.nhs.uk/'],-2.323338,22.0,['Healthcare'],,
+grid.422804.8,Tata Motors (United Kingdom),Coventry,10,GB,United Kingdom,52.38296,['http://www.tmetc.com/'],-1.56222,22.0,['Company'],,TMETC
+grid.424669.b,European Space Research and Technology Centre,Noordwijk-Binnen,10,NL,Netherlands,52.21722,['http://www.esa.int/About_Us/ESTEC'],4.421389,178.0,['Government'],,ESTEC
+grid.442541.2,Gombe State University,Gombe,10,NG,Nigeria,10.303851,['http://gsu.edu.ng/'],11.172364,91.0,['Education'],,GSU
+grid.449919.8,University of Misan,Amara,10,IQ,Iraq,31.815948,['http://www.uomisan.edu.iq/en/'],47.17391,50.0,['Education'],,
+grid.47100.32,Yale University,New Haven,10,US,United States,41.302094,['http://www.yale.edu'],-72.93066,10.0,['Education'],Connecticut,
+grid.482271.a,Daresbury Laboratory,Daresbury,10,GB,United Kingdom,53.34405,['http://www.stfc.ac.uk/about-us/where-we-work/daresbury-laboratory/'],-2.639923,13.0,['Facility'],,
+grid.49481.30,University of Waikato,Hamilton,10,NZ,New Zealand,-37.786945,['http://www.waikato.ac.nz/'],175.31389,14.0,['Education'],,
+grid.498142.2,Bradford District Care NHS Foundation Trust,Shipley,10,GB,United Kingdom,53.839725,['https://www.bdct.nhs.uk/'],-1.788655,106.0,['Nonprofit'],,
+grid.5037.1,Royal Institute of Technology,Stockholm,10,SE,Sweden,59.34748,['http://www.kth.se/en'],18.073526,74.0,['Education'],,KTH
+grid.508487.6,Université Paris-Cité,Paris,10,FR,France,48.863808,['https://u-paris.fr/en'],2.329205,97.0,['Education'],,
+grid.5117.2,Aalborg University,Aalborg,10,DK,Denmark,57.01457,['http://www.en.aau.dk/'],9.981864,54.0,['Education'],,AAU
+grid.54549.39,University of Electronic Science and Technology of China,Chengdu,10,CN,China,30.675713,['http://en.uestc.edu.cn/'],104.10027,29.0,['Education'],,UESTC
+grid.5640.7,Linköping University,Linköping,10,SE,Sweden,58.39806,['https://liu.se/'],15.574119,176.0,['Education'],,LiU
+grid.6835.8,Universitat Politècnica de Catalunya,Barcelona,10,ES,Spain,41.389442,['http://www.upc.edu'],2.115833,77.0,['Education'],,UPC
+grid.6935.9,Middle East Technical University,Ankara,10,TR,Turkey,39.891388,['http://www.metu.edu.tr/'],32.78472,13.0,['Education'],Ankara,METU
+grid.7122.6,University of Debrecen,Debrecen,10,HU,Hungary,47.55389,['http://www.unideb.hu/portal/en'],21.62139,26.0,['Education'],,
+grid.7269.a,Ain Shams University,Cairo,10,EG,Egypt,30.076912,['http://www.asu.edu.eg/'],31.290682,53.0,['Education'],,ASU
+grid.7892.4,Karlsruhe Institute of Technology,Karlsruhe,10,DE,Germany,49.01185,['http://www.kit.edu/english/'],8.416644,135.0,['Education'],,KIT
+grid.7942.8,Université Catholique de Louvain,Louvain-la-Neuve,10,BE,Belgium,50.669613,['http://www.uclouvain.be/en-index.html'],4.612264,444.0,['Education'],,UCL
+grid.8993.b,Uppsala University,Uppsala,10,SE,Sweden,59.85105,['https://www.uu.se/en/'],17.629967,145.0,['Education'],,
+grid.9829.a,Kwame Nkrumah University of Science and Technology,Kumasi,10,GH,Ghana,6.684908,['http://www.knust.edu.gh/'],-1.570519,68.0,['Education'],Ashanti,KNUST
+grid.1027.4,Swinburne University of Technology,Melbourne,9,AU,Australia,-37.82111,['http://www.swinburne.edu.au/'],145.03833,138.0,['Education'],Victoria,
+grid.10417.33,Radboud University Nijmegen Medical Centre,Nijmegen,9,NL,Netherlands,51.823055,['https://www.radboudumc.nl/dekkerswald'],5.8625,110.0,['Healthcare'],Gelderland,RUNMC
+grid.104846.f,Queen Margaret University,Edinburgh,9,GB,United Kingdom,55.93139,['http://www.qmu.ac.uk/'],-3.073056,36.0,['Education'],,QMUC
+grid.117476.2,University of Technology Sydney,Sydney,9,AU,Australia,-33.883274,['http://www.uts.edu.au/'],151.20045,32.0,['Education'],New South Wales,UTS
+grid.11866.38,University of Silesia,Katowice,9,PL,Poland,50.260555,['http://www.us.edu.pl/'],19.028055,268.0,['Education'],,UŚ
+grid.134563.6,University of Arizona,Tucson,9,US,United States,32.232246,['http://www.arizona.edu/'],-110.953545,59.0,['Education'],Arizona,UA
+grid.14105.31,Medical Research Council,London,9,GB,United Kingdom,51.514755,['https://mrc.ukri.org/'],-0.119432,156.0,['Government'],,MRC
+grid.146189.3,Liverpool Hope University,Liverpool,9,GB,United Kingdom,53.413033,['http://www.hope.ac.uk/'],-2.967894,6.0,['Education'],,
+grid.15874.3f,Goldsmiths University of London,London,9,GB,United Kingdom,51.47442,['http://www.gold.ac.uk/'],-0.036579,3.0,['Education'],,
+grid.16477.33,Marmara University,Istanbul,9,TR,Turkey,40.9861,['http://www.marmara.edu.tr/'],29.0536,28.0,['Education'],,MU
+grid.16753.36,Northwestern University,Evanston,9,US,United States,42.05485,['http://www.northwestern.edu/'],-87.67394,282.0,['Education'],Illinois,NU
+grid.177174.3,Kyushu University,Fukuoka,9,JP,Japan,33.626534,['http://www.kyushu-u.ac.jp/english/'],130.42465,219.0,['Education'],,
+grid.185648.6,University of Illinois at Chicago,Chicago,9,US,United States,41.875305,['http://www.uic.edu/uic/'],-87.6579,32.0,['Education'],Illinois,UIC
+grid.19373.3f,Harbin Institute of Technology,Harbin,9,CN,China,45.746998,['http://en.hit.edu.cn/'],126.63069,154.0,['Education'],,HIT
+grid.213910.8,Georgetown University,Washington D.C.,9,US,United States,38.907852,['http://www.georgetown.edu/'],-77.07228,24.0,['Education'],District of Columbia,
+grid.240404.6,Nottingham University Hospitals NHS Trust,Nottingham,9,GB,United Kingdom,52.991547,['http://www.nuh.nhs.uk/'],-1.151522,129.0,['Healthcare'],,NUH
+grid.249880.f,Jackson Laboratory,Bar Harbor,9,US,United States,44.365192,['https://www.jax.org/#'],-68.19624,56.0,['Nonprofit'],Maine,JAX
+grid.253615.6,George Washington University,Washington D.C.,9,US,United States,38.899975,['http://www.gwu.edu/'],-77.048645,32.0,['Education'],District of Columbia,GWU
+grid.266093.8,"University of California, Irvine",Irvine,9,US,United States,33.64535,['http://uci.edu/'],-117.84264,81.0,['Education'],California,UCI
+grid.267455.7,University of Windsor,Windsor,9,CA,Canada,42.305195,['http://www.uwindsor.ca/'],-83.06748,21.0,['Education'],Ontario,
+grid.32224.35,Massachusetts General Hospital,Boston,9,US,United States,42.362804,['http://www.massgeneral.org/'],-71.068634,79.0,['Healthcare'],Massachusetts,MGH
+grid.410699.3,Constantine 1 University,Constantine,9,DZ,Algeria,36.349445,['http://www.umc.edu.dz/'],6.621667,18.0,['Education'],,
+grid.411257.4,Federal University of Technology,Akure,9,NG,Nigeria,7.301088,['https://www.futa.edu.ng/'],5.151408,39.0,['Education'],,FUTA
+grid.411327.2,Heinrich Heine University Düsseldorf,Düsseldorf,9,DE,Germany,51.19679,['http://www.uni-duesseldorf.de/home/en/home.html'],6.790581,78.0,['Education'],,HHU
+grid.411749.e,Gomal University,Dera Ismail Khan,9,PK,Pakistan,31.720295,['http://www.gu.edu.pk/New/index.asp'],70.83276,77.0,['Education'],,
+grid.412561.5,Shenyang Pharmaceutical University,Shenyang,9,CN,China,41.769775,['http://www.syphu.edu.cn'],123.44608,45.0,['Education'],Liaoning,SPU
+grid.412895.3,Taif University,Ta'if,9,SA,Saudi Arabia,21.433369,['http://www.tu.edu.sa/en/Pages/default.aspx'],40.490295,102.0,['Education'],,TU
+grid.413081.f,University of Cape Coast,Cape Coast,9,GH,Ghana,5.1036,['http://www.ucc.edu.gh/'],-1.2825,16.0,['Education'],,UCC
+grid.416531.4,Northampton General Hospital,Northampton,9,GB,United Kingdom,52.236,['http://www.northamptongeneral.nhs.uk/OurServices/OurServices.aspx'],-0.8813,33.0,['Healthcare'],England,
+grid.417900.b,Leeds Trinity University,Leeds,9,GB,United Kingdom,53.848362,['http://www.leedstrinity.ac.uk/'],-1.647134,37.0,['Education'],,
+grid.417967.a,Indian Institute of Technology Delhi,New Delhi,9,IN,India,28.545,['http://www.iitd.ac.in/'],77.19222,694.0,['Education'],,IITD
+grid.418158.1,Roche (United States),San Francisco,9,US,United States,37.656403,['http://www.roche.com/careers/usa.htm'],-122.3776,64.0,['Company'],California,Roche
+grid.41891.35,Montana State University,Bozeman,9,US,United States,45.66833,['http://www.montana.edu/'],-111.05,24.0,['Education'],Montana,MSU
+grid.424837.e,INSEAD,Fontainebleau,9,FR,France,48.4054,['http://www.insead.edu/home/'],2.6853,29.0,['Education'],,
+grid.430718.9,Sunway University,Petaling Jaya,9,MY,Malaysia,3.067147,['https://university.sunway.edu.my'],101.603516,12.0,['Education'],,
+grid.435413.4,Institute of Solar-Terrestrial Physics,Irkutsk,9,RU,Russia,52.248398,['http://en.iszf.irk.ru/Main_Page'],104.26412,14.0,['Facility'],,ISTP
+grid.442523.6,Omar Al-Mukhtar University,Al Bayḑā’,9,LY,Libya,32.759583,['http://omu.edu.ly/'],21.711956,148.0,['Education'],,
+grid.442952.c,Lampung University,Bandar Lampung,9,ID,Indonesia,-5.366149,['https://www.unila.ac.id/'],105.24293,40.0,['Education'],,UNILA
+grid.443347.3,Southwestern University of Finance and Economics,Chengdu,9,CN,China,30.663021,['https://www.swufe.edu.cn/'],104.01628,86.0,['Education'],,SWUFE
+grid.443348.c,Al-Zaytoonah University of Jordan,Amman,9,JO,Jordan,31.8334,['https://www.zuj.edu.jo/'],35.89239,42.0,['Education'],,ZUJ
+grid.444470.7,Ajman University of Science and Technology,Ajman,9,AE,United Arab Emirates,25.41223,['https://www.ajman.ac.ae/en'],55.508076,21.0,['Education'],,AUST
+grid.444860.a,Shiraz University of Technology,Shiraz,9,IR,Iran,29.582048,['http://en.sutech.ac.ir/'],52.57922,189.0,['Education'],,SUTECH
+grid.444938.6,University of Engineering and Technology Lahore,Lahore,9,PK,Pakistan,31.579609,['http://www.uet.edu.pk/'],74.35435,21.0,['Education'],,
+grid.449346.8,Princess Nourah bint Abdulrahman University,Riyadh,9,SA,Saudi Arabia,24.85252,['http://www.pnu.edu.sa/en'],46.72359,47.0,['Education'],,PNU
+grid.4494.d,University Medical Center Groningen,Groningen,9,NL,Netherlands,53.222794,['http://www.umcg.nl/EN'],6.574039,134.0,['Healthcare'],Groningen,UMCG
+grid.503422.2,University of Lille,Lille,9,FR,France,50.6317,['https://www.univ-lille.fr/home/'],3.075126,96.0,['Education'],,UDL
+grid.5399.6,Aix-Marseille University,Marseille,9,FR,France,43.293537,['http://www.univ-amu.fr/'],5.357944,291.0,['Education'],,AMU
+grid.5590.9,Radboud University Nijmegen,Nijmegen,9,NL,Netherlands,51.81901,['http://www.ru.nl/english/'],5.856999,154.0,['Education'],Gelderland,
+grid.5801.c,ETH Zurich,Zurich,9,CH,Switzerland,47.37581,['https://www.ethz.ch/en.html'],8.546482,260.0,['Education'],,ETH Zurich
+grid.5802.f,Johannes Gutenberg University of Mainz,Mainz,9,DE,Germany,49.992584,['http://www.uni-mainz.de/eng/'],8.241212,69.0,['Education'],Rheinland-Pfalz,
+grid.5807.a,Otto-von-Guericke University Magdeburg,Magdeburg,9,DE,Germany,52.14,['http://www.ovgu.de/unimagdeburg/en/Otto+von+Guericke+University+Magdeburg.html'],11.643,29.0,['Education'],,OvGU
+grid.7143.1,Odense University Hospital,Odense,9,DK,Denmark,55.38545,['http://www.ouh.dk/wm259883'],10.369656,100.0,['Healthcare'],,OUH
+grid.8348.7,John Radcliffe Hospital,Oxford,9,GB,United Kingdom,51.763805,['http://www.ouh.nhs.uk/hospitals/jr/default.aspx'],-1.21875,63.0,['Healthcare'],Oxfordshire,JR
+grid.8591.5,University of Geneva,Geneva,9,CH,Switzerland,46.199657,['https://www.unige.ch/'],6.145095,214.0,['Education'],,UNIGE
+grid.1033.1,Bond University,Gold Coast,8,AU,Australia,-28.073982,['http://bond.edu.au/'],153.41649,110.0,['Education'],Queensland,
+grid.10388.32,University of Bonn,Bonn,8,DE,Germany,50.73389,['http://www3.uni-bonn.de/the-university'],7.102222,214.0,['Education'],,
+grid.10438.3e,University of Messina,Messina,8,IT,Italy,38.19269,['http://www.unime.it/'],15.546198,135.0,['Education'],,UNIME
+grid.12362.34,University of Wales Trinity Saint David,Swansea,8,GB,United Kingdom,52.11452,['http://www.uwtsd.ac.uk/'],-4.0754,52.0,['Education'],,UWTSD
+grid.147455.6,Carnegie Mellon University,Pittsburgh,8,US,United States,40.44332,['http://www.cmu.edu/index.shtml'],-79.94358,122.0,['Education'],Pennsylvania,CMU
+grid.156520.5,Institut Laue-Langevin,Grenoble,8,FR,France,45.20716,['https://www.ill.eu/'],5.696991,16.0,['Facility'],,ILL
+grid.15711.33,European University Institute,Florence,8,IT,Italy,43.802776,['http://www.eui.eu/'],11.282778,0.0,['Education'],,EUI
+grid.157927.f,Universitat Politècnica de València,Valencia,8,ES,Spain,39.48165,['http://www.upv.es/'],-0.343808,32.0,['Education'],,UPV
+grid.21200.31,Dokuz Eylül University,Izmir,8,TR,Turkey,38.4306,['http://www.deu.edu.tr/deuwebv2/Anasayfa.php?'],27.1372,204.0,['Education'],,DEÜ
+grid.23048.3d,University of Agder,Kristiansand,8,NO,Norway,58.1639,['http://www.uia.no/en'],8.003429,163.0,['Education'],Vest-Agder,
+grid.256304.6,Georgia State University,Atlanta,8,US,United States,33.75278,['http://www.gsu.edu/'],-84.38611,100.0,['Education'],Georgia,GSU
+grid.257410.5,Indiana University,Bloomington,8,US,United States,39.17106,['http://www.iu.edu/'],-86.51388,1.0,['Education'],Indiana,IU
+grid.25769.3f,Gazi University,Ankara,8,TR,Turkey,39.93667,['http://gazi.edu.tr/'],32.822224,71.0,['Education'],Ankara,
+grid.258900.6,Lakehead University,Thunder Bay,8,CA,Canada,48.421017,['https://www.lakeheadu.ca/about'],-89.25645,12.0,['Education'],Ontario,
+grid.258970.1,Laurentian University,Greater Sudbury,8,CA,Canada,46.46604,['https://laurentian.ca/'],-80.97049,25.0,['Education'],Ontario,
+grid.259029.5,Lehigh University,Bethlehem,8,US,United States,40.606712,['http://www1.lehigh.edu/'],-75.38137,155.0,['Education'],Pennsylvania,
+grid.263761.7,Soochow University,Suzhou,8,CN,China,31.30919,['http://eng.suda.edu.cn/'],120.641335,112.0,['Education'],,
+grid.264727.2,Temple University,Philadelphia,8,US,United States,39.982258,['http://www.temple.edu/'],-75.154594,38.0,['Education'],Pennsylvania,
+grid.265892.2,University of Alabama at Birmingham,Birmingham,8,US,United States,33.500675,['http://www.uab.edu/'],-86.805824,96.0,['Education'],Alabama,UAB
+grid.266239.a,University of Denver,Denver,8,US,United States,39.678333,['http://www.du.edu/'],-104.96222,10.0,['Education'],Colorado,
+grid.266518.e,University of Karachi,Karachi,8,PK,Pakistan,24.940802,['http://www.uok.edu.pk/'],67.12024,44.0,['Education'],,KU
+grid.28046.38,University of Ottawa,Ottawa,8,CA,Canada,45.4222,['http://www.uottawa.ca/en'],-75.6824,6.0,['Education'],Ontario,
+grid.29172.3f,University of Lorraine,Nancy,8,FR,France,48.69611,['http://www.univ-lorraine.fr/'],6.176667,56.0,['Education'],,UL
+grid.33489.35,University of Delaware,Newark,8,US,United States,39.67911,['http://www.udel.edu/'],-75.75217,128.0,['Education'],Delaware,UD
+grid.35349.38,University of Roehampton,London,8,GB,United Kingdom,51.458145,['http://www.roehampton.ac.uk/home/'],-0.243373,35.0,['Education'],,
+grid.38678.32,University of Quebec at Montreal,Montreal,8,CA,Canada,45.51278,['http://www.uqam.ca/en/about/presentation_en.htm'],-73.56128,374.0,['Education'],Quebec,UQÀM
+grid.410319.e,Concordia University,Montreal,8,CA,Canada,45.45867,['https://www.concordia.ca/'],-73.64011,17.0,['Education'],Quebec,
+grid.410511.0,Paris-Est Créteil University,Paris,8,FR,France,48.788055,['http://www.en.u-pec.fr/'],2.444167,155.0,['Education'],,UPEC
+grid.410513.2,Pfizer (United States),New York,8,US,United States,40.750362,['http://www.pfizer.com/'],-73.97254,29.0,['Company'],New York,Pfizer
+grid.410558.d,University of Thessaly,Volos,8,GR,Greece,39.35772,['http://www.uth.gr/'],22.950794,8.0,['Education'],,
+grid.411203.5,Kyonggi University,Suwon,8,KR,South Korea,37.300488,['http://www.kyonggi.ac.kr/KyonggiEng.kgu'],127.035835,32.0,['Education'],,KGU
+grid.411693.8,Trakya University,Edirne,8,TR,Turkey,41.64131,['http://www-en.trakya.edu.tr/'],26.616322,95.0,['Education'],,
+grid.411848.0,University of Mosul,Mosul,8,IQ,Iraq,36.376553,['http://www.uomosul.edu.iq/'],43.14251,15.0,['Education'],,
+grid.411978.2,Kafrelsheikh University,Kafr ash Shaykh,8,EG,Egypt,31.098333,['http://www.kfs.edu.eg/engkfs/'],30.95,113.0,['Education'],,
+grid.413017.0,University of Maiduguri,Maiduguri,8,NG,Nigeria,11.803654,['http://www.unimaid.edu.ng/'],13.203338,23.0,['Education'],,UNIMAID
+grid.413454.3,Polish Academy of Sciences,Warsaw,8,PL,Poland,52.22143,['http://www.english.pan.pl/'],21.014345,234.0,['Government'],,PAN
+grid.414601.6,Brighton and Sussex Medical School,Brighton,8,GB,United Kingdom,50.865,['https://www.bsms.ac.uk/index.aspx'],-0.085,28.0,['Education'],,BSMS
+grid.415719.f,Churchill Hospital,Oxford,8,GB,United Kingdom,51.763805,['https://www.ouh.nhs.uk/hospitals/churchill/'],-1.21875,15.0,['Healthcare'],,
+grid.416118.b,Royal Devon and Exeter Hospital,Exeter,8,GB,United Kingdom,50.71684,['http://www.nhs.uk/Services/hospitals/Overview/DefaultView.aspx?id=1963'],-3.50636,92.0,['Healthcare'],,RD&E
+grid.417540.3,Eli Lilly (United States),Indianapolis,8,US,United States,39.75627,['http://www.lilly.com/'],-86.15307,10.0,['Company'],Indiana,Eli Lilly & Company
+grid.418187.3,Research Center Borstel - Leibniz Lung Center,Borstel,8,DE,Germany,53.821266,['https://fz-borstel.de/index.php/en/'],10.193371,141.0,['Facility'],,FZB
+grid.419075.e,Ames Research Center,Mountain View,8,US,United States,37.41523,['http://www.nasa.gov/centers/ames/home/index.html'],-122.06265,63.0,['Facility'],California,ARC
+grid.419319.7,Manchester Royal Infirmary,Manchester,8,GB,United Kingdom,53.462223,['http://www.cmft.nhs.uk/royal-infirmary'],-2.226389,28.0,['Healthcare'],,MRI
+grid.421224.3,City of Bradford Metropolitan District Council,Bradford,8,GB,United Kingdom,53.792145,['https://www.bradford.gov.uk/bmdc/default'],-1.75465,48.0,['Government'],England,
+grid.424944.b,AkzoNobel (United Kingdom),London,8,GB,United Kingdom,51.49791,['https://www.akzonobel.com/'],-0.141513,18.0,['Company'],England,
+grid.425585.b,Natural History Museum Vienna,Vienna,8,AT,Austria,48.205204,['http://www.nhm-wien.ac.at/'],16.359823,152.0,['Archive'],,NHMW
+grid.432583.b,Bristol-Myers Squibb (United Kingdom),London,8,GB,United Kingdom,51.55632,['https://www.bms.com/gb'],-0.47914,12.0,['Company'],,BMS
+grid.439314.8,Airedale NHS Foundation Trust,Keighley,8,GB,United Kingdom,53.897945,['http://www.airedale-trust.nhs.uk/'],-1.964165,58.0,['Healthcare'],,
+grid.442558.a,Misurata University,Misratah,8,LY,Libya,32.373234,['http://misuratau.edu.ly'],15.078209,44.0,['Education'],,MU
+grid.443020.1,North South University,Dhaka,8,BD,Bangladesh,23.815437,['http://www.northsouth.edu'],90.42537,162.0,['Education'],,NSU
+grid.448824.6,Galgotias University,Greater Noida,8,IN,India,28.366158,['https://www.galgotiasuniversity.edu.in/'],77.54009,122.0,['Education'],,GU
+grid.449256.8,Sirte University,Sirte,8,LY,Libya,31.177486,['http://su.edu.ly/ar/'],16.601307,54.0,['Education'],,
+grid.452463.2,German Center for Infection Research,Braunschweig,8,DE,Germany,52.211216,['http://www.dzif.de/en/'],10.53122,141.0,['Facility'],,DZIF
+grid.463530.7,University of South-Eastern Norway,Kongsberg,8,NO,Norway,59.66447,['https://www.usn.no/?lang=en_GB'],9.644569,32.0,['Education'],,USN
+grid.4711.3,Spanish National Research Council,Madrid,8,ES,Spain,40.595882,['http://www.csic.es/'],-3.688175,62.0,['Government'],,CSIC
+grid.4903.e,Royal Botanic Gardens,London,8,GB,United Kingdom,51.479065,['http://www.kew.org/'],-0.29553,29.0,['Archive'],,
+grid.498924.a,Manchester University NHS Foundation Trust,Manchester,8,GB,United Kingdom,53.465977,['https://mft.nhs.uk/'],-2.233511,21.0,['Healthcare'],,MFT
+grid.512929.4,Noroff Education,Kristiansand,8,NO,Norway,58.16775,['https://www.noroff.no/en/'],8.015688,34.0,['Education'],,
+grid.5133.4,University of Trieste,Trieste,8,IT,Italy,45.6585,['http://www.units.it/'],13.79318,181.0,['Education'],,UNITS
+grid.517882.1,Zhejiang Yuexiu University,Shaoxing,8,CN,China,29.9683,['https://en.zyufl.edu.cn/'],120.59862,104.0,['Education'],,ZYU
+grid.5374.5,Nicolaus Copernicus University,Toruń,8,PL,Poland,53.018333,['http://www.umk.pl/en/'],18.572222,164.0,['Education'],,UMK
+grid.5734.5,University of Bern,Bern,8,CH,Switzerland,46.95052,['http://www.unibe.ch/eng/'],7.438109,129.0,['Education'],,UB
+grid.62560.37,Brigham and Women's Hospital,Boston,8,US,United States,42.3356,['http://www.brighamandwomens.org/'],-71.106415,103.0,['Healthcare'],Massachusetts,BWH
+grid.63833.3d,Atomic Weapons Establishment,Reading,8,GB,United Kingdom,51.36907,['http://www.awe.co.uk/'],-1.142387,0.0,['Facility'],,AWE
+grid.68312.3e,Ryerson University,Toronto,8,CA,Canada,43.657738,['http://www.ryerson.ca/index.html'],-79.38018,547.0,['Education'],Ontario,
+grid.7399.4,Babeș-Bolyai University,Cluj-Napoca,8,RO,Romania,46.767776,['http://www.ubbcluj.ro/en/'],23.59111,23.0,['Education'],Cluj,UBB
+grid.79703.3a,South China University of Technology,Guangzhou,8,CN,China,23.151306,['http://en.scut.edu.cn/'],113.34464,11.0,['Education'],,SCUT
+grid.8578.2,"""Dunarea de Jos"" University of Galati",Galati,8,RO,Romania,45.43944,['http://www.ugal.ro/'],28.056376,2.0,['Education'],,DJUG
+grid.8657.c,Finnish Meteorological Institute,Helsinki,8,FI,Finland,60.203804,['http://en.ilmatieteenlaitos.fi/'],24.96099,40.0,['Government'],,FMI
+grid.8682.4,Natural Environment Research Council,Swindon,8,GB,United Kingdom,51.566956,['http://www.nerc.ac.uk/'],-1.785321,44.0,['Government'],,NERC
+grid.9763.b,University of Khartoum,Khartoum,8,SD,Sudan,15.609386,['http://www.uofk.edu/'],32.541668,31.0,['Education'],Khartoum,
+grid.10041.34,University of La Laguna,San Cristóbal de La Laguna,7,ES,Spain,28.484816,['http://www.ull.es/'],-16.31285,1.0,['Education'],,ULL
+grid.10212.30,University of Macedonia,Thessaloniki,7,GR,Greece,40.6253,['http://www.uom.gr/'],22.96,35.0,['Education'],,
+grid.1026.5,University of South Australia,Adelaide,7,AU,Australia,-34.92049,['https://www.unisa.edu.au/'],138.60678,15.0,['Education'],South Australia,
+grid.10306.34,Wellcome Sanger Institute,Cambridge,7,GB,United Kingdom,52.07995,['http://www.sanger.ac.uk/'],0.185566,91.0,['Nonprofit'],,WTSI
+grid.10383.39,University of Parma,Parma,7,IT,Italy,44.797077,['http://en.unipr.it/'],10.30867,54.0,['Education'],,UNIPR
+grid.10586.3a,University of Murcia,Murcia,7,ES,Spain,38.019585,['http://www.um.es/'],-1.169259,209.0,['Education'],,
+grid.10757.34,University of Nigeria,Nsukka,7,NG,Nigeria,6.869079,['http://www.unn.edu.ng/'],7.414543,18.0,['Education'],,UNN
+grid.11047.33,University of Patras,Pátrai,7,GR,Greece,38.286667,['http://www.upatras.gr/'],21.786388,21.0,['Education'],,
+grid.11375.31,Jožef Stefan Institute,Ljubljana,7,SI,Slovenia,46.04222,['http://www.ijs.si/ijsw'],14.488254,5.0,['Facility'],,IJS
+grid.11451.30,Medical University of Gdańsk,Gdańsk,7,PL,Poland,54.36611,['http://mug.edu.pl/'],18.630556,114.0,['Education'],,MUG
+grid.12136.37,Tel Aviv University,Tel Aviv,7,IL,Israel,32.113388,['http://english.tau.ac.il/'],34.802155,87.0,['Education'],,TAU
+grid.12955.3a,Xiamen University,Amoy,7,CN,China,24.437328,['http://std.xmu.edu.cn/std_en/'],118.1003,51.0,['Education'],Fujian,XMU
+grid.131063.6,University of Notre Dame,Notre Dame,7,US,United States,41.70578,['https://www.nd.edu/'],-86.23568,0.0,['Education'],Indiana,
+grid.13992.30,Weizmann Institute of Science,Rehovot,7,IL,Israel,31.9075,['http://www.weizmann.ac.il/pages/'],34.809166,1.0,['Education'],,
+grid.16299.35,Athens University of Economics and Business,Athens,7,GR,Greece,37.993996,['http://www.aueb.gr/index_en.php'],23.73398,75.0,['Education'],,AUEB
+grid.19188.39,National Taiwan University,Taipei,7,TW,Taiwan,25.016,['http://www.ntu.edu.tw/english/'],121.536,159.0,['Education'],Taipei,NTU
+grid.212340.6,City University of New York,New York,7,US,United States,40.750767,['http://www.cuny.edu/index.html'],-73.97374,182.0,['Education'],New York,CUNY
+grid.213917.f,Georgia Institute of Technology,Atlanta,7,US,United States,33.775887,['http://www.gatech.edu/'],-84.39629,31.0,['Education'],Georgia,GT
+grid.21613.37,University of Manitoba,Winnipeg,7,CA,Canada,49.806892,['http://umanitoba.ca/'],-97.13834,0.0,['Education'],Manitoba,
+grid.21678.3a,Tomas Bata University in Zlín,Zlín,7,CZ,Czechia,49.223186,['http://www.utb.cz/index.php?lang=2'],17.666872,25.0,['Education'],,TBU
+grid.22937.3d,Medical University of Vienna,Vienna,7,AT,Austria,48.22,['http://www.meduniwien.ac.at/homepage/1/homepage/'],16.351389,86.0,['Education'],,
+grid.23378.3d,University of the Highlands and Islands,Inverness,7,GB,United Kingdom,57.47843,['http://www.uhi.ac.uk/en'],-4.216645,24.0,['Education'],,UHI
+grid.24827.3b,University of Cincinnati,Cincinnati,7,US,United States,39.132023,['http://www.uc.edu/'],-84.51555,70.0,['Education'],Ohio,UC
+grid.266539.d,University of Kentucky,Lexington,7,US,United States,38.03099,['http://www.uky.edu/'],-84.504486,147.0,['Education'],Kentucky,
+grid.266623.5,University of Louisville,Louisville,7,US,United States,38.212345,['http://louisville.edu/'],-85.75928,20.0,['Education'],Kentucky,
+grid.29328.32,Maria Curie-Skłodowska University,Lublin,7,PL,Poland,51.245556,['http://www.umcs.pl/'],22.540556,161.0,['Education'],,UMCS
+grid.31451.32,Zagazig University,Zagazig,7,EG,Egypt,30.588577,['http://www.zu.edu.eg/'],31.482271,42.0,['Education'],,
+grid.410351.2,National Physical Laboratory,London,7,GB,United Kingdom,51.427185,['http://www.npl.co.uk/'],-0.344256,17.0,['Facility'],,NPL
+grid.411225.1,Ahmadu Bello University,Zaria,7,NG,Nigeria,11.066667,['http://abu.edu.ng/'],7.7,21.0,['Education'],,ABU
+grid.411303.4,Al Azhar University,Cairo,7,EG,Egypt,30.045834,['http://www.azhar.edu.eg/'],31.2625,38.0,['Education'],,
+grid.411488.0,University of Lucknow,Lucknow,7,IN,India,26.865557,['http://www.lkouniv.ac.in/'],80.936386,42.0,['Education'],Uttar Pradesh,
+grid.411583.a,Mashhad University of Medical Sciences,Mashhad,7,IR,Iran,36.283035,['http://www.mashhadmtv.ac.ir/'],59.536556,19.0,['Education'],,MUMS
+grid.411703.0,Yüzüncü Yıl University,Van,7,TR,Turkey,38.5698,['http://www.yyu.edu.tr/'],43.2875,102.0,['Education'],,
+grid.411727.6,"International Islamic University, Islamabad",Islamabad,7,PK,Pakistan,33.661697,['https://iiu.edu.pk/default.htm'],73.02576,120.0,['Education'],,IIUI
+grid.411902.f,Jimei University,Amoy,7,CN,China,24.577002,['http://english.jmu.edu.cn/'],118.093094,49.0,['Education'],,
+grid.412093.d,Helwan University,Cairo,7,EG,Egypt,29.866667,['http://www.helwan.edu.eg/english/'],31.316668,23.0,['Education'],,
+grid.412553.4,Sharif University of Technology,Tehran,7,IR,Iran,35.703865,['http://www.sharif.ir/web/en'],51.35158,16.0,['Education'],,SUT
+grid.415490.d,Queen Elizabeth Hospital Birmingham,Birmingham,7,GB,United Kingdom,52.451084,['http://www.uhb.nhs.uk/about-us.htm'],-1.941381,23.0,['Healthcare'],,
+grid.417375.3,York Hospital,York,7,GB,United Kingdom,53.970737,['http://www.yorkhospitals.nhs.uk/our_hospitals/_the_york_hospital/'],-1.083385,16.0,['Healthcare'],,
+grid.417870.d,Centre de Biophysique Moléculaire,Orléans,7,FR,France,47.840187,['http://cbm.cnrs-orleans.fr/?lang=en'],1.944462,165.0,['Facility'],,CBM
+grid.417922.b,Ford Motor Company (United States),Dearborn,7,US,United States,42.2923,['http://www.ford.com/'],-83.23442,10.0,['Company'],Michigan,
+grid.418193.6,Norwegian Institute of Public Health,Oslo,7,NO,Norway,59.934086,['http://www.fhi.no/'],10.745209,115.0,['Government'],,NIPH
+grid.418465.a,Leibniz Institute for Prevention Research and Epidemiology - BIPS,Bremen,7,DE,Germany,53.100155,['https://www.bips-institut.de/en/home.html'],8.858344,24.0,['Facility'],,BIPS
+grid.419334.8,Royal Victoria Infirmary,Newcastle upon Tyne,7,GB,United Kingdom,54.979958,['http://www.newcastle-hospitals.org.uk/hospitals/royal-victoria-infirmary.aspx'],-1.619257,67.0,['Healthcare'],,RVI
+grid.419971.3,Bristol-Myers Squibb (United States),New York,7,US,United States,40.74033,['https://www.bms.com/'],-73.9749,22.0,['Company'],New York,BMS
+grid.420044.6,Bayer (Germany),Leverkusen,7,DE,Germany,51.013424,['http://www.gesundheit.bayer.de/de/index.php'],6.983162,15.0,['Company'],,
+grid.421508.a,Ford Motor Company (United Kingdom),Brentwood,7,GB,United Kingdom,51.60102,['http://www.ford.com/'],0.298705,9.0,['Company'],Essex,
+grid.423485.c,Ioffe Institute,Saint Petersburg,7,RU,Russia,60.00656,['http://www.ioffe.ru/'],30.368397,1.0,['Facility'],,
+grid.424021.1,Alzheimer Europe,Luxembourg,7,LU,Luxembourg,49.60419,['http://www.alzheimer-europe.org/'],6.129969,151.0,['Nonprofit'],,AE
+grid.4241.3,National Technical University of Athens,Athens,7,GR,Greece,37.978714,['http://www.ntua.gr/index_en.html'],23.782654,52.0,['Education'],Attiki,NTUA
+grid.424755.5,Hungarian Natural History Museum,Budapest,7,HU,Hungary,47.482224,['http://www.nhmus.hu/en/english_home'],19.085556,302.0,['Archive'],,
+grid.425213.3,St Thomas' Hospital,London,7,GB,United Kingdom,51.498817,['https://www.guysandstthomas.nhs.uk/patients-and-visitors/getting-here/travel-st-thomas.aspx'],-0.11910081,86.0,['Healthcare'],,
+grid.425566.6,National Museum of Denmark,Copenhagen,7,DK,Denmark,55.676052,['https://en.natmus.dk/'],12.574612,198.0,['Archive'],,
+grid.425902.8,Institució Catalana de Recerca i Estudis Avançats,Barcelona,7,ES,Spain,41.391613,['https://www.icrea.cat/en'],2.174748,222.0,['Nonprofit'],,ICREA
+grid.434554.7,Joint Research Centre,Ispra,7,IT,Italy,45.80981,['https://ec.europa.eu/jrc/'],8.631205,19.0,['Government'],,JRC
+grid.437349.e,University of Minnesota System,Minneapolis,7,US,United States,44.974747,['http://twin-cities.umn.edu/'],-93.23535,33.0,['Education'],Minnesota,
+grid.438526.e,Virginia Tech,Blacksburg,7,US,United States,37.22001,['https://www.vt.edu/about/index.html'],-80.42409,142.0,['Education'],Virginia,
+grid.439448.6,Barnet Enfield and Haringey Mental Health Trust,London,7,GB,United Kingdom,51.579784,['http://www.beh-mht.nhs.uk/'],-0.09166,72.0,['Healthcare'],,
+grid.439749.4,University College Hospital,London,7,GB,United Kingdom,51.524734,['https://www.uclh.nhs.uk/OurServices/OurHospitals/UCH/Pages/Home.aspx'],-0.136346,48.0,['Healthcare'],,UCH
+grid.440522.5,Abdul Wali Khan University Mardan,Mardan,7,PK,Pakistan,34.190804,['http://www.awkum.edu.pk/'],72.03687,24.0,['Education'],,AWKUM
+grid.440526.1,"Balochistan University of Information Technology, Engineering and Management Sciences",Quetta,7,PK,Pakistan,30.2682,['http://www.buitms.edu.pk/'],66.940056,59.0,['Education'],,BUITEMS
+grid.440686.8,Dalian Maritime University,Dalian,7,CN,China,38.871094,['https://www.dlmu.edu.cn/'],121.53401,15.0,['Education'],,
+grid.440896.7,German Jordanian University,Amman,7,JO,Jordan,31.77702,['http://www.gju.edu.jo/'],35.80234,92.0,['Education'],,GJU
+grid.443359.c,Zarqa University,Zarqa,7,JO,Jordan,32.05996,['http://www.zu.edu.jo'],36.156067,50.0,['Education'],,ZU
+grid.444830.f,Qom University of Medical Science and Health Services,Qom,7,IR,Iran,34.651752,['http://en.muq.ac.ir/index.aspx'],50.89076,7.0,['Education'],,
+grid.444967.c,University of Technology - Iraq,Baghdad,7,IQ,Iraq,33.312546,['http://www.uotechnology.edu.iq/'],44.447002,13.0,['Education'],,
+grid.444996.2,Sarhad University of Science and Information Technology,Peshawar,7,PK,Pakistan,33.963795,['http://www.suit.edu.pk'],71.52916,33.0,['Education'],,
+grid.449033.9,Dawood University of Engineering and Technology,Karachi,7,PK,Pakistan,24.87898,['https://duet.edu.pk'],67.04757,29.0,['Education'],,DUET
+grid.450564.6,Camden and Islington NHS Foundation Trust,London,7,GB,United Kingdom,51.536148,['http://www.candi.nhs.uk/'],-0.131833,105.0,['Healthcare'],,C&I
+grid.451255.2,Sheffield Health and Social Care NHS Foundation Trust,Sheffield,7,GB,United Kingdom,53.364513,['http://shsc.nhs.uk/'],-1.537487,68.0,['Healthcare'],,SHSC
+grid.452146.0,Hamad bin Khalifa University,Doha,7,QA,Qatar,25.314186,['http://www.hbku.edu.qa/en'],51.441406,41.0,['Education'],,HBKU
+grid.452413.5,Fundação Getulio Vargas,Rio de Janeiro,7,BR,Brazil,-22.941439,['http://portal.fgv.br/en'],-43.179962,108.0,['Education'],,FGV 
+grid.452660.3,National Museum,Bloemfontein,7,ZA,South Africa,-29.115063,['http://www.nasmus.co.za/'],26.219063,32.0,['Archive'],,
+grid.452755.4,Rwanda Biomedical Center,Kigali,7,RW,Rwanda,-1.936752,['http://www.rbc.gov.rw/'],30.068588,96.0,['Healthcare'],,RBC
+grid.458455.d,Institute of Acoustics,Beijing,7,CN,China,39.986763,['http://english.ioa.cas.cn/'],116.32575,2.0,['Facility'],,IOA
+grid.459985.c,Stomatological Hospital of Chongqing Medical University,Chongqing,7,CN,China,29.594622,['http://www.cqdent.com/english/'],106.505295,78.0,['Healthcare'],,
+grid.462482.e,Manchester Academic Health Science Centre,Manchester,7,GB,United Kingdom,53.463276,['http://www.mahsc.ac.uk/'],-2.238434,55.0,['Healthcare'],,MAHSC
+grid.464495.e,Xi'an Polytechnic University,Xi'an,7,CN,China,34.257645,['http://en.xpu.edu.cn/'],108.9995,18.0,['Education'],,XPU
+grid.469873.7,Max Planck Institute for the Science of Human History,Jena,7,DE,Germany,50.917706,['http://www.shh.mpg.de/en'],11.578025,257.0,['Facility'],,
+grid.494717.8,University of Clermont Auvergne,Clermont-Ferrand,7,FR,France,45.789692,['http://www.uca.fr/'],3.108777,170.0,['Education'],,
+grid.499441.5,Museum of London,London,7,GB,United Kingdom,51.51787,['https://www.museumoflondon.org.uk/museum-london'],-0.096821,120.0,['Archive'],,
+grid.67105.35,Case Western Reserve University,Cleveland,7,US,United States,41.50442,['http://www.case.edu/'],-81.60838,28.0,['Education'],Ohio,CWRU
+grid.6926.b,Luleå University of Technology,Luleå,7,SE,Sweden,65.61845,['http://www.ltu.se/'],22.140137,29.0,['Education'],,
+grid.69775.3a,University of Science and Technology Beijing,Beijing,7,CN,China,39.98946,['http://en.ustb.edu.cn/'],116.36002,17.0,['Education'],,USTB
+grid.7548.e,University of Modena and Reggio Emilia,Modena,7,IT,Italy,44.631924,['http://www.unimore.it/'],10.944234,19.0,['Education'],,
+grid.7634.6,Comenius University,Bratislava,7,SK,Slovakia,48.14132,['https://uniba.sk/'],17.115547,191.0,['Education'],,
+grid.7763.5,University of Cagliari,Cagliari,7,IT,Italy,39.217533,['http://www.unica.it/'],9.114956,97.0,['Education'],,
+grid.7914.b,University of Bergen,Bergen,7,NO,Norway,60.388084,['http://www.uib.no/en/node/36362'],5.322872,30.0,['Education'],Hordaland,
+grid.8193.3,University of Dar es Salaam,Dar es Salaam,7,TZ,Tanzania,-6.780556,['https://udsm.ac.tz/'],39.203335,25.0,['Education'],,UDSM
+grid.8302.9,Ege University,Izmir,7,TR,Turkey,38.4539,['http://www.ege.edu.tr/'],27.2117,107.0,['Education'],,
+grid.8484.0,University of Ferrara,Ferrara,7,IT,Italy,44.83366,['http://www.unife.it/'],11.626141,31.0,['Education'],,
+grid.8547.e,Fudan University,Shanghai,7,CN,China,31.297712,['http://www.fudan.edu.cn/en/'],121.50361,83.0,['Education'],Shanghai,
+grid.9811.1,University of Konstanz,Konstanz,7,DE,Germany,47.68899,['http://www.uni-konstanz.de/en/welcome/'],9.187006,22.0,['Education'],Baden-Württemberg,
+grid.9922.0,AGH University of Science and Technology,Krakow,7,PL,Poland,50.06716,['http://www.agh.edu.pl/en'],19.913277,151.0,['Education'],,AGH UST
+grid.10702.34,National University of Distance Education,Madrid,6,ES,Spain,40.45145,"['http://portal.uned.es/portal/page?_pageid=93,24305391&_dad=portal&_schema=PORTAL']",-3.737718,86.0,['Education'],,UNED
+grid.11348.3f,University of Potsdam,Potsdam,6,DE,Germany,52.40111,['https://www.uni-potsdam.de/en/'],13.011944,100.0,['Education'],,UP
+grid.11762.33,University of Salamanca,Salamanca,6,ES,Spain,40.961613,['http://www.usal.es/webusal/en'],-5.667607,28.0,['Education'],Castilla y León,
+grid.11956.3a,Stellenbosch University,Stellenbosch,6,ZA,South Africa,-33.933163,['http://www.sun.ac.za/english'],18.862043,35.0,['Education'],Western Cape,SU
+grid.12306.36,University of Tirana,Tirana,6,AL,Albania,41.342518,['http://www.unitir.edu.al/'],19.833445,158.0,['Education'],Durrës,UT
+grid.12650.30,Umeå University,Umeå,6,SE,Sweden,63.821568,['http://www.umu.se/english'],20.310623,136.0,['Education'],,
+grid.13339.3b,Medical University of Warsaw,Warsaw,6,PL,Poland,52.2062,['http://www.wum.edu.pl/english/'],20.985014,221.0,['Education'],,
+grid.135519.a,Oak Ridge National Laboratory,Oak Ridge,6,US,United States,35.933334,['http://www.ornl.gov/'],-84.316666,34.0,['Facility'],Tennessee,ORNL
+grid.13856.39,Rzeszów University,Rzeszów,6,PL,Poland,50.03,['http://www.ur.edu.pl/en'],22.015556,80.0,['Education'],,
+grid.143640.4,University of Victoria,Victoria,6,CA,Canada,48.463326,['http://www.uvic.ca/'],-123.31175,10.0,['Education'],British Columbia,
+grid.152326.1,Vanderbilt University,Nashville,6,US,United States,36.144936,['http://www.vanderbilt.edu/'],-86.80269,71.0,['Education'],Tennessee,
+grid.164971.c,Loyola University Chicago,Chicago,6,US,United States,41.9999,['http://www.luc.edu/'],-87.6578,16.0,['Education'],Illinois,LUC
+grid.168645.8,University of Massachusetts Medical School,Worcester,6,US,United States,42.275444,['http://www.umassmed.edu/'],-71.76257,63.0,['Education'],Massachusetts,UMMS
+grid.170205.1,University of Chicago,Chicago,6,US,United States,41.78885,['http://www.uchicago.edu/'],-87.5987,74.0,['Education'],Illinois,UC
+grid.170430.1,University of Central Florida,Orlando,6,US,United States,28.6016,['http://www.ucf.edu/'],-81.2005,119.0,['Education'],Florida,UCF
+grid.181531.f,Beijing Jiaotong University,Beijing,6,CN,China,40.000557,['http://en.njtu.edu.cn/'],116.32611,22.0,['Education'],Beijing,BJTU
+grid.189967.8,Emory University,Atlanta,6,US,United States,33.792786,['http://www.emory.edu/home/index.html'],-84.32401,2.0,['Education'],Georgia,
+grid.205975.c,"University of California, Santa Cruz",Santa Cruz,6,US,United States,37.0,['http://www.ucsc.edu/'],-122.06,13.0,['Education'],California,UCSC
+grid.215352.2,The University of Texas at San Antonio,San Antonio,6,US,United States,29.582909,['http://www.utsa.edu/'],-98.62058,3.0,['Education'],Texas,UTSA
+grid.217309.e,Stevens Institute of Technology,Hoboken,6,US,United States,40.744907,['http://www.stevens.edu/sit/'],-74.02393,184.0,['Education'],New Jersey,SIT
+grid.24381.3c,Karolinska University Hospital,Stockholm,6,SE,Sweden,59.352222,['http://www.karolinska.se/en'],18.032223,53.0,['Healthcare'],,
+grid.24515.37,Hong Kong University of Science and Technology,Hong Kong,6,CN,China,22.336182,['http://www.ust.hk/'],114.26512,162.0,['Education'],Hong Kong,HKUST
+grid.24805.3b,New Mexico State University,Las Cruces,6,US,United States,32.28164,['http://www.nmsu.edu/'],-106.75365,52.0,['Education'],New Mexico,NMSU
+grid.252251.3,Anhui University of Traditional Chinese Medicine,Hefei,6,CN,China,31.84889,['http://www.ahtcm.edu.cn/'],117.25478,50.0,['Education'],Anhui,AHUTCM
+grid.253294.b,Brigham Young University,Provo,6,US,United States,40.25,['http://home.byu.edu/home/'],-111.65,29.0,['Education'],Utah,BYU
+grid.261112.7,Northeastern University,Boston,6,US,United States,42.33983,['http://www.northeastern.edu/'],-71.08918,2.0,['Education'],Massachusetts,NU
+grid.263826.b,Southeast University,Nanjing,6,CN,China,32.055927,['http://www.seu.edu.cn/english/'],118.79425,49.0,['Education'],,SEU
+grid.264260.4,Binghamton University,Binghamton,6,US,United States,42.08925,['http://www.binghamton.edu/index.php'],-75.96989,52.0,['Education'],New York,BU
+grid.266835.c,University of New Orleans,New Orleans,6,US,United States,30.0275,['http://www.uno.edu/'],-90.0671,1.0,['Education'],Louisiana,UNO
+grid.266976.a,University of Peshawar,Peshawar,6,PK,Pakistan,34.00149,['http://www.upesh.edu.pk/'],71.48701,13.0,['Education'],,
+grid.267315.4,The University of Texas at Arlington,Arlington,6,US,United States,32.731,['http://www.uta.edu/uta/'],-97.115,3.0,['Education'],Texas,UTA
+grid.267827.e,Victoria University of Wellington,Wellington,6,NZ,New Zealand,-41.29016,['https://www.wgtn.ac.nz/'],174.76865,9.0,['Education'],Wellington,
+grid.34429.38,University of Guelph,Guelph,6,CA,Canada,43.533413,['http://www.uoguelph.ca/'],-80.22727,122.0,['Education'],Ontario,
+grid.37553.37,Jordan University of Science and Technology,Irbid,6,JO,Jordan,32.494614,['http://www.just.edu.jo/Pages/Default.aspx'],35.989735,12.0,['Education'],Irbid,JUST
+grid.40263.33,Brown University,Providence,6,US,United States,41.8262,['http://www.brown.edu/'],-71.4032,7.0,['Education'],Rhode Island,
+grid.410318.f,China Academy of Chinese Medical Sciences,Beijing,6,CN,China,39.941803,['http://www.cacms.ac.cn/'],116.428375,22.0,['Education'],,CACMS
+grid.410367.7,Rovira i Virgili University,Tarragona,6,ES,Spain,41.119137,['http://www.urv.cat/en_index.html'],1.245434,71.0,['Education'],,URV
+grid.410566.0,Ghent University Hospital,Ghent,6,BE,Belgium,51.02517,['http://www.uzgent.be/'],3.725213,127.0,['Healthcare'],,
+grid.410569.f,Universitair Ziekenhuis Leuven,Leuven,6,BE,Belgium,50.8804,['https://www.uzleuven.be/en'],4.6955,60.0,['Healthcare'],,
+grid.410705.7,Kuopio University Hospital,Kuopio,6,FI,Finland,62.897625,['https://www.psshp.fi/web/en/'],27.646923,55.0,['Healthcare'],,
+grid.411266.6,Hôpital de la Timone,Marseille,6,FR,France,43.290123,['http://fr.ap-hm.fr/nos-hopitaux/hopital-de-la-timone'],5.404023,65.0,['Healthcare'],,
+grid.411497.e,Fukuoka University,Fukuoka,6,JP,Japan,33.548344,['http://www.fukuoka-u.ac.jp/english/'],130.36621,13.0,['Education'],,
+grid.411688.2,Celal Bayar University,Magnesia ad Sipylum,6,TR,Turkey,38.610634,['http://www.cbu.edu.tr/anasayfa/index.php'],27.3816,43.0,['Education'],,CBÜ
+grid.411723.2,Integral University,Lucknow,6,IN,India,26.9585,['http://www.integraluniversity.ac.in/'],80.9981,16.0,['Education'],,
+grid.411757.1,"Islamic Azad University, Isfahan",Isfahan,6,IR,Iran,32.64128,['http://www.khuisf.ac.ir/'],51.784748,12.0,['Education'],,
+grid.411793.9,Brock University,St. Catharines,6,CA,Canada,43.119,['http://www.brocku.ca/'],-79.249,49.0,['Education'],Ontario,
+grid.411863.9,Guangzhou University,Guangzhou,6,CN,China,23.0388,['http://english.gzhu.edu.cn/'],113.3692,51.0,['Education'],,
+grid.411950.8,Hamedan University of Medical Sciences,Hamadan,6,IR,Iran,34.789585,['http://www.umsha.ac.ir//'],48.484886,50.0,['Education'],Hamadān,
+grid.412030.4,Hebei University of Technology,Tianjin,6,CN,China,39.23995,['http://eweb.hebut.edu.cn/'],117.06458,154.0,['Education'],,HEBUT
+grid.412113.4,National University of Malaysia,Kuala Lumpur,6,MY,Malaysia,2.919722,['http://www.ukm.my/v6/'],101.78139,16.0,['Education'],,NUM
+grid.412173.2,Niğde University,Niğde,6,TR,Turkey,37.943665,['http://www.nigde.edu.tr/index.php?ln=en'],34.62377,142.0,['Education'],,
+grid.412259.9,Universiti Teknologi MARA,Shah Alam,6,MY,Malaysia,3.065833,['http://www.uitm.edu.my/index.php/en'],101.49944,12.0,['Education'],,UiTM
+grid.412262.1,Northwest University,Xi'an,6,CN,China,34.248905,['http://english.nwu.edu.cn/'],108.92652,44.0,['Education'],,
+grid.412414.6,OsloMet – Oslo Metropolitan University,Oslo,6,NO,Norway,59.921867,['http://www.hioa.no/eng/'],10.733406,7.0,['Education'],,HiOA
+grid.412496.c,Islamia University of Bahawalpur,Bahawalpur,6,PK,Pakistan,29.39904,['http://www.iub.edu.pk/'],71.69046,61.0,['Education'],,IUB
+grid.412560.4,Shenyang Ligong University,Shenyang,6,CN,China,41.740524,['http://www.sylu.edu.cn/sylusiteEnglish/'],123.5094,2.0,['Education'],Liaoning,SLU
+grid.412673.5,University of Zanjan,Zanjān,6,IR,Iran,36.685734,['http://www.znu.ac.ir/'],48.406406,98.0,['Education'],,ZNU
+grid.413060.0,University of Bahrain,Madīnat ‘Īsá,6,BH,Bahrain,26.049656,['http://www.uob.edu.bh/english/'],50.508213,4.0,['Education'],,UoB
+grid.413449.f,Tel Aviv Sourasky Medical Center,Tel Aviv,6,IL,Israel,32.07998,['http://www.tasmc.org.il/sites/en/Pages/default.aspx'],34.789726,60.0,['Healthcare'],,
+grid.413629.b,Hammersmith Hospital,London,6,GB,United Kingdom,51.51636,['http://www.imperial.nhs.uk/hammersmith/index.htm'],-0.237499,3.0,['Healthcare'],,
+grid.416868.5,National Institute of Mental Health,Bethesda,6,US,United States,39.003693,['https://www.nimh.nih.gov/index.shtml'],-77.10457,27.0,['Government'],Maryland,NIMH
+grid.417068.c,Western General Hospital,Edinburgh,6,GB,United Kingdom,55.963272,['http://www.nhslothian.scot.nhs.uk/GoingToHospital/Locations/WGH/Pages/default.aspx'],-3.23271,15.0,['Healthcare'],Scotland,
+grid.417705.0,Cyprus Institute of Neurology and Genetics,Nicosia,6,CY,Cyprus,35.168327,['http://www.cing.ac.cy/easyconsole.cfm/id/1/uid/0.66093461512'],33.314415,53.0,['Nonprofit'],,CING
+grid.417748.9,L V Prasad Eye Institute,Hyderabad,6,IN,India,17.424086,['http://www.lvpei.org/'],78.427536,34.0,['Nonprofit'],,LVPEI
+grid.417993.1,MSD (United States),Kenilworth,6,US,United States,40.678677,['http://www.merck.com/'],-74.272575,23.0,['Company'],New Jersey,MSD
+grid.418022.d,National Oceanography Centre,Southampton,6,GB,United Kingdom,50.892982,['http://noc.ac.uk/'],-1.394984,20.0,['Facility'],,NOC
+grid.418400.9,Blekinge Institute of Technology,Karlskrona,6,SE,Sweden,56.18139,['https://www.bth.se/eng/'],15.590556,0.0,['Education'],,BTH
+grid.419092.7,Shanghai Institutes for Biological Sciences,Shanghai,6,CN,China,31.201384,['http://english.sibs.cas.cn/'],121.45248,9.0,['Facility'],,SIBS
+grid.419725.c,National Research Centre,Cairo,6,EG,Egypt,30.035873,['http://www.nrc.sci.eg/nrc/#.VdrDXrKqqko'],31.205029,43.0,['Facility'],,NRC
+grid.419737.f,MSD (United Kingdom),Hoddesdon,6,GB,United Kingdom,51.45135,['http://www.msd-uk.com/index.xhtml'],-0.021943,16.0,['Company'],,
+grid.419897.a,Ministry of Education of the People's Republic of China,Beijing,6,CN,China,39.91388,['http://www.moe.edu.cn/publicfiles/business/htmlfiles/moe/moe_2792/'],116.36881,68.0,['Government'],,MOE
+grid.424580.f,Lundbeck (Denmark),Copenhagen,6,DK,Denmark,55.65862,['http://lundbeck.com/dk'],12.51639,12.0,['Company'],,
+grid.428191.7,Nazarbayev University,Nur-Sultan,6,KZ,Kazakhstan,51.090874,['https://nu.edu.kz/'],71.3981,87.0,['Education'],,NU
+grid.431072.3,AbbVie (United States),North Chicago,6,US,United States,42.334213,['http://www.abbvie.com/'],-87.8395,21.0,['Company'],Illinois,"Abbvie Biotherapeutics, Inc"
+grid.439833.6,Maudsley Hospital,London,6,GB,United Kingdom,51.47007,['https://www.slam.nhs.uk/our-services/hospital-care/maudsley-hospital'],-0.090434,48.0,['Healthcare'],,
+grid.440600.6,Universiti Brunei Darussalam,Bandar Seri Begawan,6,BN,Brunei,4.973475,['http://www.ubd.edu.bn/'],114.89345,0.0,['Education'],,UBD
+grid.4422.0,Ocean University of China,Qingdao,6,CN,China,36.061226,['http://eweb.ouc.edu.cn/'],120.3352,20.0,['Education'],,OUC
+grid.442890.3,Islamic University of Gaza,Gaza,6,PS,Palestinian Territory,31.513119,['http://www.iugaza.edu.ps/en'],34.440456,17.0,['Education'],,IUG
+grid.443327.5,University of Business and Technology,Jeddah,6,SA,Saudi Arabia,21.57673,['https://www.ubt.edu.sa'],39.15412,41.0,['Education'],,UBT
+grid.444532.0,University of Wollongong in Dubai,Dubai,6,AE,United Arab Emirates,25.103975,['http://www.uowdubai.ac.ae/'],55.164886,6.0,['Education'],,UOWD
+grid.444827.9,University of Economics Ho Chi Minh City,Ho Chi Minh City,6,VN,Vietnam,10.783273,['http://www.ueh.edu.vn/'],106.694725,130.0,['Education'],,UEH
+grid.445016.2,Institute for Tourism Studies,Macao,6,CN,China,22.20665,['https://www.ift.edu.mo/'],113.54894,28.0,['Education'],Macau,IFT
+grid.448607.9,Ahmedabad University,Ahmedabad,6,IN,India,23.039387,['https://ahduni.edu.in/'],72.55611,112.0,['Education'],,
+grid.449005.c,Lovely Professional University,Phagwāra,6,IN,India,,['http://www.lpu.in/'],,27.0,['Education'],,
+grid.450302.0,National Astronomical Observatories,Beijing,6,CN,China,40.004665,['http://english.nao.cas.cn/'],116.38437,5.0,['Facility'],,NAOC
+grid.450453.3,Birmingham and Solihull Mental Health NHS Foundation Trust,Birmingham,6,GB,United Kingdom,52.48497,['http://www.bsmhft.nhs.uk/'],-1.91788,34.0,['Healthcare'],,
+grid.450709.f,East London NHS Foundation Trust,London,6,GB,United Kingdom,51.524456,['http://www.eastlondon.nhs.uk/'],-0.043293,37.0,['Healthcare'],,ELFT
+grid.450937.c,Leeds and York Partnership NHS Foundation Trust,Leeds,6,GB,United Kingdom,53.796124,['http://www.leedsandyorkpft.nhs.uk/'],-1.426626,36.0,['Healthcare'],,
+grid.451190.8,Oxford Health NHS Foundation Trust,Oxford,6,GB,United Kingdom,51.75083,['http://www.oxfordhealth.nhs.uk/'],-1.2225,19.0,['Healthcare'],,
+grid.451498.5,Institute of Information Science and Technologies,Pisa,6,IT,Italy,43.718597,['http://www.isti.cnr.it/'],10.422271,12.0,['Facility'],,ISTI
+grid.462747.4,Laboratoire Aimé Cotton,Orsay,6,FR,France,48.707146,['http://www.lac.u-psud.fr/?lang=en'],2.172494,2.0,['Facility'],,LAC
+grid.464591.b,Institute of Management Technology,Ghaziabad,6,IN,India,28.674335,['http://www.imt.edu/'],77.44874,191.0,['Education'],,IMT
+grid.466634.5,Desert Research Center,Cairo,6,EG,Egypt,30.11988,['http://www.drc.gov.eg/'],31.324257,34.0,['Government'],,DRC
+grid.466775.1,Indian Institute of Management Indore,Indore,6,IN,India,22.625675,['http://www.iimidr.ac.in/'],75.790924,207.0,['Education'],,IIM-I
+grid.469181.3,Toulouse Business School,Toulouse,6,FR,France,43.609722,['http://www.tbs-education.fr/en'],1.431667,316.0,['Education'],,TBS
+grid.469309.1,Zanjan University of Medical Sciences,Zanjān,6,IR,Iran,36.70025,['http://www.zums.ac.ir/index.php?slc_lang=en&sid=1'],48.51495,192.0,['Education'],,
+grid.469996.d,Royal Military Academy Sandhurst,Sandhurst,6,GB,United Kingdom,51.340897,['http://www.army.mod.uk/training_education/24475.aspx?t=/sandhurst'],-0.748284,2.0,['Facility'],,RMAS
+grid.470556.5,Fera Science (United Kingdom),York,6,GB,United Kingdom,54.01689,['http://fera.co.uk/'],-0.970722,4.0,['Company'],,
+grid.482824.0,Laboratory of Space Studies and Instrumentation in Astrophysics,Meudon,6,FR,France,48.805576,['http://www.lesia.obspm.fr/'],2.226487,6.0,['Facility'],,LESIA
+grid.487190.3,Calderdale and Huddersfield NHS Foundation Trust,Huddersfield,6,GB,United Kingdom,53.655518,['http://www.cht.nhs.uk'],-1.816472,18.0,['Healthcare'],,
+grid.490697.5,Ministry Of Health,Suva,6,FJ,Fiji,-18.117464,['http://www.health.gov.fj/'],178.42966,3.0,['Government'],,
+grid.498023.4,Walgreens Boots Alliance (United Kingdom),Nottingham,6,GB,United Kingdom,52.945164,['http://www.walgreensbootsalliance.com/'],-1.135608,26.0,['Company'],,
+grid.511213.5,Oxford Archaeology,Oxford,6,GB,United Kingdom,51.7476,['https://oxfordarchaeology.com/'],-1.2764,252.0,['Nonprofit'],,OA
+grid.512249.9,Jaipuria Institute of Management,Noida,6,IN,India,28.51556,['https://www.jaipuria.ac.in/'],77.37148,100.0,['Education'],,
+grid.512371.3,Indian Institute of Management Ranchi,Ranchi,6,IN,India,23.383276,['https://iimranchi.ac.in/'],85.31653,34.0,['Education'],,IIM-Rc
+grid.5371.0,Chalmers University of Technology,Gothenburg,6,SE,Sweden,57.68833,['http://www.chalmers.se/en/Pages/default.aspx'],11.976667,83.0,['Education'],,
+grid.55325.34,Oslo University Hospital,Oslo,6,NO,Norway,59.9486,['http://www.oslo-universitetssykehus.no/om-oss/english'],10.7153,41.0,['Healthcare'],Oslo,
+grid.5613.1,University of Burgundy,Dijon,6,FR,France,47.3125,['http://en.u-bourgogne.fr/'],5.070833,205.0,['Education'],Bourgogne,uB
+grid.6162.3,Ramon Llull University,Barcelona,6,ES,Spain,41.409893,['http://www.url.edu/en'],2.172435,29.0,['Education'],,URL
+grid.64337.35,Louisiana State University,Baton Rouge,6,US,United States,30.413998,['http://www.lsu.edu/'],-91.18103,4.0,['Education'],Louisiana,LSU
+grid.65456.34,Florida International University,Miami,6,US,United States,25.75744,['http://www.fiu.edu/'],-80.37328,122.0,['Education'],Florida,FIU
+grid.6546.1,TU Darmstadt,Darmstadt,6,DE,Germany,49.874996,['http://www.tu-darmstadt.de/'],8.656517,17.0,['Education'],,
+grid.6759.d,Budapest University of Technology and Economics,Budapest,6,HU,Hungary,47.47908,['http://www.bme.hu/?language=en'],19.056751,11.0,['Education'],Pest,BUTE
+grid.7159.a,University of Alcalá,Alcalá de Henares,6,ES,Spain,40.482536,['http://www.uah.es/'],-3.361151,282.0,['Education'],,
+grid.7345.5,University of Buenos Aires,Buenos Aires,6,AR,Argentina,-34.599724,['http://www.uba.ar/'],-58.373055,164.0,['Education'],,UBA
+grid.7429.8,Inserm,Paris,6,FR,France,48.826523,['https://www.inserm.fr/'],2.365553,120.0,['Government'],,INSERM
+grid.7490.a,Helmholtz Centre for Infection Research,Braunschweig,6,DE,Germany,52.211502,['http://www.helmholtz-hzi.de/en/'],10.531487,24.0,['Facility'],,GBF
+grid.7839.5,Goethe University Frankfurt,Frankfurt am Main,6,DE,Germany,50.1249,['http://www.goethe-university-frankfurt.de/en?'],8.667763,46.0,['Education'],Hessen,
+grid.8192.2,Damascus University,Damascus,6,SY,Syria,33.51139,['http://damasuniv.edu.sy/'],36.29139,24.0,['Education'],,
+grid.82418.37,Norwegian Meteorological Institute,Oslo,6,NO,Norway,59.942646,['http://met.no'],10.721149,37.0,['Government'],,MET
+grid.8379.5,University of Würzburg,Wurzburg,6,DE,Germany,49.788055,['http://www.uni-wuerzburg.de/en/ueber/university/'],9.935278,126.0,['Education'],Bayern,
+grid.8570.a,Gadjah Mada University,Yogyakarta,6,ID,Indonesia,-7.769444,['http://www.ugm.ac.id/new/en'],110.37889,47.0,['Education'],,UGM
+grid.8664.c,University of Giessen,Giessen,6,DE,Germany,50.58051,['http://www.uni-giessen.de/cms/'],8.677088,144.0,['Education'],Hessen,JLU
+grid.8767.e,Vrije Universiteit Brussel,Brussels,6,BE,Belgium,50.8232,['http://www.vub.ac.be/en/'],4.392588,158.0,['Education'],,VUB
+grid.9285.6,"National Institute of Engineering, Technology and Innovation",Lisbon,6,PT,Portugal,38.770058,['http://www.ineti.pt/'],-9.176729,5.0,['Facility'],,INETI
+grid.10253.35,Philipps University of Marburg,Marburg,5,DE,Germany,50.810833,['https://www.uni-marburg.de/en'],8.773611,24.0,['Education'],,
+grid.10824.3f,Obafemi Awolowo University,Ilesa,5,NG,Nigeria,7.518333,['http://www.oauife.edu.ng/'],4.522778,7.0,['Education'],,OAU
+grid.10854.38,Osnabrück University,Osnabrück,5,DE,Germany,52.273,['https://www.uni-osnabrueck.de/en/home.html'],8.042,1.0,['Education'],,
+grid.10979.36,"Palacký University, Olomouc",Olomouc,5,CZ,Czechia,49.59508,['http://www.upol.cz/en/'],17.25914,52.0,['Education'],,
+grid.11135.37,Peking University,Beijing,5,CN,China,39.987152,['http://english.pku.edu.cn/'],116.305855,68.0,['Education'],Beijing,PKU
+grid.11175.33,University of Pavol Jozef Šafárik,Košice,5,SK,Slovakia,48.719166,['http://www.upjs.sk/'],21.25111,16.0,['Education'],,
+grid.112485.b,University of Orléans,Orléans,5,FR,France,47.850662,['http://www.univ-orleans.fr/'],1.933976,11.0,['Education'],,
+grid.11355.33,Sofia University,Sofia,5,BG,Bulgaria,42.69361,['https://www.uni-sofia.bg/'],23.335,52.0,['Education'],,
+grid.11696.39,University of Trento,Trento,5,IT,Italy,46.069427,['http://www.unitn.it/en'],11.121117,15.0,['Education'],,
+grid.11843.3f,University of Strasbourg,Strasbourg,5,FR,France,48.580276,['http://www.en.unistra.fr/index.php?id=21707'],7.764444,12.0,['Education'],Alsace,
+grid.118888.0,Jönköping University,Jönköping,5,SE,Sweden,57.77867,['http://ju.se/en.html'],14.163565,34.0,['Education'],,
+grid.14013.37,University of Iceland,Reykjavik,5,IS,Iceland,64.13976,['http://english.hi.is/'],-21.951912,55.0,['Education'],Suðurnes,
+grid.14476.30,Lomonosov Moscow State University,Moscow,5,RU,Russia,55.703934,['http://www.msu.ru/en/'],37.52867,42.0,['Education'],,MSU
+grid.15474.33,Rechts der Isar Hospital,Munich,5,DE,Germany,48.140144,['https://www.mri.tum.de/'],11.599739,54.0,['Healthcare'],,
+grid.15810.3d,Cyprus University of Technology,Limassol,5,CY,Cyprus,34.676666,['http://www.cut.ac.cy/?languageId=2'],33.044167,35.0,['Education'],,CUT
+grid.15876.3d,Koç University,Istanbul,5,TR,Turkey,41.20561,['https://www.ku.edu.tr/en'],29.072647,181.0,['Education'],,
+grid.16416.34,University of Rochester,Rochester,5,US,United States,43.129425,['https://www.rochester.edu/'],-77.62188,33.0,['Education'],New York,UR
+grid.166341.7,Drexel University,Philadelphia,5,US,United States,39.95686,['http://www.drexel.edu/'],-75.18996,1.0,['Education'],Pennsylvania,
+grid.16662.35,Al-Quds University,East Jerusalem,5,PS,Palestinian Territory,31.755907,['http://www.alquds.edu/en/'],35.26138,31.0,['Education'],,AQU
+grid.169077.e,Purdue University West Lafayette,West Lafayette,5,US,United States,40.42395,['http://www.purdue.edu/'],-86.9212,1.0,['Education'],Indiana,
+grid.170202.6,University of Oregon,Eugene,5,US,United States,44.044643,['https://uoregon.edu/'],-123.07295,13.0,['Education'],Oregon,UO
+grid.18048.35,University of Hyderabad,Hyderabad,5,IN,India,17.459576,['http://www.uohyd.ac.in/'],78.331276,40.0,['Education'],,UoH
+grid.18098.38,University of Haifa,Haifa,5,IL,Israel,32.762478,['http://www.haifa.ac.il/index.php/en/'],35.02089,0.0,['Education'],,
+grid.18376.3b,Bilkent University,Ankara,5,TR,Turkey,39.868,['http://www.bilkent.edu.tr/index.html'],32.7487,0.0,['Education'],,
+grid.18785.33,Diamond Light Source,Didcot,5,GB,United Kingdom,51.574364,['http://www.diamond.ac.uk/Home.html'],-1.310388,14.0,['Facility'],,
+grid.18887.3e,IRCCS Ospedale San Raffaele,Milan,5,IT,Italy,45.50499,['http://www.hsr.it/'],9.265472,162.0,['Healthcare'],,
+grid.189747.4,State University of New York,Albany,5,US,United States,42.648064,['https://www.suny.edu/'],-73.74959,6.0,['Education'],New York,SUNY
+grid.20431.34,University of Rhode Island,Kingston,5,US,United States,41.48513,['http://ww2.uri.edu/#'],-71.529945,0.0,['Education'],Rhode Island,URI
+grid.20515.33,University of Tsukuba,Tsukuba,5,JP,Japan,36.11143,['http://www.tsukuba.ac.jp/english/'],140.10384,12.0,['Education'],Ibaraki,
+grid.20861.3d,California Institute of Technology,Pasadena,5,US,United States,34.138577,['http://www.caltech.edu/'],-118.125496,4.0,['Education'],California,CIT
+grid.22448.38,George Mason University,Fairfax,5,US,United States,38.832436,['https://www.gmu.edu/'],-77.30807,42.0,['Education'],Virginia,
+grid.23731.34,Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences,Potsdam,5,DE,Germany,52.382557,['http://www.gfz-potsdam.de/en/home/'],13.064444,64.0,['Facility'],Brandenburg,GFZ
+grid.252547.3,Auckland University of Technology,Auckland,5,NZ,New Zealand,-36.853233,['http://www.aut.ac.nz/'],174.7665,29.0,['Education'],,AUT
+grid.253613.0,University of Montana,Missoula,5,US,United States,46.86007,['http://www.umt.edu/'],-113.98521,148.0,['Education'],Montana,UM
+grid.254880.3,Dartmouth College,Hanover,5,US,United States,43.704674,['http://dartmouth.edu/'],-72.28871,161.0,['Education'],New Hampshire,
+grid.257127.4,Howard University,Washington D.C.,5,US,United States,38.922222,['http://www2.howard.edu/'],-77.01945,0.0,['Education'],District of Columbia,
+grid.260120.7,Mississippi State University,Starkville,5,US,United States,33.454,['http://msstate.edu/'],-88.789,53.0,['Education'],Mississippi,MSU
+grid.260539.b,National Yang Ming Chiao Tung University,Hsinchu,5,TW,Taiwan,24.79586,['https://www.nycu.edu.tw/'],120.984764,73.0,['Education'],,NYCU
+grid.26090.3d,Clemson University,Clemson,5,US,United States,34.678333,['http://www.clemson.edu/'],-82.839165,1.0,['Education'],South Carolina,
+grid.261024.3,Norfolk State University,Norfolk,5,US,United States,36.8487,['https://www.nsu.edu/'],-76.2625,9.0,['Education'],Virginia,NSU
+grid.261368.8,Old Dominion University,Norfolk,5,US,United States,36.88654,['http://www.odu.edu/#prospective'],-76.30522,0.0,['Education'],Virginia,ODU
+grid.268505.c,Zhejiang Chinese Medical University,Hangzhou,5,CN,China,30.17306,['http://zsb.zjtcm.net/'],120.15016,41.0,['Education'],Zhejiang,ZJNU
+grid.271300.7,Federal University of Para,Belém,5,BR,Brazil,-1.474348,['http://www.portal.ufpa.br/'],-48.453236,7.0,['Education'],,UFPA
+grid.274356.1,Northwest Research Associates,Redmond,5,US,United States,47.647446,['https://www.nwra.com/'],-122.14285,109.0,['Facility'],Washington,NWRA
+grid.288223.1,New York Botanical Garden,New York,5,US,United States,40.86361,['http://www.nybg.org/'],-73.878334,48.0,['Archive'],New York,NYBG
+grid.31432.37,Kobe University,Kobe,5,JP,Japan,34.728058,['http://www.kobe-u.ac.jp/en/alumni/index.html'],135.23473,4.0,['Education'],,
+grid.32056.32,University of Pune,Pune,5,IN,India,18.553558,['http://www.unipune.ac.in/'],73.82633,49.0,['Education'],,
+grid.33763.32,Tianjin University,Tianjin,5,CN,China,39.111362,['http://www.tju.edu.cn/english/'],117.17482,20.0,['Education'],,TJU
+grid.36425.36,Stony Brook University,Stony Brook,5,US,United States,40.914223,['http://www.stonybrook.edu/'],-73.11623,130.0,['Education'],New York,SBU
+grid.37172.30,Korea Advanced Institute of Science and Technology,Daejeon,5,KR,South Korea,36.369644,['http://www.kaist.edu/html/en/index.html'],127.36401,11.0,['Education'],,KAIST
+grid.39158.36,Hokkaido University,Sapporo,5,JP,Japan,43.07818,['https://www.global.hokudai.ac.jp/'],141.33997,33.0,['Education'],Hokkaidô,
+grid.410350.3,National Museum of Natural History,Paris,5,FR,France,48.84211,['http://www.mnhn.fr/fr'],2.356286,12.0,['Archive'],,MNHN
+grid.410445.0,University of Hawaii at Manoa,Honolulu,5,US,United States,21.300116,['https://manoa.hawaii.edu/'],-157.81763,10.0,['Education'],Hawaii,UH
+grid.410749.f,National Institutes for Food and Drug Control,Beijing,5,CN,China,39.879787,['http://english.nmpa.gov.cn/2019-07/19/c_389166.htm'],116.40263,54.0,['Government'],,NIFDC
+grid.411015.0,University of Alabama,Tuscaloosa,5,US,United States,33.20944,['https://www.ua.edu/'],-87.5415,13.0,['Education'],Alabama,
+grid.411068.a,Hospital Clínico San Carlos,Madrid,5,ES,Spain,40.44038,['https://www.comunidad.madrid/hospital/clinicosancarlos/'],-3.719567,101.0,['Healthcare'],,
+grid.411196.a,Kuwait University,Kuwait City,5,KW,Kuwait,29.339659,['http://www.kuniv.edu/ku'],47.913715,12.0,['Education'],,KU
+grid.411237.2,Universidade Federal de Santa Catarina,Florianópolis,5,BR,Brazil,-27.60111,['http://en.ufsc.br/'],-48.52,160.0,['Education'],,UFSC
+grid.411310.6,Nahrain University,Baghdad,5,IQ,Iraq,33.278934,['http://nahrainuniv.edu.iq/'],44.379124,2.0,['Education'],,
+grid.411370.0,Amrita Vishwa Vidyapeetham University,Coimbatore,5,IN,India,10.901949,['https://www.amrita.edu/'],76.90136,57.0,['Education'],,
+grid.411445.1,Atatürk University,Erzurum,5,TR,Turkey,39.9029,['http://www.atauni.edu.tr/index_2.html'],41.25284,68.0,['Education'],,
+grid.411485.d,China Jiliang University,Hangzhou,5,CN,China,30.31909,['http://english.cjlu.edu.cn/'],120.36405,32.0,['Education'],,
+grid.411750.6,University of Isfahan,Isfahan,5,IR,Iran,32.61611,['http://ui.ac.ir/Index.aspx?tempname=engmain&lang=2&sub=0'],51.660557,77.0,['Education'],,UI
+grid.411795.f,Izmir Kâtip Çelebi University,Izmir,5,TR,Turkey,38.48573,['http://www.ikc.edu.tr/en'],27.080524,32.0,['Education'],,IKCU
+grid.411868.2,Jiangxi University of Traditional Chinese Medicine,Nanchang,5,CN,China,28.67865,['http://en.jxutcm.edu.cn/'],115.75094,50.0,['Education'],,JUTCM
+grid.411959.1,Acadia University,Wolfville,5,CA,Canada,45.088577,['http://www2.acadiau.ca/'],-64.36682,62.0,['Education'],Nova Scotia,
+grid.412211.5,Rio de Janeiro State University,Rio de Janeiro,5,BR,Brazil,-22.911112,['http://www.uerj.br/'],-43.23611,12.0,['Education'],,UERJ
+grid.412253.3,Universiti Malaysia Sarawak,Kuching,5,MY,Malaysia,1.465153,['http://www.unimas.my/'],110.42702,11.0,['Education'],,UNIMAS
+grid.412311.4,Policlinico S.Orsola-Malpighi,Bologna,5,IT,Italy,44.492527,['http://www.aosp.bo.it/'],11.362128,52.0,['Healthcare'],,
+grid.412502.0,Shahid Beheshti University,Tehran,5,IR,Iran,35.802223,['http://en.sbu.ac.ir/sitepages/home.aspx'],51.393333,5.0,['Education'],,SBU
+grid.412917.8,Christie Hospital NHS Foundation Trust,Manchester,5,GB,United Kingdom,53.42972,['http://www.christie.nhs.uk/'],-2.228611,16.0,['Healthcare'],,
+grid.412974.d,University of Ilorin,Ilorin,5,NG,Nigeria,8.481046,['http://www.unilorin.edu.ng/'],4.525618,30.0,['Education'],,
+grid.412983.5,Xihua University,Chengdu,5,CN,China,30.772635,['http://www.xhu.edu.cn/english/'],103.9506,57.0,['Education'],,XHU
+grid.413030.5,Southern General Hospital,Glasgow,5,GB,United Kingdom,55.8625,,-4.340556,1.0,['Healthcare'],,SGH
+grid.413509.a,Castle Hill Hospital,Cottingham,5,GB,United Kingdom,53.778835,['http://www.nhs.uk/Services/hospitals/Overview/DefaultView.aspx?id=1998'],-0.443845,11.0,['Healthcare'],,
+grid.413574.0,Alberta Health Services,Edmonton,5,CA,Canada,53.54063,['http://www.albertahealthservices.ca/'],-113.51369,0.0,['Healthcare'],Alberta,AHS
+grid.414681.e,Institute for Medical Research and Occupational Health,Zagreb,5,HR,Croatia,45.83448,['https://www.imi.hr/index.php?lan=EN'],15.978201,131.0,['Facility'],,IMI
+grid.415223.3,Killingbeck,Leeds,5,GB,United Kingdom,53.80298,,-1.4822,0.0,['Healthcare'],,
+grid.415970.e,Royal Liverpool University Hospital,Liverpool,5,GB,United Kingdom,53.40944,['https://www.rlbuht.nhs.uk/our-hospitals/royal-liverpool-university-hospital/'],-2.96412,15.0,['Healthcare'],,RLUH
+grid.416204.5,Royal Preston Hospital,Preston,5,GB,United Kingdom,53.791485,['https://www.lancsteachinghospitals.nhs.uk/royal-preston-profile/'],-2.708945,12.0,['Healthcare'],,
+grid.416973.e,Weill Cornell Medicine - Qatar,Doha,5,QA,Qatar,25.318,['https://qatar-weill.cornell.edu/'],51.4389,69.0,['Education'],,WCMC-Q
+grid.417643.3,National Chemical Laboratory,Pune,5,IN,India,18.542068,['http://www.ncl-india.org/'],73.811516,8.0,['Facility'],Maharashtra,NCL
+grid.417895.6,Imperial College Healthcare NHS Trust,London,5,GB,United Kingdom,51.517212,['http://www.imperial.nhs.uk/'],-0.173485,64.0,['Healthcare'],England,
+grid.417969.4,Indian Institute of Technology Madras,Chennai,5,IN,India,12.992998,['https://www.iitm.ac.in/'],80.2368,8.0,['Facility'],Tamil Nadu,IITM
+grid.418190.5,Thermo Fisher Scientific (United States),Waltham,5,US,United States,42.399876,['http://www.thermofisher.com'],-71.25806,7.0,['Company'],Massachusetts,Life Technologies
+grid.419102.f,Shanghai Institute of Technology,Shanghai,5,CN,China,31.166246,['http://english.sit.edu.cn/'],121.42178,37.0,['Education'],,SIT
+grid.419140.9,National Iranian Oil Company (Iran),Tehran,5,IR,Iran,35.541225,['http://en.nioc.ir/Portal/Home/'],51.422928,16.0,['Company'],,NIOC
+grid.419491.0,Max Delbrück Center for Molecular Medicine,Berlin,5,DE,Germany,52.624832,['https://www.mdc-berlin.de/'],13.502611,26.0,['Facility'],,MDC
+grid.419619.2,Janssen (Belgium),Beerse,5,BE,Belgium,51.307457,['https://www.janssen.com/belgium/'],4.875338,16.0,['Company'],,
+grid.420004.2,Newcastle upon Tyne Hospitals NHS Foundation Trust,Newcastle upon Tyne,5,GB,United Kingdom,54.976864,['http://www.newcastle-hospitals.org.uk/'],-1.6462,2.0,['Healthcare'],,
+grid.422460.6,WRc (United Kingdom),Swindon,5,GB,United Kingdom,51.545986,['http://www.wrcplc.co.uk/'],-1.832834,13.0,['Company'],England and Wales,
+grid.423506.6,Center for the Study of Democracy,Sofia,5,BG,Bulgaria,42.679302,['http://www.csd.bg/'],23.35555,13.0,['Nonprofit'],,CSD
+grid.424928.1,"Jerzy Haber Institute of Catalysis and Surface Chemistry, Polish Academy of Sciences",Krakow,5,PL,Poland,50.069035,['http://www.ik-pan.krakow.pl/'],19.841986,11.0,['Facility'],,ICSC
+grid.425636.0,Royal Observatory of Belgium,Brussels,5,BE,Belgium,50.79956,['http://www.astro.oma.be/en/'],4.358831,75.0,['Facility'],,
+grid.426106.7,Royal Botanic Garden Edinburgh,Edinburgh,5,GB,United Kingdom,55.96448,['http://www.rbge.org.uk/'],-3.213026,19.0,['Facility'],,RBGE
+grid.426108.9,The Royal Free Hospital,London,5,GB,United Kingdom,51.55311,['https://www.royalfree.nhs.uk/the-royal-free-hospital/'],-0.165339,6.0,['Healthcare'],,
+grid.426114.4,Syngenta (United Kingdom),Fulbourn,5,GB,United Kingdom,52.185856,['https://www.syngenta.co.uk/'],0.194358,49.0,['Company'],,
+grid.430506.4,University Hospital Southampton NHS Foundation Trust,Southampton,5,GB,United Kingdom,50.934853,['http://www.uhs.nhs.uk/home.aspx'],-1.43398,32.0,['Healthcare'],,
+grid.433893.6,University of Social Sciences and Humanities,Warsaw,5,PL,Poland,52.248432,['http://www.swps.pl/english-version'],21.06601,157.0,['Education'],,SWPS

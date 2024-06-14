@@ -1,0 +1,351 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={app.R},
+  pdfauthor={pearl},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{app.R}
+\author{pearl}
+\date{2024-06-14}
+
+\begin{document}
+\maketitle
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(shiny)}
+\FunctionTok{library}\NormalTok{(dplyr)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'dplyr'
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:stats':
+## 
+##     filter, lag
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:base':
+## 
+##     intersect, setdiff, setequal, union
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(ggplot2)}
+\FunctionTok{library}\NormalTok{(readr)}
+\FunctionTok{library}\NormalTok{(here)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## here() starts at C:/Users/pearl/OneDrive/Desktop/intership u/UOB Benchmarking Research Data/UOB Benchmarking Data
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(tidyr)}
+\FunctionTok{library}\NormalTok{(jsonlite)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'jsonlite'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:shiny':
+## 
+##     validate
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(stringr)}
+\FunctionTok{library}\NormalTok{(knitr)}
+\FunctionTok{library}\NormalTok{(plotly)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'plotly'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:ggplot2':
+## 
+##     last_plot
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:stats':
+## 
+##     filter
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:graphics':
+## 
+##     layout
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(DT)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'DT'
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:shiny':
+## 
+##     dataTableOutput, renderDataTable
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{ui }\OtherTok{\textless{}{-}} \FunctionTok{fluidPage}\NormalTok{(}
+  \FunctionTok{titlePanel}\NormalTok{(}\StringTok{"University Benchmarking Dashboard"}\NormalTok{),}
+  \FunctionTok{sidebarLayout}\NormalTok{(}
+    \FunctionTok{sidebarPanel}\NormalTok{(}
+      \FunctionTok{selectInput}\NormalTok{(}\StringTok{"selectedUniversities"}\NormalTok{, }\StringTok{"Select Universities"}\NormalTok{, }
+                  \AttributeTok{choices =} \FunctionTok{c}\NormalTok{(}\StringTok{"University of Bradford"}\NormalTok{, }\StringTok{"University of Leeds"}\NormalTok{, }\StringTok{"University of Manchester"}\NormalTok{, }\StringTok{"University of Sheffield"}\NormalTok{),}
+                  \AttributeTok{selected =} \FunctionTok{c}\NormalTok{(}\StringTok{"University of Bradford"}\NormalTok{, }\StringTok{"University of Leeds"}\NormalTok{, }\StringTok{"University of Manchester"}\NormalTok{, }\StringTok{"University of Sheffield"}\NormalTok{),}
+                  \AttributeTok{multiple =} \ConstantTok{TRUE}\NormalTok{)}
+\NormalTok{    ),}
+    \FunctionTok{mainPanel}\NormalTok{(}
+      \FunctionTok{tabsetPanel}\NormalTok{(}
+        \FunctionTok{tabPanel}\NormalTok{(}\StringTok{"Total vs Recent Citations"}\NormalTok{, }
+                 \FunctionTok{plotlyOutput}\NormalTok{(}\StringTok{"plotCitations"}\NormalTok{), }
+                 \FunctionTok{dataTableOutput}\NormalTok{(}\StringTok{"tableCitations"}\NormalTok{)),}
+        \FunctionTok{tabPanel}\NormalTok{(}\StringTok{"Altmetric Score Comparison"}\NormalTok{, }
+                 \FunctionTok{plotlyOutput}\NormalTok{(}\StringTok{"plotAltmetric"}\NormalTok{)),}
+        \FunctionTok{tabPanel}\NormalTok{(}\StringTok{"Research Output in Fields"}\NormalTok{, }
+                 \FunctionTok{plotlyOutput}\NormalTok{(}\StringTok{"plotFORLevel2"}\NormalTok{),}
+                 \FunctionTok{plotlyOutput}\NormalTok{(}\StringTok{"plotFORLevel4"}\NormalTok{)),}
+        \FunctionTok{tabPanel}\NormalTok{(}\StringTok{"SDG Contributions"}\NormalTok{, }
+                 \FunctionTok{plotlyOutput}\NormalTok{(}\StringTok{"plotSDG"}\NormalTok{),}
+                 \FunctionTok{dataTableOutput}\NormalTok{(}\StringTok{"tableSDG"}\NormalTok{)),}
+        \FunctionTok{tabPanel}\NormalTok{(}\StringTok{"Benchmarking Universities"}\NormalTok{, }
+                 \FunctionTok{dataTableOutput}\NormalTok{(}\StringTok{"tableBenchmark"}\NormalTok{))}
+\NormalTok{      )}
+\NormalTok{    )}
+\NormalTok{  )}
+\NormalTok{)}
+
+\NormalTok{server }\OtherTok{\textless{}{-}} \ControlFlowTok{function}\NormalTok{(input, output) \{}
+  
+  \CommentTok{\# Load data}
+\NormalTok{  total\_citations\_df }\OtherTok{\textless{}{-}}\NormalTok{ readr}\SpecialCharTok{::}\FunctionTok{read\_csv}\NormalTok{(}\FunctionTok{here}\NormalTok{(}\StringTok{"university\_of\_bradford\_total\_citations.csv"}\NormalTok{))}
+\NormalTok{  recent\_citations\_df }\OtherTok{\textless{}{-}}\NormalTok{ readr}\SpecialCharTok{::}\FunctionTok{read\_csv}\NormalTok{(}\FunctionTok{here}\NormalTok{(}\StringTok{"university\_of\_bradford\_recent\_citations.csv"}\NormalTok{))}
+\NormalTok{  altmetric\_median\_df }\OtherTok{\textless{}{-}}\NormalTok{ readr}\SpecialCharTok{::}\FunctionTok{read\_csv}\NormalTok{(}\FunctionTok{here}\NormalTok{(}\StringTok{"university\_of\_bradford\_altmetric\_median.csv"}\NormalTok{))}
+\NormalTok{  publications\_for\_df }\OtherTok{\textless{}{-}}\NormalTok{ readr}\SpecialCharTok{::}\FunctionTok{read\_csv}\NormalTok{(}\FunctionTok{here}\NormalTok{(}\StringTok{"university\_of\_bradford\_publications\_for.csv"}\NormalTok{))}
+\NormalTok{  publications\_sdg\_df }\OtherTok{\textless{}{-}}\NormalTok{ readr}\SpecialCharTok{::}\FunctionTok{read\_csv}\NormalTok{(}\FunctionTok{here}\NormalTok{(}\StringTok{"university\_of\_bradford\_publications\_sdg.csv"}\NormalTok{))}
+  
+  \CommentTok{\# Combine total\_citations\_df and recent\_citations\_df}
+\NormalTok{  combined\_citations\_df }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(total\_citations\_df, recent\_citations\_df, }\AttributeTok{by =} \FunctionTok{c}\NormalTok{(}\StringTok{"id"}\NormalTok{, }\StringTok{"name"}\NormalTok{))}
+  
+  \CommentTok{\# Output for Total vs Recent Citations}
+\NormalTok{  output}\SpecialCharTok{$}\NormalTok{plotCitations }\OtherTok{\textless{}{-}} \FunctionTok{renderPlotly}\NormalTok{(\{}
+\NormalTok{    selected\_universities }\OtherTok{\textless{}{-}}\NormalTok{ combined\_citations\_df }\SpecialCharTok{\%\textgreater{}\%}  
+      \FunctionTok{filter}\NormalTok{(name }\SpecialCharTok{\%in\%}\NormalTok{ input}\SpecialCharTok{$}\NormalTok{selectedUniversities)}
+    
+\NormalTok{    plot }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(selected\_universities, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ name)) }\SpecialCharTok{+} 
+      \FunctionTok{geom\_bar}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{y =}\NormalTok{ citations\_total, }\AttributeTok{fill =} \StringTok{"Total Citations"}\NormalTok{), }\AttributeTok{stat =} \StringTok{"identity"}\NormalTok{, }\AttributeTok{position =} \FunctionTok{position\_dodge}\NormalTok{()) }\SpecialCharTok{+} 
+      \FunctionTok{geom\_bar}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{y =}\NormalTok{ recent\_citations\_total, }\AttributeTok{fill =} \StringTok{"Recent Citations"}\NormalTok{), }\AttributeTok{stat =} \StringTok{"identity"}\NormalTok{, }\AttributeTok{position =} \FunctionTok{position\_dodge}\NormalTok{()) }\SpecialCharTok{+} 
+      \FunctionTok{labs}\NormalTok{(}\AttributeTok{title =} \StringTok{"Total vs Recent Citations Comparison"}\NormalTok{, }\AttributeTok{x =} \StringTok{"University"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Citations"}\NormalTok{) }\SpecialCharTok{+} 
+      \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{)) }\SpecialCharTok{+} 
+      \FunctionTok{scale\_fill\_manual}\NormalTok{(}\AttributeTok{values =} \FunctionTok{c}\NormalTok{(}\StringTok{"Total Citations"} \OtherTok{=} \StringTok{"blue"}\NormalTok{, }\StringTok{"Recent Citations"} \OtherTok{=} \StringTok{"red"}\NormalTok{))}
+    
+    \FunctionTok{ggplotly}\NormalTok{(plot)}
+\NormalTok{  \})}
+  
+\NormalTok{  output}\SpecialCharTok{$}\NormalTok{plotAltmetric }\OtherTok{\textless{}{-}} \FunctionTok{renderPlotly}\NormalTok{(\{}
+\NormalTok{    selected\_universities }\OtherTok{\textless{}{-}}\NormalTok{ altmetric\_median\_df }\SpecialCharTok{\%\textgreater{}\%}  
+      \FunctionTok{filter}\NormalTok{(name }\SpecialCharTok{\%in\%}\NormalTok{ input}\SpecialCharTok{$}\NormalTok{selectedUniversities)}
+    
+\NormalTok{    plot }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(selected\_universities, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ name, }\AttributeTok{y =}\NormalTok{ altmetric\_median, }\AttributeTok{fill =}\NormalTok{ name)) }\SpecialCharTok{+} 
+      \FunctionTok{geom\_bar}\NormalTok{(}\AttributeTok{stat =} \StringTok{"identity"}\NormalTok{) }\SpecialCharTok{+} 
+      \FunctionTok{labs}\NormalTok{(}\AttributeTok{title =} \StringTok{"Altmetric Score Comparison"}\NormalTok{, }\AttributeTok{x =} \StringTok{"University"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Median Altmetric Score"}\NormalTok{) }\SpecialCharTok{+} 
+      \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{)) }\SpecialCharTok{+} 
+      \FunctionTok{scale\_fill\_brewer}\NormalTok{(}\AttributeTok{palette =} \StringTok{"Set1"}\NormalTok{)}
+    
+    \FunctionTok{ggplotly}\NormalTok{(plot)}
+\NormalTok{  \})}
+  
+\NormalTok{  output}\SpecialCharTok{$}\NormalTok{plotFORLevel2 }\OtherTok{\textless{}{-}} \FunctionTok{renderPlotly}\NormalTok{(\{}
+\NormalTok{    publications\_for\_level2 }\OtherTok{\textless{}{-}}\NormalTok{ publications\_for\_df }\SpecialCharTok{\%\textgreater{}\%} \FunctionTok{filter}\NormalTok{(level }\SpecialCharTok{==} \DecValTok{2}\NormalTok{)}
+\NormalTok{    plot }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(publications\_for\_level2, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =} \FunctionTok{reorder}\NormalTok{(name, }\SpecialCharTok{{-}}\NormalTok{count), }\AttributeTok{y =}\NormalTok{ count, }\AttributeTok{fill =}\NormalTok{ name)) }\SpecialCharTok{+} 
+      \FunctionTok{geom\_bar}\NormalTok{(}\AttributeTok{stat =} \StringTok{"identity"}\NormalTok{) }\SpecialCharTok{+} 
+      \FunctionTok{labs}\NormalTok{(}\AttributeTok{title =} \StringTok{"Research Output in FOR Level 2 Fields"}\NormalTok{, }\AttributeTok{x =} \StringTok{"Field of Research"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Number of Publications"}\NormalTok{) }\SpecialCharTok{+} 
+      \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{)) }\SpecialCharTok{+} 
+      \FunctionTok{scale\_fill\_viridis\_d}\NormalTok{()}
+    
+    \FunctionTok{ggplotly}\NormalTok{(plot)}
+\NormalTok{  \})}
+  
+\NormalTok{  output}\SpecialCharTok{$}\NormalTok{plotFORLevel4 }\OtherTok{\textless{}{-}} \FunctionTok{renderPlotly}\NormalTok{(\{}
+\NormalTok{    publications\_for\_level4 }\OtherTok{\textless{}{-}}\NormalTok{ publications\_for\_df }\SpecialCharTok{\%\textgreater{}\%} \FunctionTok{filter}\NormalTok{(level }\SpecialCharTok{==} \DecValTok{4}\NormalTok{)}
+\NormalTok{    plot }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(publications\_for\_level4, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =} \FunctionTok{reorder}\NormalTok{(name, }\SpecialCharTok{{-}}\NormalTok{count), }\AttributeTok{y =}\NormalTok{ count, }\AttributeTok{fill =}\NormalTok{ name)) }\SpecialCharTok{+} 
+      \FunctionTok{geom\_bar}\NormalTok{(}\AttributeTok{stat =} \StringTok{"identity"}\NormalTok{) }\SpecialCharTok{+} 
+      \FunctionTok{labs}\NormalTok{(}\AttributeTok{title =} \StringTok{"Research Output in FOR Level 4 Fields"}\NormalTok{, }\AttributeTok{x =} \StringTok{"Field of Research"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Number of Publications"}\NormalTok{) }\SpecialCharTok{+} 
+      \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{)) }\SpecialCharTok{+} 
+      \FunctionTok{scale\_fill\_viridis\_d}\NormalTok{()}
+    
+    \FunctionTok{ggplotly}\NormalTok{(plot)}
+\NormalTok{  \})}
+  
+\NormalTok{  output}\SpecialCharTok{$}\NormalTok{plotSDG }\OtherTok{\textless{}{-}} \FunctionTok{renderPlotly}\NormalTok{(\{}
+\NormalTok{    sdg\_summary }\OtherTok{\textless{}{-}}\NormalTok{ publications\_sdg\_df }\SpecialCharTok{\%\textgreater{}\%} 
+      \FunctionTok{arrange}\NormalTok{(}\FunctionTok{desc}\NormalTok{(count))}
+    
+\NormalTok{    plot }\OtherTok{\textless{}{-}} \FunctionTok{ggplot}\NormalTok{(sdg\_summary, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =} \FunctionTok{reorder}\NormalTok{(name, }\SpecialCharTok{{-}}\NormalTok{count), }\AttributeTok{y =}\NormalTok{ count, }\AttributeTok{fill =}\NormalTok{ name)) }\SpecialCharTok{+} 
+      \FunctionTok{geom\_bar}\NormalTok{(}\AttributeTok{stat =} \StringTok{"identity"}\NormalTok{) }\SpecialCharTok{+} 
+      \FunctionTok{labs}\NormalTok{(}\AttributeTok{title =} \StringTok{"Overall Contribution to Sustainable Development Goals"}\NormalTok{, }\AttributeTok{x =} \StringTok{"SDG"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Number of Publications"}\NormalTok{) }\SpecialCharTok{+} 
+      \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{)) }\SpecialCharTok{+} 
+      \FunctionTok{scale\_fill\_viridis\_d}\NormalTok{()}
+    
+    \FunctionTok{ggplotly}\NormalTok{(plot)}
+\NormalTok{  \})}
+  
+\NormalTok{  output}\SpecialCharTok{$}\NormalTok{tableSDG }\OtherTok{\textless{}{-}}\NormalTok{ DT}\SpecialCharTok{::}\FunctionTok{renderDataTable}\NormalTok{(\{}
+\NormalTok{    sdg\_summary }\OtherTok{\textless{}{-}}\NormalTok{ publications\_sdg\_df }\SpecialCharTok{\%\textgreater{}\%} 
+      \FunctionTok{arrange}\NormalTok{(}\FunctionTok{desc}\NormalTok{(count))}
+\NormalTok{    DT}\SpecialCharTok{::}\FunctionTok{datatable}\NormalTok{(sdg\_summary)}
+\NormalTok{  \})}
+  
+\NormalTok{  output}\SpecialCharTok{$}\NormalTok{tableBenchmark }\OtherTok{\textless{}{-}}\NormalTok{ DT}\SpecialCharTok{::}\FunctionTok{renderDataTable}\NormalTok{(\{}
+\NormalTok{    selected\_universities }\OtherTok{\textless{}{-}}\NormalTok{ input}\SpecialCharTok{$}\NormalTok{selectedUniversities}
+    
+\NormalTok{    comparison\_df }\OtherTok{\textless{}{-}}\NormalTok{ total\_citations\_df }\SpecialCharTok{\%\textgreater{}\%} 
+      \FunctionTok{filter}\NormalTok{(name }\SpecialCharTok{\%in\%}\NormalTok{ selected\_universities) }\SpecialCharTok{\%\textgreater{}\%} 
+      \FunctionTok{select}\NormalTok{(name, citations\_total) }\SpecialCharTok{\%\textgreater{}\%} 
+      \FunctionTok{left\_join}\NormalTok{(recent\_citations\_df }\SpecialCharTok{\%\textgreater{}\%} \FunctionTok{select}\NormalTok{(name, recent\_citations\_total), }\AttributeTok{by =} \StringTok{"name"}\NormalTok{) }\SpecialCharTok{\%\textgreater{}\%} 
+      \FunctionTok{left\_join}\NormalTok{(altmetric\_median\_df }\SpecialCharTok{\%\textgreater{}\%} \FunctionTok{select}\NormalTok{(name, altmetric\_median), }\AttributeTok{by =} \StringTok{"name"}\NormalTok{) }\SpecialCharTok{\%\textgreater{}\%} 
+      \FunctionTok{left\_join}\NormalTok{(publications\_for\_df }\SpecialCharTok{\%\textgreater{}\%} \FunctionTok{select}\NormalTok{(name, count), }\AttributeTok{by =} \StringTok{"name"}\NormalTok{) }\SpecialCharTok{\%\textgreater{}\%} 
+      \FunctionTok{left\_join}\NormalTok{(publications\_sdg\_df }\SpecialCharTok{\%\textgreater{}\%} \FunctionTok{select}\NormalTok{(name, count), }\AttributeTok{by =} \StringTok{"name"}\NormalTok{)}
+    
+\NormalTok{    DT}\SpecialCharTok{::}\FunctionTok{datatable}\NormalTok{(comparison\_df)}
+\NormalTok{  \})}
+\NormalTok{\}}
+
+\CommentTok{\# Run the application }
+\FunctionTok{shinyApp}\NormalTok{(}\AttributeTok{ui =}\NormalTok{ ui, }\AttributeTok{server =}\NormalTok{ server)}
+\end{Highlighting}
+\end{Shaded}
+
+
+\end{document}
